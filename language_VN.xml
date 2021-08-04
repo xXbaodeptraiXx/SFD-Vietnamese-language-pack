@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="8207b83b-3c6c-4d7c-98f4-ae99831f0f9c" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="f6ffe52e-99f9-4846-a898-d8aee3da76e4" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -220,7 +220,7 @@
    <Text id="menu.hostGame.autoRestartMemory" hash=""></Text>
    <Text id="menu.hostGame.autoRestartMemory.tooltip" hash=""></Text>
    <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Dang cho nguoi choi tham gia</Text>
-   <Text id="menu.lobby" hash=""></Text>
+   <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">SANH DA NGUOI CHOI</Text>
    <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BAT DAU</Text>
    <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">QUAY LAI MENU</Text>
    <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Dang thiet lap Sanh Cho...</Text>
@@ -245,9 +245,9 @@
    <Text id="menu.lobby.playerLeftGame" hash="uM5uYL9ubH8PX6WKx56QZi/XjuM=">&quot;{0}&quot; da roi server</Text>
    <Text id="menu.lobby.playerLeftGame.toHost" hash="xrvMFHYBPJUieZY4VlGX3e4AvcM=">&quot;{0}&quot; da roi server tu {1}</Text>
    <Text id="menu.lobby.player.unknown" hash=""></Text>
-   <Text id="menu.lobby.helpText" hash=""></Text>
-   <Text id="menu.browseGames" hash=""></Text>
-   <Text id="menu.browseGames.filter" hash=""></Text>
+   <Text id="menu.lobby.helpText" hash="XKrK4SDtG7CgkpHA/h+2T9Hz1Hk=">Dung lenh &quot;/help&quot; de xem danh sach cac lenh.</Text>
+   <Text id="menu.browseGames" hash="8pnxBikWXEwxyVkr6/7FC7TbtbY=">DANH SACH SERVER</Text>
+   <Text id="menu.browseGames.filter" hash="197PGqIrAq6Kv5qWhJ7kI+7oOOQ=">Loc</Text>
    <Text id="menu.browseGames.filter.ping" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.50" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.75" hash=""></Text>
@@ -255,40 +255,40 @@
    <Text id="menu.browseGames.filter.ping.150" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.200" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.300" hash=""></Text>
-   <Text id="menu.browseGames.filter.ping.all" hash=""></Text>
-   <Text id="menu.browseGames.filter.hasPlayers" hash=""></Text>
-   <Text id="menu.browseGames.filter.notFull" hash=""></Text>
-   <Text id="menu.browseGames.filter.noPassword" hash=""></Text>
+   <Text id="menu.browseGames.filter.ping.all" hash="anIIVlPkxb6MdkDIaO94fLzwY9E=">Tat Ca</Text>
+   <Text id="menu.browseGames.filter.hasPlayers" hash="VGoKnHSjWxDs6scOAJJquPsZsUk=">CO NGUOI CHOI</Text>
+   <Text id="menu.browseGames.filter.notFull" hash="YZDe9fl+o6wYZvyF6l6p6Oqtcrc=">CHUA DAY</Text>
+   <Text id="menu.browseGames.filter.noPassword" hash="6y07gCD3hWLdahYlyrzjzFVMs3I=">KHONG CO MAT KHAU</Text>
    <Text id="menu.browseGames.findResult" hash="IwJe3btFcXQN5DdDA4USKRosRRk=">Da tim thay {0} server</Text>
    <Text id="menu.browseGames.showAndFilterResult" hash=""></Text>
-   <Text id="menu.browseGames.header.name" hash=""></Text>
-   <Text id="menu.browseGames.header.players" hash=""></Text>
-   <Text id="menu.browseGames.header.mode" hash=""></Text>
+   <Text id="menu.browseGames.header.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Ten</Text>
+   <Text id="menu.browseGames.header.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Nguoi Choi</Text>
+   <Text id="menu.browseGames.header.mode" hash="p7k9ISjoIPhh/I38zZ9VIeia0h8=">Che do choi</Text>
    <Text id="menu.browseGames.header.map" hash=""></Text>
    <Text id="menu.browseGames.header.ping" hash=""></Text>
    <Text id="menu.browseGames.joinPanel.playersTooltip" hash="InG/pZAulXg8G/e1P2cipha5IyI=">{0} nguoi choi, {1} bot</Text>
    <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash=""></Text>
-   <Text id="menu.keybinding.noKey" hash=""></Text>
+   <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Khong co nut</Text>
    <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhan nut -</Text>
    <Text id="menu.keybinding.pressEscToUnbind" hash=""></Text>
-   <Text id="menu.mainMenu.loggedInAs" hash=""></Text>
-   <Text id="menu.mainMenu.onlineAs" hash=""></Text>
-   <Text id="menu.mainMenu.offline" hash=""></Text>
-   <Text id="menu.mainMenu.tutorialPrompt" hash=""></Text>
-   <Text id="menu.status.playerXJoined" hash=""></Text>
-   <Text id="menu.status.playerXLeft" hash=""></Text>
-   <Text id="menu.status.playerPressAttackToJoin" hash=""></Text>
-   <Text id="menu.challengesPanel" hash=""></Text>
-   <Text id="menu.challengesPanel.tier" hash=""></Text>
-   <Text id="menu.challengesPanel.tier.value" hash=""></Text>
-   <Text id="menu.challengesPanel.tier.mixedauthors" hash=""></Text>
+   <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Da dang nhap duoi ten</Text>
+   <Text id="menu.mainMenu.onlineAs" hash="Vqpl0M/rOnGD+CCkDak1xlIgAkM=">Truc tuyen duoi ten</Text>
+   <Text id="menu.mainMenu.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoai tuyen</Text>
+   <Text id="menu.mainMenu.tutorialPrompt" hash="1/jgbIVBhWFuWtYeVrm3df9O2T0=">Moi choi lan dau? Vao day!</Text>
+   <Text id="menu.status.playerXJoined" hash="vJKKobWdvzVq700D3dw5FpRWr8Y=">Nguoi choi thu {0} da tham gia</Text>
+   <Text id="menu.status.playerXLeft" hash="slJ22EYGfa1VMG3YSmZcteeVt0I=">Nguoi choi thu {0} da roi di</Text>
+   <Text id="menu.status.playerPressAttackToJoin" hash="egbPyabopFCGkRABoTCYhCPWYA8=">Nhan DANH de tham gia</Text>
+   <Text id="menu.challengesPanel" hash="/zh2X7E++u9zhhWkikOfGaXNg6k=">Thu Thach</Text>
+   <Text id="menu.challengesPanel.tier" hash="W9ROvmPNO5RFynWflwUT14sophw=">Cap Bac</Text>
+   <Text id="menu.challengesPanel.tier.value" hash="MNzYyrCw9ks6HdvUWEqz/bT2wx8=">Cap Bac {0}</Text>
+   <Text id="menu.challengesPanel.tier.mixedauthors" hash="pUWZxg7y/ONx5S+3thUGrByX++o=">Khac {Nhieu tac gia}</Text>
    <Text id="menu.challengesPanel.tier.byauthor" hash=""></Text>
    <Text id="menu.challengesPanel.itemunlocked" hash=""></Text>
-   <Text id="menu.challengesPanel.solochallengecompleted" hash=""></Text>
-   <Text id="menu.challengesPanel.coopchallengecompleted" hash=""></Text>
+   <Text id="menu.challengesPanel.solochallengecompleted" hash="KpyIjbaNRHv9pvC16ewVmbohAMw=">Da hoan thanh thu thach!</Text>
+   <Text id="menu.challengesPanel.coopchallengecompleted" hash="ME9YKzEBjIRSqQazGTsbKABR2lk=">Da hoan thanh thu thach! Choi moit minh de nhan huy chuong vang.</Text>
    <Text id="menu.challengesPanel.tooltip.tier" hash=""></Text>
-   <Text id="menu.challengesPanel.tooltip.solomedal" hash=""></Text>
-   <Text id="menu.challengesPanel.tooltip.coopmedal" hash=""></Text>
+   <Text id="menu.challengesPanel.tooltip.solomedal" hash="7OMIuyDe9XRy1+ADTwdXevIGZGo=">Da nhan huy chuong vang!</Text>
+   <Text id="menu.challengesPanel.tooltip.coopmedal" hash="OuEkJPyELNk6TjpXlGM1xo7RtlQ=">Da nhan duoc huy chuong bac khi choi o che do phoi hop. Choi mot minh de lay huy chuong vang!</Text>
    <Text id="menu.challengesPanel.progress" hash="">Da hoan thanh {0}%</Text>
    <Text id="dedicatedserver.tab.chat" hash=""></Text>
    <Text id="dedicatedserver.tab.hostOptions" hash=""></Text>
@@ -369,9 +369,9 @@
    <Text id="dedicatedserver.info.offline" hash=""></Text>
    <Text id="dedicatedserver.tray.menu.show" hash=""></Text>
    <Text id="dedicatedserver.tray.message.activeInBackground" hash=""></Text>
-   <Text id="menu.escMenu.exitToMenu" hash=""></Text>
+   <Text id="menu.escMenu.exitToMenu" hash="l2ys31gcnrFLRKtPJponrXzWlgE=">Quay lai menu chinh</Text>
    <Text id="menu.escMenu.exitToMenu.confirm" hash=""></Text>
-   <Text id="menu.gameplayTipHeading" hash=""></Text>
+   <Text id="menu.gameplayTipHeading" hash="NMApRQcoB9bfZEmEZ6Ygb3aoTSk=">MEO</Text>
    <Text id="menu.gameplayTip1" hash=""></Text>
    <Text id="menu.gameplayTip2" hash=""></Text>
    <Text id="menu.gameplayTip3" hash=""></Text>
@@ -409,24 +409,24 @@
    <Text id="menu.gameplayTip35" hash=""></Text>
    <Text id="menu.gameplayTip36" hash=""></Text>
    <Text id="menu.gameplayTip37" hash=""></Text>
-   <Text id="statusText.getReady" hash=""></Text>
+   <Text id="statusText.getReady" hash="BoeWFumBb6F4Yw3bNzCYaXnybKo=">CHUAN BI...</Text>
    <Text id="statusText.wave" hash=""></Text>
-   <Text id="statusText.fight" hash=""></Text>
+   <Text id="statusText.fight" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">CHIEN DAU!</Text>
    <Text id="statusText.victory" hash="O2K05+8LmpFahaxxam8XlyZSxig=">CHIEN THANG!</Text>
    <Text id="statusText.defeat" hash=""></Text>
    <Text id="statusText.draw" hash=""></Text>
-   <Text id="statusText.nobody" hash=""></Text>
+   <Text id="statusText.nobody" hash="NsABYUZtxyWDSpeH/A8YSXNh8KY=">KHONG AI</Text>
    <Text id="statusText.wins" hash="s/K14DlT/T2cxZwIETzVb6D4Oxk=">THANG!</Text>
-   <Text id="statusText.timesup" hash=""></Text>
-   <Text id="statusText.mapVoteToContinue" hash=""></Text>
-   <Text id="statusText.autoVoteTimer" hash=""></Text>
-   <Text id="statusText.voteToContinue" hash=""></Text>
+   <Text id="statusText.timesup" hash="dEHmhuibQIWO9PlkEqgGGboxWa4=">HET GIO!</Text>
+   <Text id="statusText.mapVoteToContinue" hash="l09R0LAzuy8QmN+WioMQ0/2nvPs=">TIEP TUC SAU KHI CHON MAP</Text>
+   <Text id="statusText.autoVoteTimer" hash="8BuiK0HNU0aR0n7wtl5BOIPQ3JE=">TU DONG TIEP TUC SAU [{0}]</Text>
+   <Text id="statusText.voteToContinue" hash="lhzVJSeXcGe7ecR1Q7M7qHUlfnQ=">NHAN [KEY=K_VOTE_NEXT_ROUND] KHI DA SAN SANG</Text>
    <Text id="statusText.youAreDead" hash="J5cUDFFvkcloFUsag1CupYHWk+M=">BAN DA CHET</Text>
-   <Text id="statusText.spectating" hash=""></Text>
+   <Text id="statusText.spectating" hash="qTkQxByEG3hEHIxwYaB8qKaY3D8=">DANG THEO DOI TRAN DAU</Text>
    <Text id="statusText.wavegameover" hash=""></Text>
    <Text id="statusText.survivalfinalscore" hash=""></Text>
    <Text id="statusText.survivalendscore" hash=""></Text>
-   <Text id="statusText.hud.dead" hash=""></Text>
+   <Text id="statusText.hud.dead" hash="4QwGAIPFhCD9UNV49NlG4kmx8kI=">-DA CHET-</Text>
    <Text id="statusText.nextMap" hash=""></Text>
    <Text id="statusText.nextMapPart" hash=""></Text>
    <Text id="game.survival.wavecomplete" hash=""></Text>
@@ -435,34 +435,34 @@
    <Text id="game.survival.liferemains.many" hash=""></Text>
    <Text id="game.survival.noplayingusers" hash=""></Text>
    <Text id="game.warning.nobotpathgrid" hash="WMOXsx2BjYzc/6gyCZ4A9XQVb6A=">Canh Bao: Bot khong the di chuyen vi map nay thieu chi dan duong di cho bot.</Text>
-   <Text id="team.independent" hash=""></Text>
-   <Text id="team.1" hash=""></Text>
-   <Text id="team.2" hash=""></Text>
-   <Text id="team.3" hash=""></Text>
-   <Text id="team.4" hash=""></Text>
+   <Text id="team.independent" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Rieng Le</Text>
+   <Text id="team.1" hash="WeBFib52t/XNjaoGDDtxYiOwJV0=">Doi 1</Text>
+   <Text id="team.2" hash="YK/0A1vKB+RJNR6w8CFB/q353NU=">Doi 2</Text>
+   <Text id="team.3" hash="pCFhQzti8NqmGjlUqz0nOSK/zns=">Doi 3</Text>
+   <Text id="team.4" hash="vqThU/N7I+16iuYh/kv0s+EkrKE=">Doi 4</Text>
    <Text id="team.1.color" hash="fUS8RJwqJjdIAKUD8Q89iUlQX0A=">Xanh Duong</Text>
-   <Text id="team.2.color" hash=""></Text>
-   <Text id="team.3.color" hash=""></Text>
+   <Text id="team.2.color" hash="zJ2zp5VXHH5x9FZwodp/9JtfFVc=">Do</Text>
+   <Text id="team.3.color" hash="kzvyGv3VWg0ig4Rf7Q57vdH120k=">Xanh</Text>
    <Text id="team.4.color" hash="NSb2B7zU9RrQvAX4FFeaQsLAulc=">Vang</Text>
-   <Text id="loading" hash=""></Text>
-   <Text id="loading.content" hash=""></Text>
-   <Text id="loading.mapeditor" hash=""></Text>
-   <Text id="loading.mapeditor.creatingListImages" hash=""></Text>
-   <Text id="loading.game" hash=""></Text>
-   <Text id="loading.menu" hash=""></Text>
-   <Text id="loading.map" hash=""></Text>
-   <Text id="loading.maps" hash=""></Text>
-   <Text id="loading.tutorial" hash=""></Text>
-   <Text id="loading.challenge" hash=""></Text>
-   <Text id="loading.settings" hash=""></Text>
+   <Text id="loading" hash="sEukn4SGJLuXqwlKJjHSrXSRNJg=">Dang Tai...</Text>
+   <Text id="loading.content" hash="14hNFC7eLwa7hWhXl0Wbopa5jas=">Dang Tai Noi Dung...</Text>
+   <Text id="loading.mapeditor" hash="HvMYyqCUz2Ws5wQWMYSblPfZ3wU=">Dang Tai Noi Dung Trinh Chinh Sua Map...</Text>
+   <Text id="loading.mapeditor.creatingListImages" hash="qYwEbAdi+UyKbfg7OlKOsMfTkII=">Dang Tao Danh Sach Hinh Anh...</Text>
+   <Text id="loading.game" hash="Tk3G2a1MNTxduVig+XSM66Ux+ts=">Dang Tai Tro Choi...</Text>
+   <Text id="loading.menu" hash="3lvP56fEy0cMSss0sY/kB3/Q6bk=">Dang Tai Menu...</Text>
+   <Text id="loading.map" hash="BSC7ywA0rjDF2+tu5EAb9x9tit4=">Dang Tai Map...</Text>
+   <Text id="loading.maps" hash="vTcV98O/lc1udeF4uQFO+codIPA=">Dang Tai Map...</Text>
+   <Text id="loading.tutorial" hash="OWRPzmlnEeUCGNA0jzBcxPn9Jj8=">Dang Tai Map Huong Dan...</Text>
+   <Text id="loading.challenge" hash="Dp5HNb3AhXpNvmJM3l/+7Ca1XBY=">Dang Tai Thu Thach...</Text>
+   <Text id="loading.settings" hash="HHMR2FXtIFNkr/j6QeB7bt9r1SA=">Dang Tai Cai Dat...</Text>
    <Text id="loading.userlists" hash=""></Text>
    <Text id="loading.animations" hash=""></Text>
    <Text id="loading.textures" hash=""></Text>
    <Text id="loading.controls" hash=""></Text>
-   <Text id="loading.chat" hash=""></Text>
-   <Text id="loading.colors" hash=""></Text>
-   <Text id="loading.equipment" hash=""></Text>
-   <Text id="loading.effects" hash=""></Text>
+   <Text id="loading.chat" hash="7FpoHtRU39TuuK1y3CmIHF+E4WQ=">Dang Tai Chat...</Text>
+   <Text id="loading.colors" hash="Im2CAllDL+vMjv/KE9Oj6eb4UEY=">Dang Tai Mau...</Text>
+   <Text id="loading.equipment" hash="lIvkyGmbc6dxQnMV/kGcRidU5ao=">Dang Tai Thiet Bi...</Text>
+   <Text id="loading.effects" hash="er7lg3UPOPKakz4tZFq/jg6L9hU=">Dang Tai Hieu Ung...</Text>
    <Text id="loading.collisiongroups" hash=""></Text>
    <Text id="loading.projectiles" hash=""></Text>
    <Text id="loading.materials" hash=""></Text>
@@ -470,10 +470,10 @@
    <Text id="loading.tiles" hash=""></Text>
    <Text id="loading.sounds" hash=""></Text>
    <Text id="loading.profile" hash=""></Text>
-   <Text id="loading.finalizing" hash=""></Text>
+   <Text id="loading.finalizing" hash="gd+/mRKNMt4portngsTssbzEZ/s=">Dang Hoan Tat...</Text>
    <Text id="loading.canceled" hash=""></Text>
-   <Text id="general.color" hash=""></Text>
-   <Text id="general.colors" hash=""></Text>
+   <Text id="general.color" hash="HQyDBLrtz446eJgsLnwLBGIr8qA=">Mau</Text>
+   <Text id="general.colors" hash="iNXkysEE/8PwLdVPLw8QdP0z/Zs=">Mau</Text>
    <Text id="general.primary" hash=""></Text>
    <Text id="general.secondary" hash=""></Text>
    <Text id="general.tertiary" hash=""></Text>
@@ -481,34 +481,34 @@
    <Text id="general.help" hash=""></Text>
    <Text id="general.text" hash=""></Text>
    <Text id="general.scale" hash=""></Text>
-   <Text id="general.left" hash=""></Text>
-   <Text id="general.right" hash=""></Text>
+   <Text id="general.left" hash="iuHDS9N/rUnMX44C2mSKeOicPtg=">Trai</Text>
+   <Text id="general.right" hash="lU2qiwAzXGbiYhBuAffcIrGaQ3I=">Phai</Text>
    <Text id="general.playerX" hash=""></Text>
-   <Text id="general.misc" hash=""></Text>
-   <Text id="general.on" hash=""></Text>
-   <Text id="general.off" hash=""></Text>
-   <Text id="general.none" hash=""></Text>
-   <Text id="general.low" hash=""></Text>
-   <Text id="general.high" hash=""></Text>
+   <Text id="general.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Hon Tap</Text>
+   <Text id="general.on" hash="4ASaZlGcrnEVmAC7d6NQB7wtdtM=">Bat</Text>
+   <Text id="general.off" hash="495asMpMadvwDobSVYhD6NgGu0k=">Tat</Text>
+   <Text id="general.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Khong</Text>
+   <Text id="general.low" hash="oSSUfL0tHZK0fgJydMMmn/DHqEs=">Thap</Text>
+   <Text id="general.high" hash="saWVSkg/j4sCBzhQlfdK60CbP4A=">Cao</Text>
    <Text id="general.map" hash=""></Text>
    <Text id="general.yes" hash="U5fgWD8U9siN4Gse8o9GCh+1sK4=">Co</Text>
-   <Text id="general.no" hash=""></Text>
+   <Text id="general.no" hash="gWxS/SvdlKY80JRII6bAqpOEwQM=">Khong</Text>
    <Text id="general.ready" hash=""></Text>
-   <Text id="general.empty" hash=""></Text>
-   <Text id="general.spectator" hash=""></Text>
+   <Text id="general.empty" hash="MVn+QhsyITgbPHeNwcPCbkVAvjc=">Trong</Text>
+   <Text id="general.spectator" hash="TpIPqJcRcr3BySdEsTUs4YyA46A=">Nguoi Theo Doi Tran Dau</Text>
    <Text id="general.user" hash="n4ojiaIMoHUqqelQk1FVF+kOGUw=">Nguoi Dung</Text>
    <Text id="general.bot" hash=""></Text>
-   <Text id="general.enable" hash=""></Text>
-   <Text id="general.disable" hash=""></Text>
+   <Text id="general.enable" hash="IAY62QUyic7KogrmMO0t11goKgc=">Bat</Text>
+   <Text id="general.disable" hash="mn1OBoexTit82kBpALgCeCzVCmI=">Tat</Text>
    <Text id="general.appearance" hash=""></Text>
    <Text id="general.preview" hash=""></Text>
-   <Text id="general.information" hash=""></Text>
+   <Text id="general.information" hash="DrXtUG5JI8KNf0qKpp7+mbOtddE=">Thong Tin</Text>
    <Text id="general.message" hash=""></Text>
    <Text id="general.time.minute" hash=""></Text>
    <Text id="general.time.second" hash=""></Text>
-   <Text id="general.gender" hash=""></Text>
-   <Text id="general.gender.male" hash=""></Text>
-   <Text id="general.gender.female" hash=""></Text>
+   <Text id="general.gender" hash="inVMYcLO0MX/eaGCfgLJ1kPW2SY=">Gioi Tinh</Text>
+   <Text id="general.gender.male" hash="PzpInHLeqADqe2M4yJk4dm1BpuU=">Nam</Text>
+   <Text id="general.gender.female" hash="t8F+l9PWJWlLg22FrObtwYu+8OY=">Nu</Text>
    <Text id="general.NA" hash=""></Text>
    <Text id="general.anonymous" hash=""></Text>
    <Text id="general.unnamed" hash="mxFcmbHa521O1mCRsd0o6TN975s=">Chua dat ten</Text>
