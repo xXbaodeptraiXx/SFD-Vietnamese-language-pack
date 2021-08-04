@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="d04e9a32-801b-4138-9b7e-9c0a02518bdb" publishId="" oh="" description="">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="8207b83b-3c6c-4d7c-98f4-ae99831f0f9c" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -64,10 +64,10 @@
    <Text id="menu.settings.resolution" hash="Y34xM+quu9YACAngfRl/6+ySXEk=">DO PHAN GIAI</Text>
    <Text id="menu.settings.hostPort" hash="EkplxLaSGOGcPDp5ZNl3Xcaxjj0=">CONG</Text>
    <Text id="menu.settings.hostPort.tooltip" hash="3FbkLCyOD3E2E7U6FQNTu21MQcg=">Cong mang dung khi tao hoac tham gia server. UDP va TCP phai duoc bat de mo cong mang. Nen dung cong mac dinh (52233).</Text>
-   <Text id="menu.settings.fullscreen" hash="PG6sPYC77N57INPHDu4ygTnMqEM=">TOAN MAN HINH</Text>
+   <Text id="menu.settings.fullscreen" hash="PG6sPYC77N57INPHDu4ygTnMqEM=">CHE DO CUA SO</Text>
    <Text id="menu.settings.fullscreen.exclusive" hash="uwjRCwCmEU9TrAO2Ys1cD6L63yw=">Toan man hinh</Text>
-   <Text id="menu.settings.fullscreen.borderless" hash="Fd9O4cYPFxSrB+XF8rS9ANJmBCI=">Cua so (khong vien)</Text>
-   <Text id="menu.settings.fullscreen.window" hash="Qd/ApsknB5SFeIkcUdmMZEO+Y8w=">Cua so</Text>
+   <Text id="menu.settings.fullscreen.borderless" hash="Fd9O4cYPFxSrB+XF8rS9ANJmBCI=">Cua So (khong vien)</Text>
+   <Text id="menu.settings.fullscreen.window" hash="Qd/ApsknB5SFeIkcUdmMZEO+Y8w=">Cua So</Text>
    <Text id="menu.settings.enableWeather" hash="5l7I8a07bD00xROZOydYBx8jyaA=">HIEU UNG THOI TIET</Text>
    <Text id="menu.settings.enableFarBG" hash="gGuBMrvXkDOrqW3JLOnbYF8BbMw=">NEN XA</Text>
    <Text id="menu.settings.teamDisplayMode" hash="1fsL/krsJ8H40UuCXvyz66rh/uE=">CHE DO HIEN THI DOI</Text>
@@ -99,7 +99,7 @@
    <Text id="menu.settings.group.sound" hash="tOPv66EOhPcUjan37+heBwV9fHo=">Am Thanh</Text>
    <Text id="menu.settings.group.network" hash="U+vFcrSkSAK6EUcp8Hvar1QJqdc=">Mang</Text>
    <Text id="menu.settings.group.controls" hash="vudcp391PkhGtFVEFzP2ZBxL8oc=">Dieu Khien</Text>
-   <Text id="menu.settings.group.misc" hash=""></Text>
+   <Text id="menu.settings.group.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Hon Tap</Text>
    <Text id="menu.settings.confirmcancel" hash="9GWwXkvdaOp9si/uTn8m8xpLK/w=">Ban co muon huy bo nhung thay doi vua roi?</Text>
    <Text id="menu.customize" hash="epaOQIELmFJxfl4BRM6yQKQHpPA=">TUY CHINH CHIEN BINH</Text>
    <Text id="menu.customize.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">TEN</Text>
@@ -143,9 +143,9 @@
    <Text id="menu.hostGame.publicGame" hash="9yonSiNOmsYqwdTWSzayNbHca64=">Server </Text>
    <Text id="menu.hostGame.publicGame.tooltip" hash="0HNNIrL/6NlIv4uy7kct3SCfdr0=">Makes your game visible in the game browser. Otherwise, connect-to-IP must be used.</Text>
    <Text id="menu.hostGame.gamePublicity" hash="xZpRINgrCgYIC/ZCT5dOLFb+U8Y=">THE LOAI GAME</Text>
-   <Text id="menu.hostGame.gamePublicity.public" hash=""></Text>
+   <Text id="menu.hostGame.gamePublicity.public" hash="3F63BLvK4a/077ccVUYdR3Z9q+c=">Cong Khai</Text>
    <Text id="menu.hostGame.gamePublicity.private" hash="I336CiHI4Xpyds8WHu9+D7oGfEc=">Rieng Tu</Text>
-   <Text id="menu.hostGame.gamePublicity.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Offline</Text>
+   <Text id="menu.hostGame.gamePublicity.offline" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.public.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.private.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.offline.tooltip" hash=""></Text>
@@ -172,10 +172,10 @@
    <Text id="menu.hostGame.localMultiplayerPermissions.3plusOfflineRequired" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.none" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationActive.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Khong</Text>
    <Text id="menu.hostGame.mapRotationActive.vote" hash="ZPhykUGGfT8mNEJAZ9OBE6zHD4M=">Chon map</Text>
    <Text id="menu.hostGame.mapRotationActive.sequential" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.random" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationActive.random" hash="WNiIwIqlYfNw44zul2EhUyqIPXE=">Ngau Nhien</Text>
    <Text id="menu.hostGame.mapRotationActive.none.tooltip" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.vote.tooltip" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.sequential.tooltip" hash=""></Text>
@@ -198,15 +198,15 @@
    <Text id="menu.hostGame.shuffleTeamsInterval.tooltip" hash=""></Text>
    <Text id="menu.hostGame.timeLimitActive" hash=""></Text>
    <Text id="menu.hostGame.timeLimitActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.timeLimit" hash=""></Text>
+   <Text id="menu.hostGame.timeLimit" hash="NmXKxGFfilNlLbKDua9Uk4B0syU=">GIOI HAN THOI GIAN</Text>
    <Text id="menu.hostGame.timeLimit.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.kickAFKActive" hash=""></Text>
+   <Text id="menu.hostGame.kickAFKActive" hash="HmfkCpn8oACtWqCIhi+ILrBw2eo=">KICK AFK</Text>
    <Text id="menu.hostGame.kickAFKActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.kickAFKTime" hash=""></Text>
+   <Text id="menu.hostGame.kickAFKTime" hash="f+rr4YoLVZHs2cxT0lumk/O+TjA=">THOI GIAN AFK TOI DA</Text>
    <Text id="menu.hostGame.kickAFKTime.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.maxPingActive" hash=""></Text>
+   <Text id="menu.hostGame.maxPingActive" hash="1PTUug9B5EZdruX29PMJB8jnDBw=">GIOI HAN PING</Text>
    <Text id="menu.hostGame.maxPingActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.maxPingValue" hash=""></Text>
+   <Text id="menu.hostGame.maxPingValue" hash="tR6u+j+8cf8tmYMcBXM157i0Dk4=">GIOI HAN PING</Text>
    <Text id="menu.hostGame.maxPingValue.tooltip" hash=""></Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingActive" hash=""></Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingActive.tooltip" hash=""></Text>
@@ -219,10 +219,10 @@
    <Text id="menu.hostGame.autoRestartTime.tooltip" hash=""></Text>
    <Text id="menu.hostGame.autoRestartMemory" hash=""></Text>
    <Text id="menu.hostGame.autoRestartMemory.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.waitingForPlayersToJoin" hash=""></Text>
+   <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Dang cho nguoi choi tham gia</Text>
    <Text id="menu.lobby" hash=""></Text>
    <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BAT DAU</Text>
-   <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">QUAY XE</Text>
+   <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">QUAY LAI MENU</Text>
    <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Dang thiet lap Sanh Cho...</Text>
    <Text id="menu.lobby.connectingToLobby" hash="I/rxoF7Amn8z0iSGImViCMccl7A=">Dang Ket Noi Sanh Cho...</Text>
    <Text id="menu.lobby.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Dang Ket Noi</Text>
