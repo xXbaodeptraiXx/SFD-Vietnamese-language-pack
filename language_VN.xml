@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="VN" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="e48395a5-3d8d-41b9-a034-4571910711eb" publishId="" oh="" description="">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="4d5818c9-8b93-47cc-8080-80de1d14525d" publishId="" oh="" description="">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
