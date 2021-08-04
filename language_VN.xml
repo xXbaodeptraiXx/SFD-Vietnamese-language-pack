@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="8ea9aa18-faf9-4775-822d-f8979e591c36" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="84efb6bb-4934-4fdb-a99a-78aae9c3e01f" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -100,7 +100,7 @@
    <Text id="menu.settings.group.network" hash="U+vFcrSkSAK6EUcp8Hvar1QJqdc=">Mang</Text>
    <Text id="menu.settings.group.controls" hash="vudcp391PkhGtFVEFzP2ZBxL8oc=">Dieu Khien</Text>
    <Text id="menu.settings.group.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Hon Tap</Text>
-   <Text id="menu.settings.confirmcancel" hash="9GWwXkvdaOp9si/uTn8m8xpLK/w=">Ban co muon huy bo nhung thay doi vua roi?</Text>
+   <Text id="menu.settings.confirmcancel" hash="9GWwXkvdaOp9si/uTn8m8xpLK/w=">Huy bo thay doi?</Text>
    <Text id="menu.customize" hash="epaOQIELmFJxfl4BRM6yQKQHpPA=">TUY CHINH CHIEN BINH</Text>
    <Text id="menu.customize.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">TEN</Text>
    <Text id="menu.customize.profileSaved" hash="q1yu+kjW4842JnbJ6AzRGbbFaec=">Da luu ho so!</Text>
@@ -112,10 +112,10 @@
    <Text id="menu.connecting.portForwarding.OK" hash="QmZ4vtBkIFmKilRM2iQ+itA38jU=">Cong mang OK</Text>
    <Text id="menu.connecting.portForwarding.failed" hash=""></Text>
    <Text id="menu.connecting.portForwarding.failed.clientconnecting" hash="cg/oHJiTNckPvi03VrbAr7AaRxE=">Khong the mo cong mang</Text>
-   <Text id="menu.connecting.progress" hash=""></Text>
-   <Text id="menu.connecting.contactingserverinfo" hash=""></Text>
+   <Text id="menu.connecting.progress" hash="3Kn29/hZLwKikMP0DB1yipdYZGo=">Dang ket noi ({0})</Text>
+   <Text id="menu.connecting.contactingserverinfo" hash="R+CPtBFdfKX98bCTrx6ClpazJ70=">Co the mat den 10 giay.</Text>
    <Text id="menu.hostGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TAO SERVER</Text>
-   <Text id="menu.hostGame.group.game" hash="4+goRsMlZ4EWFTePMCQBhYceCOU=">Game</Text>
+   <Text id="menu.hostGame.group.game" hash=""></Text>
    <Text id="menu.hostGame.group.serverStatus" hash="uDAYl1ksITZZZAgyJmW5s4nfUmA=">Trang Thai Server</Text>
    <Text id="menu.hostGame.group.cleanup" hash="kDqrsiNMjmqmMemfmd0c6dmTcvo=">Player cleanup</Text>
    <Text id="menu.hostGame.group.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
@@ -158,17 +158,17 @@
    <Text id="menu.hostGame.dropInOrder.tooltip" hash=""></Text>
    <Text id="menu.hostGame.accountValidation" hash=""></Text>
    <Text id="menu.hostGame.accountValidation.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.accountValidation.disabled" hash=""></Text>
+   <Text id="menu.hostGame.accountValidation.disabled" hash="9PRHPfjLWfCjaa6+49FQmtwBUcY=">Tat</Text>
    <Text id="menu.hostGame.accountValidation.showifavailable" hash=""></Text>
    <Text id="menu.hostGame.accountValidation.requireaccount" hash=""></Text>
    <Text id="menu.hostGame.allowDropIn" hash=""></Text>
    <Text id="menu.hostGame.allowDropIn.tooltip" hash=""></Text>
    <Text id="menu.hostGame.evenTeams" hash=""></Text>
    <Text id="menu.hostGame.evenTeams.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.createGame" hash=""></Text>
-   <Text id="menu.hostGame.showAdvancedSettings" hash=""></Text>
-   <Text id="menu.hostGame.hideAdvancedSettings" hash=""></Text>
-   <Text id="menu.hostGame.updateGame" hash=""></Text>
+   <Text id="menu.hostGame.createGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TAO SERVER</Text>
+   <Text id="menu.hostGame.showAdvancedSettings" hash="nEv4IO0nwZbKfOxvhGWPBPnNm/o=">HIEN THI TUY CHON NANG CAO</Text>
+   <Text id="menu.hostGame.hideAdvancedSettings" hash="0yIP36I3UpAlZKlK8ktN1EUh5LQ=">AN TUY CHON NANG CAO</Text>
+   <Text id="menu.hostGame.updateGame" hash="6/ZhuG2rAH+tNn6NcB/bbp/hV2Y=">CAP NHAT CAI DAT SERVER</Text>
    <Text id="menu.hostGame.localMultiplayerPermissions.3plusOfflineRequired" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.tooltip" hash=""></Text>
@@ -191,7 +191,7 @@
    <Text id="menu.hostGame.mapRotationMapsCategory.allsurvival" hash="rAKfaL9zHR+GjV+5KZC1sK6ZVg4=">Sinh Ton (Tat Ca)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.allcampaign" hash="nw4+6IGqGlV6ADHBavaTOESj5rM=">Cot Truyen (Tat Ca)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.allother" hash="bmpvIIa7X+Xb/RfY1fUC1IdZg0s=">Khac</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">TAT CA CAC MAP</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">Tat Ca Map</Text>
    <Text id="menu.hostGame.shuffleTeamsActive" hash=""></Text>
    <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash=""></Text>
    <Text id="menu.hostGame.shuffleTeamsInterval" hash=""></Text>
@@ -199,15 +199,15 @@
    <Text id="menu.hostGame.timeLimitActive" hash=""></Text>
    <Text id="menu.hostGame.timeLimitActive.tooltip" hash=""></Text>
    <Text id="menu.hostGame.timeLimit" hash="NmXKxGFfilNlLbKDua9Uk4B0syU=">GIOI HAN THOI GIAN</Text>
-   <Text id="menu.hostGame.timeLimit.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.timeLimit.tooltip" hash="UnOcrm4HiLbiy6QKoNXTKbDVGB8=">Gioi han thoi gian cho moi tran dau.</Text>
    <Text id="menu.hostGame.kickAFKActive" hash="HmfkCpn8oACtWqCIhi+ILrBw2eo=">KICK AFK</Text>
-   <Text id="menu.hostGame.kickAFKActive.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.kickAFKActive.tooltip" hash="FwSGhHG1SV1Q7Sx4Qmf6TYsR9F4=">Kick nhung nguoi choi afk qua lau.</Text>
    <Text id="menu.hostGame.kickAFKTime" hash="f+rr4YoLVZHs2cxT0lumk/O+TjA=">THOI GIAN AFK TOI DA</Text>
-   <Text id="menu.hostGame.kickAFKTime.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.kickAFKTime.tooltip" hash="J5ruiXv0YrniuLgzZESSApo1Cac=">Thoi gian afk toi da.</Text>
    <Text id="menu.hostGame.maxPingActive" hash="1PTUug9B5EZdruX29PMJB8jnDBw=">GIOI HAN PING</Text>
-   <Text id="menu.hostGame.maxPingActive.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.maxPingActive.tooltip" hash="VtmOglR7fNlqaAp6LoqQ85tlEz8=">Kick nguoi choi co ping cao hon so ping da chon.</Text>
    <Text id="menu.hostGame.maxPingValue" hash="tR6u+j+8cf8tmYMcBXM157i0Dk4=">GIOI HAN PING</Text>
-   <Text id="menu.hostGame.maxPingValue.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.maxPingValue.tooltip" hash="wdYmhU3FWFmogKNC5y0uzgAPmT8=">So ping toi da nguoi choi co the dat.</Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingActive" hash=""></Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingActive.tooltip" hash=""></Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingValue" hash=""></Text>
@@ -220,18 +220,18 @@
    <Text id="menu.hostGame.autoRestartMemory" hash=""></Text>
    <Text id="menu.hostGame.autoRestartMemory.tooltip" hash=""></Text>
    <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Dang cho nguoi choi tham gia</Text>
-   <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">SANH DA NGUOI CHOI</Text>
-   <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BAT DAU</Text>
+   <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">SANH CHO</Text>
+   <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BAT DAU!</Text>
    <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">QUAY LAI MENU</Text>
-   <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Dang thiet lap Sanh Cho...</Text>
-   <Text id="menu.lobby.connectingToLobby" hash="I/rxoF7Amn8z0iSGImViCMccl7A=">Dang Ket Noi Sanh Cho...</Text>
-   <Text id="menu.lobby.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Dang Ket Noi</Text>
-   <Text id="menu.lobby.enteredOfflineLobby" hash="bfrabPXFtsmjehohcCyFPew3XUo=">Vao Sanh Cho</Text>
+   <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Dang thiet lap sanh cho...</Text>
+   <Text id="menu.lobby.connectingToLobby" hash="I/rxoF7Amn8z0iSGImViCMccl7A=">Dang ket noi sanh cho...</Text>
+   <Text id="menu.lobby.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Da ket noi</Text>
+   <Text id="menu.lobby.enteredOfflineLobby" hash="bfrabPXFtsmjehohcCyFPew3XUo=">Da vao sanh cho</Text>
    <Text id="menu.lobby.player" hash="5TQHz+GlFWufDR7tO6te8651z9g=">Nguoi Choi</Text>
-   <Text id="menu.lobby.cpu" hash="/yIdR1LOBfWpG78dKLeKe/fi3ao=">CPU</Text>
+   <Text id="menu.lobby.cpu" hash=""></Text>
    <Text id="menu.lobby.startHostOnly" hash="ddLyyMXzxdEySLWLrTEb09vPAtw=">Chi co Chu Server moi bat dau Tro Choi...</Text>
    <Text id="menu.lobby.slot.closed" hash="iNhrdyHVh2ROnEzzOghCAss7D/A=">Dong</Text>
-   <Text id="menu.lobby.slot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Mo Cua</Text>
+   <Text id="menu.lobby.slot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Mo</Text>
    <Text id="menu.lobby.slot.bot.easy" hash="8u7Yb3o6IsOZ/HDbDsYZy0+5wPM=">Bot (De)</Text>
    <Text id="menu.lobby.slot.bot.normal" hash="FKHW5k2gyeDnm74fMgCkUN8uazU=">Bot (Trung Binh)</Text>
    <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">Bot (Kho)</Text>
@@ -267,9 +267,9 @@
    <Text id="menu.browseGames.header.map" hash=""></Text>
    <Text id="menu.browseGames.header.ping" hash=""></Text>
    <Text id="menu.browseGames.joinPanel.playersTooltip" hash="InG/pZAulXg8G/e1P2cipha5IyI=">{0} nguoi choi, {1} bot</Text>
-   <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash=""></Text>
-   <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Khong co nut</Text>
-   <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhan nut -</Text>
+   <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash="4ZSo9/D1iqwnrm679WWTzHsP3pU=">Khong the tham gia server khac voi 3 nguoi choi noi bo tro len.</Text>
+   <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Chua Duoc Gan</Text>
+   <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhan Nut -</Text>
    <Text id="menu.keybinding.pressEscToUnbind" hash=""></Text>
    <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Da dang nhap duoi ten</Text>
    <Text id="menu.mainMenu.onlineAs" hash="Vqpl0M/rOnGD+CCkDak1xlIgAkM=">Truc tuyen duoi ten</Text>
@@ -283,7 +283,7 @@
    <Text id="menu.challengesPanel.tier.value" hash="MNzYyrCw9ks6HdvUWEqz/bT2wx8=">Cap Bac {0}</Text>
    <Text id="menu.challengesPanel.tier.mixedauthors" hash="pUWZxg7y/ONx5S+3thUGrByX++o=">Khac {Nhieu tac gia}</Text>
    <Text id="menu.challengesPanel.tier.byauthor" hash=""></Text>
-   <Text id="menu.challengesPanel.itemunlocked" hash=""></Text>
+   <Text id="menu.challengesPanel.itemunlocked" hash="g+Rfwvwo/6magcN+iknoqlEE2nE=">Da mo khoa vat pham moi: {0}</Text>
    <Text id="menu.challengesPanel.solochallengecompleted" hash="KpyIjbaNRHv9pvC16ewVmbohAMw=">Da hoan thanh thu thach!</Text>
    <Text id="menu.challengesPanel.coopchallengecompleted" hash="ME9YKzEBjIRSqQazGTsbKABR2lk=">Da hoan thanh thu thach! Choi moit minh de nhan huy chuong vang.</Text>
    <Text id="menu.challengesPanel.tooltip.tier" hash=""></Text>
@@ -291,34 +291,34 @@
    <Text id="menu.challengesPanel.tooltip.coopmedal" hash="OuEkJPyELNk6TjpXlGM1xo7RtlQ=">Da nhan duoc huy chuong bac khi choi o che do phoi hop. Choi mot minh de lay huy chuong vang!</Text>
    <Text id="menu.challengesPanel.progress" hash="">Da hoan thanh {0}%</Text>
    <Text id="dedicatedserver.tab.chat" hash=""></Text>
-   <Text id="dedicatedserver.tab.hostOptions" hash=""></Text>
+   <Text id="dedicatedserver.tab.hostOptions" hash="hpBoImB0sXGLeDsmXrE9Ycr84nE=">Tuy Chon Server</Text>
    <Text id="dedicatedserver.tab.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="dedicatedserver.tab.manageKickBans" hash=""></Text>
-   <Text id="dedicatedserver.tab.serverStatus" hash=""></Text>
+   <Text id="dedicatedserver.tab.serverStatus" hash="/XCUIdImO1cOzGu1qKfNqwSKzNk=">Trang Thai Server</Text>
    <Text id="dedicatedserver.tab.gameSlots" hash=""></Text>
-   <Text id="dedicatedserver.tab.userStatus" hash=""></Text>
+   <Text id="dedicatedserver.tab.userStatus" hash="V/KxgdCl55oUfqHN9BRX9Y27s8k=">Nguoi Dung</Text>
    <Text id="dedicatedserver.tab.moderators" hash=""></Text>
    <Text id="dedicatedserver.tab.logs" hash=""></Text>
    <Text id="dedicatedserver.menu.server" hash=""></Text>
-   <Text id="dedicatedserver.menu.exit" hash=""></Text>
+   <Text id="dedicatedserver.menu.exit" hash="+Dtv466/E3ROhmAZVW2RKc16Vb4=">Thoat</Text>
    <Text id="dedicatedserver.menu.stopServer.confirm.title" hash=""></Text>
    <Text id="dedicatedserver.menu.stopServer.confirm.question" hash=""></Text>
-   <Text id="dedicatedserver.menu.preview" hash=""></Text>
-   <Text id="dedicatedserver.menu.preview.show" hash=""></Text>
-   <Text id="dedicatedserver.menu.preview.hide" hash=""></Text>
-   <Text id="dedicatedserver.menu.help" hash=""></Text>
+   <Text id="dedicatedserver.menu.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Xem Truoc</Text>
+   <Text id="dedicatedserver.menu.preview.show" hash="2X0e4znk7quoyskdyjfItOyPVQE=">Hien Thi</Text>
+   <Text id="dedicatedserver.menu.preview.hide" hash="NNi2D+JTMve5hYXoLnU+r1AsPlA=">An</Text>
+   <Text id="dedicatedserver.menu.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Tro Giup</Text>
    <Text id="dedicatedserver.menu.toTray" hash=""></Text>
-   <Text id="dedicatedserver.menu.refresh" hash=""></Text>
-   <Text id="dedicatedserver.menu.remove" hash=""></Text>
-   <Text id="dedicatedserver.menu.changepassword" hash=""></Text>
-   <Text id="dedicatedserver.menu.changepassword.prompt" hash=""></Text>
+   <Text id="dedicatedserver.menu.refresh" hash="VuO63E5sXMleDqWpqHi5vQnzGdQ=">Lam Moi</Text>
+   <Text id="dedicatedserver.menu.remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Loai Bo</Text>
+   <Text id="dedicatedserver.menu.changepassword" hash="SSidtD5mOj314scHFHIuzFSJVWU=">Doi Mat Khau</Text>
+   <Text id="dedicatedserver.menu.changepassword.prompt" hash="qLEIkf41QekoFD9rSZSTLOgHcF0=">Nhap mat khau moi</Text>
    <Text id="dedicatedserver.menu.kick" hash=""></Text>
-   <Text id="dedicatedserver.menu.kick.confirm.title" hash=""></Text>
-   <Text id="dedicatedserver.menu.kick.confirm.question" hash=""></Text>
-   <Text id="dedicatedserver.menu.ban" hash="v6G/v2wc2F89K09pao1XYf9ske4=">Ban</Text>
+   <Text id="dedicatedserver.menu.kick.confirm.title" hash="YpyaHOS3GvI1slI+yoN0GzRDXCI=">Xac nhan KICK</Text>
+   <Text id="dedicatedserver.menu.kick.confirm.question" hash="7C6GILm17U3BEfQXOQKZcjeqqlU=">Ban co chac muon kick nhung nguoi choi da chon?</Text>
+   <Text id="dedicatedserver.menu.ban" hash="v6G/v2wc2F89K09pao1XYf9ske4=">BAN</Text>
    <Text id="dedicatedserver.menu.banByIP" hash="fDzRHPDPR5XHPSGNiQehJTU1h50=">Chi ban IP</Text>
-   <Text id="dedicatedserver.menu.ban.confirm.title" hash=""></Text>
-   <Text id="dedicatedserver.menu.ban.confirm.question" hash=""></Text>
+   <Text id="dedicatedserver.menu.ban.confirm.title" hash="TVgJ51CZXEqNVugGNU5Qa4fQ6xA=">Xac nhan BAN</Text>
+   <Text id="dedicatedserver.menu.ban.confirm.question" hash="fSpGop+MRivMm5GKXCbJ9yWnr00=">Ban co chac muon BANnhung nguoi choi da chon?</Text>
    <Text id="dedicatedserver.menu.gameslot.open" hash=""></Text>
    <Text id="dedicatedserver.menu.gameslot.close" hash=""></Text>
    <Text id="dedicatedserver.menu.startServer.selectedMapIsMissing" hash="w72L/gskw3u2y2xrPOUKz6unauE=">Ban phai chon map truoc khi tao server.</Text>
@@ -329,18 +329,18 @@
    <Text id="dedicatedserver.button.startingServer" hash=""></Text>
    <Text id="dedicatedserver.button.stopServer" hash=""></Text>
    <Text id="dedicatedserver.button.stoppingServer" hash=""></Text>
-   <Text id="dedicatedserver.button.chatSend" hash=""></Text>
+   <Text id="dedicatedserver.button.chatSend" hash="m8JXXDkwQ36AVV94dXt4PIQujmY=">Gui</Text>
    <Text id="dedicatedserver.button.applyChangesStatusMessage" hash=""></Text>
-   <Text id="dedicatedserver.column.name" hash=""></Text>
+   <Text id="dedicatedserver.column.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Ten</Text>
    <Text id="dedicatedserver.column.accountid" hash=""></Text>
-   <Text id="dedicatedserver.column.account" hash=""></Text>
+   <Text id="dedicatedserver.column.account" hash="hd+jLJfYYY0b6gg2CeLIophFq+U=">Tai Khoan</Text>
    <Text id="dedicatedserver.column.author" hash="X9oj1iAVuZ+yqfhrOLzfK992Ccg=">Tac Gia</Text>
-   <Text id="dedicatedserver.column.description" hash=""></Text>
+   <Text id="dedicatedserver.column.description" hash="VfjryAXmW1tx3a/a45DjvivNaa8=">Mieu Ta</Text>
    <Text id="dedicatedserver.column.mapmodes" hash=""></Text>
    <Text id="dedicatedserver.column.relativePath" hash=""></Text>
    <Text id="dedicatedserver.column.enabled" hash=""></Text>
    <Text id="dedicatedserver.column.ip" hash=""></Text>
-   <Text id="dedicatedserver.column.iporaccount" hash=""></Text>
+   <Text id="dedicatedserver.column.iporaccount" hash="HPF13FW+aBsJF7xC5zNrsNUJt/o=">IP/Tai Khoan</Text>
    <Text id="dedicatedserver.column.ping" hash=""></Text>
    <Text id="dedicatedserver.column.note" hash=""></Text>
    <Text id="dedicatedserver.column.type" hash=""></Text>
@@ -364,7 +364,7 @@
    <Text id="dedicatedserver.column.publicGame" hash=""></Text>
    <Text id="dedicatedserver.column.networkData" hash=""></Text>
    <Text id="dedicatedserver.column.memoryUsage" hash=""></Text>
-   <Text id="dedicatedserver.column.password" hash=""></Text>
+   <Text id="dedicatedserver.column.password" hash="i+PJQ7Fgn/+/xRqtZm0KBK34PJ0=">Mat Khau</Text>
    <Text id="dedicatedserver.info.running" hash=""></Text>
    <Text id="dedicatedserver.info.offline" hash=""></Text>
    <Text id="dedicatedserver.tray.menu.show" hash=""></Text>
@@ -455,35 +455,35 @@
    <Text id="loading.tutorial" hash="OWRPzmlnEeUCGNA0jzBcxPn9Jj8=">Dang Tai Map Huong Dan...</Text>
    <Text id="loading.challenge" hash="Dp5HNb3AhXpNvmJM3l/+7Ca1XBY=">Dang Tai Thu Thach...</Text>
    <Text id="loading.settings" hash="HHMR2FXtIFNkr/j6QeB7bt9r1SA=">Dang Tai Cai Dat...</Text>
-   <Text id="loading.userlists" hash=""></Text>
-   <Text id="loading.animations" hash=""></Text>
-   <Text id="loading.textures" hash=""></Text>
-   <Text id="loading.controls" hash=""></Text>
+   <Text id="loading.userlists" hash="bHxOOPZmm8FQvDNgPFuY7mgYlk4=">Dang Tai Danh Sach BAN/Quan Tri Vien...</Text>
+   <Text id="loading.animations" hash="CHNTOKzL1ocNy/I/HANjjmAEDvQ=">Dang Tai Hoat Anh...</Text>
+   <Text id="loading.textures" hash="Z6QER9EAw2yyA6EHSt6dW1xlJSo=">Dang Tai Hinh Anh...</Text>
+   <Text id="loading.controls" hash="p2zSxzUNclHUpE6lzgD2aYCefLc=">Dang Tai Dieu Khien...</Text>
    <Text id="loading.chat" hash="7FpoHtRU39TuuK1y3CmIHF+E4WQ=">Dang Tai Chat...</Text>
    <Text id="loading.colors" hash="Im2CAllDL+vMjv/KE9Oj6eb4UEY=">Dang Tai Mau...</Text>
    <Text id="loading.equipment" hash="lIvkyGmbc6dxQnMV/kGcRidU5ao=">Dang Tai Thiet Bi...</Text>
    <Text id="loading.effects" hash="er7lg3UPOPKakz4tZFq/jg6L9hU=">Dang Tai Hieu Ung...</Text>
-   <Text id="loading.collisiongroups" hash=""></Text>
-   <Text id="loading.projectiles" hash=""></Text>
-   <Text id="loading.materials" hash=""></Text>
-   <Text id="loading.weapons" hash=""></Text>
+   <Text id="loading.collisiongroups" hash="ucQafkH8d4l7dIo88SVShNROmh0=">Dang Tai Du Lieu Va Cham...</Text>
+   <Text id="loading.projectiles" hash="6NH8NX8FFX/UAgb1jmf7mCBHaUs=">Dang Tai Du Lieu Dan...</Text>
+   <Text id="loading.materials" hash="PJsuTclopEEb1Fv0X4ScaAjbtus=">Dang Tai Du Lieu Vat Lieu...</Text>
+   <Text id="loading.weapons" hash="KqCqahR1Q8zeJeyfB0Mw2R1E7Vw=">Dang Tai Du Lieu Vu Khi...</Text>
    <Text id="loading.tiles" hash=""></Text>
-   <Text id="loading.sounds" hash=""></Text>
-   <Text id="loading.profile" hash=""></Text>
+   <Text id="loading.sounds" hash="bBmLw0LD3BMwY53iNRg8q78Q73A=">Dang Tai Am Thanh...</Text>
+   <Text id="loading.profile" hash="FiMesTWFeTHAWiESZfTMKq/lO5Q=">Dang Tai Ho So...</Text>
    <Text id="loading.finalizing" hash="gd+/mRKNMt4portngsTssbzEZ/s=">Dang Hoan Tat...</Text>
-   <Text id="loading.canceled" hash=""></Text>
+   <Text id="loading.canceled" hash="LKNYNJxMv6rXInJKWGCzqRK5UPo=">Da huy tai</Text>
    <Text id="general.color" hash="HQyDBLrtz446eJgsLnwLBGIr8qA=">Mau</Text>
    <Text id="general.colors" hash="iNXkysEE/8PwLdVPLw8QdP0z/Zs=">Mau</Text>
-   <Text id="general.primary" hash=""></Text>
-   <Text id="general.secondary" hash=""></Text>
-   <Text id="general.tertiary" hash=""></Text>
+   <Text id="general.primary" hash="qaluwBlJTVuLBBwdJGgGGuZuNdU=">Chinh</Text>
+   <Text id="general.secondary" hash="Al3lmeoKYmLutOoHNBPic9Dqh1s=">Phu</Text>
+   <Text id="general.tertiary" hash="txCh+YIAsitTS/EmnF+iyE4bbYI=">Phu 2</Text>
    <Text id="general.overwrite" hash=""></Text>
-   <Text id="general.help" hash=""></Text>
+   <Text id="general.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Tro Giup</Text>
    <Text id="general.text" hash=""></Text>
    <Text id="general.scale" hash=""></Text>
    <Text id="general.left" hash="iuHDS9N/rUnMX44C2mSKeOicPtg=">Trai</Text>
    <Text id="general.right" hash="lU2qiwAzXGbiYhBuAffcIrGaQ3I=">Phai</Text>
-   <Text id="general.playerX" hash=""></Text>
+   <Text id="general.playerX" hash="MVsfUs3/K9WXX5M/hmxmrAqE+Kw=">Nguoi Choi {0}</Text>
    <Text id="general.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Hon Tap</Text>
    <Text id="general.on" hash="4ASaZlGcrnEVmAC7d6NQB7wtdtM=">Bat</Text>
    <Text id="general.off" hash="495asMpMadvwDobSVYhD6NgGu0k=">Tat</Text>
@@ -493,7 +493,7 @@
    <Text id="general.map" hash=""></Text>
    <Text id="general.yes" hash="U5fgWD8U9siN4Gse8o9GCh+1sK4=">Co</Text>
    <Text id="general.no" hash="gWxS/SvdlKY80JRII6bAqpOEwQM=">Khong</Text>
-   <Text id="general.ready" hash=""></Text>
+   <Text id="general.ready" hash="IMfFUi/CjFgXVQ3YK8MnLrapkcc=">San Sang</Text>
    <Text id="general.empty" hash="MVn+QhsyITgbPHeNwcPCbkVAvjc=">Trong</Text>
    <Text id="general.spectator" hash="TpIPqJcRcr3BySdEsTUs4YyA46A=">Nguoi Theo Doi Tran Dau</Text>
    <Text id="general.user" hash="n4ojiaIMoHUqqelQk1FVF+kOGUw=">Nguoi Dung</Text>
@@ -501,19 +501,19 @@
    <Text id="general.enable" hash="IAY62QUyic7KogrmMO0t11goKgc=">Bat</Text>
    <Text id="general.disable" hash="mn1OBoexTit82kBpALgCeCzVCmI=">Tat</Text>
    <Text id="general.appearance" hash=""></Text>
-   <Text id="general.preview" hash=""></Text>
+   <Text id="general.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Xem Truoc</Text>
    <Text id="general.information" hash="DrXtUG5JI8KNf0qKpp7+mbOtddE=">Thong Tin</Text>
-   <Text id="general.message" hash=""></Text>
+   <Text id="general.message" hash="aPQUX+593navzrkQFlkkrRTPDQA=">Tin Nhan</Text>
    <Text id="general.time.minute" hash=""></Text>
    <Text id="general.time.second" hash=""></Text>
    <Text id="general.gender" hash="inVMYcLO0MX/eaGCfgLJ1kPW2SY=">Gioi Tinh</Text>
    <Text id="general.gender.male" hash="PzpInHLeqADqe2M4yJk4dm1BpuU=">Nam</Text>
    <Text id="general.gender.female" hash="t8F+l9PWJWlLg22FrObtwYu+8OY=">Nu</Text>
    <Text id="general.NA" hash=""></Text>
-   <Text id="general.anonymous" hash=""></Text>
+   <Text id="general.anonymous" hash="m+1RBABMX+Tj5GZz2hdEcr/xNgo=">An Danh</Text>
    <Text id="general.unnamed" hash="mxFcmbHa521O1mCRsd0o6TN975s=">Chua dat ten</Text>
    <Text id="connection.success.serverFound" hash=""></Text>
-   <Text id="connection.failed.lost" hash=""></Text>
+   <Text id="connection.failed.lost" hash="Ylg3aYfhmHYJOTwUIOjYAwLBSb0=">Da mat ket noi</Text>
    <Text id="connection.failed.connectToServer" hash=""></Text>
    <Text id="connection.failed.kicked" hash="hh8BOoYAIO87Hia0xAUtpTcuTEA=">Ban da bi kick khoi server.</Text>
    <Text id="connection.failed.highping" hash="gu89k75cWybbstGlRr02q2cbZJU=">Ping cua ban qua cao va ban da bi kick khoi server.</Text>
@@ -526,11 +526,11 @@
    <Text id="connection.failed.serverRefusedInvalidPassword" hash=""></Text>
    <Text id="connection.failed.serverRefusedInvalidAccount" hash=""></Text>
    <Text id="connection.failed.serverRefusedKickTimeout" hash="VFeum7c+Ad78yuGlD2O3icskw7w=">Ban da bi kick khoi server nay gan day va hien tai khong the vao lai.</Text>
-   <Text id="connection.failed.gameIsFull" hash=""></Text>
+   <Text id="connection.failed.gameIsFull" hash="QTHxxkU5A38LkRH+9Ae85ncNCjQ=">Server da day.</Text>
    <Text id="connection.failed.differentVersions" hash=""></Text>
    <Text id="keyinput" hash=""></Text>
-   <Text id="keyinput.keyboard" hash=""></Text>
-   <Text id="keyinput.gamepad" hash=""></Text>
+   <Text id="keyinput.keyboard" hash="ZmLEC6x4qP5eIyGbdwh/vnZHyxU=">Ban Phim</Text>
+   <Text id="keyinput.gamepad" hash="o2pf+m4Nz7ZPrBsrPW+xdt6Wid4=">Dieu Khien</Text>
    <Text id="keyinput.active" hash=""></Text>
    <Text id="keyinput.bindingaction.invalidkey" hash=""></Text>
    <Text id="keyinput.bindingaction.invalidcontroller" hash=""></Text>
@@ -538,40 +538,40 @@
    <Text id="keyinput.show" hash=""></Text>
    <Text id="keyinput.reset.confirm" hash=""></Text>
    <Text id="key.UNBOUND" hash="6pS5lo5MFsPlw4PlWluBn7yggTw=">&lt;KHONG CO PHIM&gt;</Text>
-   <Text id="key.K_SHOW_CHAT" hash=""></Text>
-   <Text id="key.K_USE_CHAT" hash=""></Text>
-   <Text id="key.K_TOGGLE_CAMERA" hash=""></Text>
-   <Text id="key.K_TOGGLE_GUI" hash=""></Text>
-   <Text id="key.K_TOGGLE_FULLSCREEN" hash=""></Text>
-   <Text id="key.K_PRINT_SCREEN" hash=""></Text>
-   <Text id="key.K_TOGGLE_CONSOLE" hash=""></Text>
-   <Text id="key.K_SHOW_SCOREBOARD" hash=""></Text>
-   <Text id="key.K_QUICK_RESOLUTION" hash=""></Text>
+   <Text id="key.K_SHOW_CHAT" hash="Se0mkYzqft+Hei3bSbnZ2+ZJ9Yk=">HIEN THI CHAT</Text>
+   <Text id="key.K_USE_CHAT" hash="JrxRuMJOlpCCJxt4L0Z/QJtwz7I=">CHAT</Text>
+   <Text id="key.K_TOGGLE_CAMERA" hash="2XwP5AvePJT0YULW1RefY+mfIiU=">CHUYEN DOI CHE DO CAMERA</Text>
+   <Text id="key.K_TOGGLE_GUI" hash="m03/MTExpINj93yO2DCZANQuLjE=">BAT/TAT GIAO DIEN</Text>
+   <Text id="key.K_TOGGLE_FULLSCREEN" hash="/RFitshLxojsNIYRzsX4XJajjV0=">BAT/TAT TOAN MAN HINH</Text>
+   <Text id="key.K_PRINT_SCREEN" hash="ooL6sGGdlqW8NqcYwM6pUA24FMA=">CHUP MAN HINH</Text>
+   <Text id="key.K_TOGGLE_CONSOLE" hash="IrfHsAqtR5d7qIA81RHVKjYCXQA=">BAT/TAT CONSOLE</Text>
+   <Text id="key.K_SHOW_SCOREBOARD" hash="KzCLx8IB06Vxa51LRP25aTVmFEU=">HIEN BANG DIEM</Text>
+   <Text id="key.K_QUICK_RESOLUTION" hash="bmAHaNVN78P1cljIEjx8fGtlRYk=">TUY CHINH DO PHAN GIAI</Text>
    <Text id="key.K_VOTE_NEXT_ROUND" hash=""></Text>
    <Text id="key.K_VOTE_1" hash=""></Text>
    <Text id="key.K_VOTE_2" hash=""></Text>
    <Text id="key.K_VOTE_3" hash=""></Text>
    <Text id="key.K_VOTE_4" hash=""></Text>
-   <Text id="key.K_AIM_CLIMB_UP" hash=""></Text>
-   <Text id="key.K_AIM_CLIMB_DOWN" hash=""></Text>
-   <Text id="key.K_AIM_RUN_LEFT" hash=""></Text>
-   <Text id="key.K_AIM_RUN_RIGHT" hash=""></Text>
+   <Text id="key.K_AIM_CLIMB_UP" hash="RF87K0xq58UkpgWJL6FMpCg2XSY=">LEN (NHAM/LEO TREO)</Text>
+   <Text id="key.K_AIM_CLIMB_DOWN" hash="vu6z7UKETb4cBxICgtCqqt/l5rk=">XUONG (NHAM/LEO TREO)</Text>
+   <Text id="key.K_AIM_RUN_LEFT" hash="lGZF8PpEsLf8NVnhDrHvQOqF4/U=">TRAI (NHAM/CHAY)</Text>
+   <Text id="key.K_AIM_RUN_RIGHT" hash="jB0B5zxNmPE342vIEaELH2hsIs4=">PHAI (NHAM/CHAY)</Text>
    <Text id="key.K_CROUCH_ROLL_DIVE" hash=""></Text>
-   <Text id="key.K_JUMP" hash=""></Text>
+   <Text id="key.K_JUMP" hash="uw15tXjsddmgYrAp5c/RkooC3Vs=">NHAY</Text>
    <Text id="key.K_ATTACK" hash="34bUtttjEFQg7leTM6hpbKu4kfI=">DANH</Text>
    <Text id="key.K_BLOCK" hash="v1Xd2XJaoah+QVoTluBpyNR7JdE=">CHAN</Text>
-   <Text id="key.K_AIM" hash=""></Text>
-   <Text id="key.K_KICK" hash=""></Text>
-   <Text id="key.K_DRAW_MELEE" hash=""></Text>
-   <Text id="key.K_DRAW_HANDGUN" hash=""></Text>
-   <Text id="key.K_DRAW_RIFLE" hash=""></Text>
-   <Text id="key.K_DRAW_GRENADE" hash=""></Text>
-   <Text id="key.K_DRAW_SPECIAL" hash="VBfrxWEWYU7mxgvE7mnMZwxsNzc=">DUNG TANG LUC</Text>
-   <Text id="key.K_ACTIVATE" hash=""></Text>
-   <Text id="key.K_RELOAD" hash=""></Text>
-   <Text id="key.K_SHEATHE" hash=""></Text>
-   <Text id="key.K_DROP" hash=""></Text>
-   <Text id="key.K_SPRINT" hash=""></Text>
+   <Text id="key.K_AIM" hash="6aB2QUM0ljtBLZ93e0UM8H3HsOs=">NHAM</Text>
+   <Text id="key.K_KICK" hash="mXZJi8WF+U8JCEPALkp4Wm5Zyy4=">DA</Text>
+   <Text id="key.K_DRAW_MELEE" hash="6LE7abW4xtqjswBCnRRE5AqxIVQ=">VU KHI CAN CHIEN</Text>
+   <Text id="key.K_DRAW_HANDGUN" hash="752Oo5eweYpS0UvxxjkdJFgRBoo=">SUNG NHO</Text>
+   <Text id="key.K_DRAW_RIFLE" hash="eJcc7BtyFvC2bvw/Jn60lWG5lgQ=">SUNG TRUONG</Text>
+   <Text id="key.K_DRAW_GRENADE" hash="E1uDabHR42hvuJyY6JWMHklZe9o=">LUU DAN</Text>
+   <Text id="key.K_DRAW_SPECIAL" hash="VBfrxWEWYU7mxgvE7mnMZwxsNzc=">SU DUNG TANG LUC</Text>
+   <Text id="key.K_ACTIVATE" hash="8AX/iUinCTy3slekTPhplNdvPh0=">KICK HOAT/NHAT</Text>
+   <Text id="key.K_RELOAD" hash="WOAD9elBCLbophwwmbTvhurGD8g=">NAP DAN</Text>
+   <Text id="key.K_SHEATHE" hash="mCHBd8sVpPR5XxTGuWw4i3JTEuk=">CAT VU KHI</Text>
+   <Text id="key.K_DROP" hash="235ltYha3Nerz32hAaPRynV3+fQ=">KICK HOAT CHE DO NEM</Text>
+   <Text id="key.K_SPRINT" hash="ho/1iEWtVWMdk3xrpjhYMt3TpR8=">CHAY</Text>
    <Text id="key.K_WALK" hash="q+WeNk8ea6T7KPcXAOd4hGfRFe4=">DI BO</Text>
    <Text id="key.K_GRAB" hash=""></Text>
    <Text id="key.K_START" hash=""></Text>
@@ -582,7 +582,7 @@
    <Text id="key.xbox.X" hash="wDKtwf9inJtm8idJrWZ+a+rfFEs=">X</Text>
    <Text id="key.xbox.Y" hash="I+tNP0FVOVp06dU0+X/0wZCPWqw=">Y</Text>
    <Text id="key.xbox.Back" hash="tSs2tyafv8WOwku3JGkZUaPey+g=">Quay lai</Text>
-   <Text id="key.xbox.Start" hash=""></Text>
+   <Text id="key.xbox.Start" hash="lS83VBLon/ITqKyjg9GOVpE1Q0c=">Bat Dau</Text>
    <Text id="key.xbox.LeftBumper" hash=""></Text>
    <Text id="key.xbox.LeftTrigger" hash=""></Text>
    <Text id="key.xbox.RightBumper" hash=""></Text>
@@ -597,19 +597,19 @@
    <Text id="key.xbox.RightStick.Down" hash=""></Text>
    <Text id="key.xbox.RightStick.Left" hash=""></Text>
    <Text id="key.xbox.RightStick.Right" hash=""></Text>
-   <Text id="key.xbox.DirectionalPad.Up" hash=""></Text>
-   <Text id="key.xbox.DirectionalPad.Down" hash=""></Text>
-   <Text id="key.xbox.DirectionalPad.Left" hash=""></Text>
-   <Text id="key.xbox.DirectionalPad.Right" hash=""></Text>
+   <Text id="key.xbox.DirectionalPad.Up" hash="4BBQBJGcPUBbxE117Letz4IL78o=">D-Pad Len</Text>
+   <Text id="key.xbox.DirectionalPad.Down" hash="5q6BGbS84v+0BWQcnARTqWYuToE=">D-Pad Xuong</Text>
+   <Text id="key.xbox.DirectionalPad.Left" hash="tKiFVxBy+A6ZOomc3KPRwTAgczo=">D-Pad Trai</Text>
+   <Text id="key.xbox.DirectionalPad.Right" hash="aDq3k8O/ZOY09MukrCn+feJSBtA=">D-Pad Phai</Text>
    <Text id="vote.nextmap" hash="sNJuQzgjvCy2ZWHNHfMr5RK1I1o=">Chon map tiep theo</Text>
    <Text id="vote.nextmap.alternative.official" hash=""></Text>
    <Text id="vote.nextmap.alternative.custom" hash="Y0es1361fhISSOEOHZzEthEZ/VE=">{0} (Map custom)</Text>
    <Text id="vote.timeremaining.seconds" hash=""></Text>
    <Text id="mapType.versus" hash="bCqa2dWvpZO+695E/aurx/91o04=">Chien Dau</Text>
    <Text id="mapType.custom" hash=""></Text>
-   <Text id="mapType.campaign" hash=""></Text>
-   <Text id="mapType.survival" hash=""></Text>
-   <Text id="mapType.challenge" hash=""></Text>
+   <Text id="mapType.campaign" hash="aTkOFmVw5em6E642Av6qARHyaFs=">Cot Truyen</Text>
+   <Text id="mapType.survival" hash="/ojqjV+m0m0peoGAT0OwrRMKGwU=">Sinh Ton</Text>
+   <Text id="mapType.challenge" hash="u51lP04S3u2JHhb/fn2TduE/B10=">Thu Thach</Text>
    <Text id="tutorial.prompt.location" hash=""></Text>
    <Text id="tutorial.prompt.move" hash="FxgydllSTOhHk6zaomb/pEFosVU=">[KEY=AIM_RUN_LEFT] / [KEY=AIM_RUN_RIGHT] = Di chuyen</Text>
    <Text id="tutorial.prompt.jump" hash="FhkJ17jplyEx+b8mLNhIMpU3Spo=">[KEY=JUMP] = Nhay</Text>
@@ -617,9 +617,9 @@
    <Text id="tutorial.prompt.sprint" hash=""></Text>
    <Text id="tutorial.prompt.ladder" hash=""></Text>
    <Text id="tutorial.prompt.use" hash="QfPEBmDt3brzFjUlzc4FZ/FUHe8=">[KEY=ACTIVATE] = Su dung</Text>
-   <Text id="tutorial.prompt.crouch" hash=""></Text>
+   <Text id="tutorial.prompt.crouch" hash="ge3B1ByjxxqN5jDNSm/2SmQvG0w=">Nhan giu [KEY=CROUCH_ROLL_DIVE] = Ngoi</Text>
    <Text id="tutorial.prompt.roll" hash=""></Text>
-   <Text id="tutorial.prompt.dodgebullets" hash=""></Text>
+   <Text id="tutorial.prompt.dodgebullets" hash="X1sh5CfckFLVDFFsEAJ592JJ3+M=">Lan de ne dan!</Text>
    <Text id="tutorial.prompt.whenonfire" hash=""></Text>
    <Text id="tutorial.prompt.divefall" hash=""></Text>
    <Text id="tutorial.prompt.kick" hash="zpld3r7eRPzCSmOWh11rYtleTGo=">[KEY=KICK] = Da</Text>
@@ -627,7 +627,7 @@
    <Text id="tutorial.prompt.block" hash=""></Text>
    <Text id="tutorial.prompt.grab" hash=""></Text>
    <Text id="tutorial.prompt.jumpattack" hash=""></Text>
-   <Text id="tutorial.prompt.finnishopponent" hash=""></Text>
+   <Text id="tutorial.prompt.finnishopponent" hash="g8Zw0XD4ZCvyCuTP6co1jcXiBR4=">Danh bai ke dich de tiep tuc</Text>
    <Text id="tutorial.prompt.catchthrown" hash="zQTIfK8tbnHmR3GCDtWSmyjvwNM=">Chan ([KEY=BLOCK]) de bat lay vu khi duoc nem di</Text>
    <Text id="tutorial.prompt.throwingmode" hash="B9ymndKsW93BIe1SjkNRIHOiWAQ=">[KEY=DROP] = Kich hoat che do nem
 
@@ -639,15 +639,15 @@
    <Text id="tutorial.prompt.dialogue.inspirational.part1" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part2" hash="7wIQM1ikG0krWLz00h70CMtpB34=">SAI!!</Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part3" hash=""></Text>
-   <Text id="tutorial.prompt.dialogue.inspirational.part4" hash=""></Text>
-   <Text id="tutorial.prompt.dialogue.inspirational.part5" hash=""></Text>
-   <Text id="tutorial.prompt.dialogue.inspirational.part6" hash=""></Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part4" hash="+5FF2YpEJe1ICD2QDAWyUFBrSVY=">Khan truong len may thang nhoc! De tao xem tui may gioi toi dau!</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part5" hash="lwBqb1vsf0H5uziltWkkML2EIbI=">Anh nua linh moi! Nhac dit len!</Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part6" hash="L4jrjQH/Cl8GlRdzwj9xKJ+XfEM=">May tuong the la ngau ha nhoc ec?</Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part7" hash="keDLHhpV+0xRvg4OliS0j2FNjBk=">May sap bi an hanh do thang nhoc ec!</Text>
-   <Text id="tutorial.prompt.dialogue.movealong" hash=""></Text>
-   <Text id="tutorial.prompt.dialogue.stayalert" hash=""></Text>
+   <Text id="tutorial.prompt.dialogue.movealong" hash="0f000yyPZnK4Emm3xA33nA+51L4=">Tien thang huong do, linh moi!</Text>
+   <Text id="tutorial.prompt.dialogue.stayalert" hash="8YWx9Zko/fjRLxxhfgDTIKNlIqc=">Can than day! Ke dich se tan cong ma khong canh bao truoc! Hay de y ky moi truong xung quanh!</Text>
    <Text id="tutorial.prompt.dialogue.throwbegin" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.throwregret" hash=""></Text>
-   <Text id="tutorial.victory.trainingcomplete" hash=""></Text>
+   <Text id="tutorial.victory.trainingcomplete" hash="XGyO2fcCA80mzgcFAyYT/WHkYHQ=">DA HOAN THANH HUAN LUYEN!</Text>
    <Text id="properties.mapAuthor" hash="X9oj1iAVuZ+yqfhrOLzfK992Ccg=">Tac Gia</Text>
    <Text id="properties.mapAuthor.description" hash=""></Text>
    <Text id="properties.mapName" hash=""></Text>
@@ -1243,81 +1243,81 @@
    <Text id="properties.pathNodeEnableTrigger.newState.enable" hash=""></Text>
    <Text id="properties.pathNodeEnableTrigger.newState.disable" hash=""></Text>
    <Text id="properties.pathNodeEnableTrigger.newState.toggle" hash=""></Text>
-   <Text id="items.Ammo" hash="xJuTEilXnWqRDewP74EBS3/2oIs=">{0} Dan</Text>
+   <Text id="items.Ammo" hash="xJuTEilXnWqRDewP74EBS3/2oIs=">Dan {0}</Text>
    <Text id="items.Pistol" hash="GI6O5nPVOotKHH7SE1RcQGXCeHk=">Sung Luc</Text>
    <Text id="items.Pistol45" hash="0pkrRh+qqG8OzvdVJ9YgR1c6ZAI=">Sung Luc .45</Text>
-   <Text id="items.StrengthBoost" hash="7Pu1xuLVOnqqx9S4nIjhGy5MaM4=">Ong Tiem Tang Suc Manh</Text>
-   <Text id="items.SilencedPistol" hash="0DlrtYDyVv9wl2bmuFoxIRz/C4E=">Sung Luc Khong Tieng</Text>
-   <Text id="items.Pump-action_Shotgun" hash="9da815qbcjJR25XUqqCdxLhLDFA=">Shot Gun</Text>
-   <Text id="items.Laser_Sight" hash="Gn9ji2MHNn5AybOrynsE99nk1NI=">Dan Laser</Text>
-   <Text id="items.Grenades" hash="MxuVbqYBkVJBphFYjrC5O+rei88=">Luu Dan</Text>
-   <Text id="items.Molotovs" hash="VDEzLGBXtwrWdxB4Aqia58VUaPk=">Chai Lua</Text>
-   <Text id="items.Flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Sung Phun Lua</Text>
-   <Text id="items.5_Sec_Slomo" hash="c2iBOnB5TxqJe58WRkqce/gQUrc=">Lam Cham 5 Giay</Text>
-   <Text id="items.10_Sec_Slomo" hash="dsnSFti9OCQQ2TFSvxeJ6qMaM2w=">Lam Cham 10 Giay</Text>
+   <Text id="items.StrengthBoost" hash="7Pu1xuLVOnqqx9S4nIjhGy5MaM4=">Thuoc tang suc manh</Text>
+   <Text id="items.SilencedPistol" hash="0DlrtYDyVv9wl2bmuFoxIRz/C4E=">Sung luc giam thanh</Text>
+   <Text id="items.Pump-action_Shotgun" hash=""></Text>
+   <Text id="items.Laser_Sight" hash="Gn9ji2MHNn5AybOrynsE99nk1NI=">Ong ngam laze</Text>
+   <Text id="items.Grenades" hash="MxuVbqYBkVJBphFYjrC5O+rei88=">Luu dan</Text>
+   <Text id="items.Molotovs" hash="VDEzLGBXtwrWdxB4Aqia58VUaPk=">Bom xang</Text>
+   <Text id="items.Flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Sung phun lua</Text>
+   <Text id="items.5_Sec_Slomo" hash="c2iBOnB5TxqJe58WRkqce/gQUrc=">Lam cham 5s</Text>
+   <Text id="items.10_Sec_Slomo" hash="dsnSFti9OCQQ2TFSvxeJ6qMaM2w=">Lam cham 10s</Text>
    <Text id="items.+50" hash=""></Text>
    <Text id="items.+25" hash=""></Text>
    <Text id="items.Uzi" hash="lwnIouPnQLQ6mN15j3i3iRj5Gu0="></Text>
-   <Text id="items.SilencedUzi" hash="jkDPYHkkCRIl/5GjxaB8ZoJDvEA=">Uzi Yen Lang</Text>
-   <Text id="items.Machete" hash="Nj4MbWkAvtSi/JU0iuv3X5fUtIs=">Dao</Text>
-   <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Gay Bong Chay</Text>
-   <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Dui Cui</Text>
-   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Shotgun Cua Nong</Text>
-   <Text id="items.Magnum" hash="wVZrJiUPdLGNQGEtXnnqy+bwARk=">Magnum</Text>
-   <Text id="items.Revolver" hash="mUKlKMUGCqmqrmaC1FtRsafLTQI=">Revolver</Text>
-   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Sung Luc Lua</Text>
-   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Cle Ong</Text>
+   <Text id="items.SilencedUzi" hash="jkDPYHkkCRIl/5GjxaB8ZoJDvEA=">Uzi giam thanh</Text>
+   <Text id="items.Machete" hash="Nj4MbWkAvtSi/JU0iuv3X5fUtIs=">Ma tau</Text>
+   <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Gay bong chay</Text>
+   <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Dui cui</Text>
+   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Sung san cua nong</Text>
+   <Text id="items.Magnum" hash=""></Text>
+   <Text id="items.Revolver" hash=""></Text>
+   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Sung ban phao</Text>
+   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Co le</Text>
    <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Bua</Text>
-   <Text id="items.Bazooka" hash="GmcVsXcRJNTdFp6Fa5aQb7cPH5A=">Dai Bac Lien Thanh</Text>
-   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">M60</Text>
-   <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Riu Cuu Hoa</Text>
+   <Text id="items.Bazooka" hash=""></Text>
+   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Sung may M60</Text>
+   <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Riu</Text>
    <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Kiem Katana</Text>
-   <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Sung Sniper</Text>
-   <Text id="items.Assault_Rifle" hash="p8L3JAYhqf5bAbKsoklB/6TULJM=">Assault rifle</Text>
-   <Text id="items.Carbine" hash="8dqypBHRT9iqQsNxFM2v7jRzVD0=">Carbine</Text>
-   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Grenade launcher</Text>
+   <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Sung ban tia</Text>
+   <Text id="items.Assault_Rifle" hash="p8L3JAYhqf5bAbKsoklB/6TULJM=">Sung truong</Text>
+   <Text id="items.Carbine" hash=""></Text>
+   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Sung phong luu</Text>
    <Text id="items.SMG" hash="plLiiwBKFVSHF1Nyh/0Y9N66t9o=">Submachine gun</Text>
-   <Text id="items.Tommygun" hash="cFILm9D/P2Q1oXNHID/IS6z4HXo=">Sung Tommy</Text>
+   <Text id="items.Tommygun" hash=""></Text>
    <Text id="items.Mines" hash="PoJddSyOj+Tq65smnsRN7V7ca6I=">Min</Text>
-   <Text id="items.Knife" hash="esdg0QFJ9B44jnQK7M9j6P8eC0c=">Dao gam</Text>
+   <Text id="items.Knife" hash="esdg0QFJ9B44jnQK7M9j6P8eC0c=">Dao</Text>
    <Text id="items.Pillow" hash="JK9Oz/wWTG1BsMQi8O18Vh7t00g=">Goi</Text>
-   <Text id="items.Flagpole" hash="kdG598xZnUqTjWy/MEyY646ah44=">Co Mi</Text>
-   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Day Xich</Text>
-   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Am Tra</Text>
-   <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nap Thung Rac</Text>
-   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Tui Rac</Text>
-   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">C4</Text>
-   <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">C4 detonator</Text>
-   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ong Nuoc</Text>
-   <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dui Cui Tich Dien</Text>
-   <Text id="items.MP50" hash="bvuOTKg3E225S94Q60TjNeAu4Ew=">MP 50</Text>
-   <Text id="items.Dark_Shotgun" hash="+H/J4SpD2jfFEow2A1DYnUqfjL4=">Riot Shotgun</Text>
-   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Machine pistol</Text>
-   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Vodka</Text>
-   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Manh Chai Vodka</Text>
+   <Text id="items.Flagpole" hash="kdG598xZnUqTjWy/MEyY646ah44=">Co</Text>
+   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Day xich</Text>
+   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Am tra</Text>
+   <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nap thung rac</Text>
+   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Tui rac</Text>
+   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">Bom C4</Text>
+   <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">Dieu khien bom C4</Text>
+   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ong nuoc</Text>
+   <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dui cui dien</Text>
+   <Text id="items.MP50" hash=""></Text>
+   <Text id="items.Dark_Shotgun" hash=""></Text>
+   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Sung luc may</Text>
+   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Chai</Text>
+   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Chai vo</Text>
    <Text id="items.Chair" hash="n+tTdsXdmufGOIkcjCWX5je2cJ0=">Ghe</Text>
    <Text id="items.Chair_Leg" hash="P/F1hUn/29uUefHKqZ+jP7gXk4E=">Chan Ghe</Text>
-   <Text id="items.CueStick" hash="TV2BeZesmhzaG/4U1vdhjKA7uq4=">Gay Choi Bida</Text>
+   <Text id="items.CueStick" hash="TV2BeZesmhzaG/4U1vdhjKA7uq4=">Gay bong ban</Text>
    <Text id="items.BrokenCueStick" hash="50EGSVXLmJ9EdiaQ9D/M2SrSzrs=">Gay bong ban gay</Text>
    <Text id="items.Suitcase" hash="zaPYIIVgG6yCblj1hrfN1AzlIrY=">Vali</Text>
-   <Text id="items.Baseball" hash="7C13RMYDuvUH5mv4KDXftiBGVqg=">Gay Bong Chay</Text>
-   <Text id="items.Chainsaw" hash="u/4B1YmWmCyKMuwjT+8AtA+fjWc=">May Cua</Text>
-   <Text id="items.SpeedBoost" hash="sZ61KE2LMAQfUNLlQcPXZzUTALQ=">Ong Tiem Chay Nhanh</Text>
-   <Text id="items.Bow" hash="oXlCIyEBKKWrSTSaHKXGf10xwvo=">Cung Ten</Text>
-   <Text id="items.Shuriken" hash="7tGqbd2FpzarkPwVumSSy3wrm6M=">Phi Tieu</Text>
-   <Text id="items.Whip" hash="2o7oVVTLXFmZ5g+halcv7AwDSwU=">Roi</Text>
+   <Text id="items.Baseball" hash="7C13RMYDuvUH5mv4KDXftiBGVqg=">Bong chay</Text>
+   <Text id="items.Chainsaw" hash="u/4B1YmWmCyKMuwjT+8AtA+fjWc=">May cua</Text>
+   <Text id="items.SpeedBoost" hash="sZ61KE2LMAQfUNLlQcPXZzUTALQ=">Thuoc tang toc do</Text>
+   <Text id="items.Bow" hash="oXlCIyEBKKWrSTSaHKXGf10xwvo=">Cung ten</Text>
+   <Text id="items.Shuriken" hash="7tGqbd2FpzarkPwVumSSy3wrm6M=">Phi tieu</Text>
+   <Text id="items.Whip" hash="2o7oVVTLXFmZ5g+halcv7AwDSwU=">Roi gai</Text>
    <Text id="items.BouncingAmmo" hash="78Mzg4ltk97ULFquc77MhgP4jcw=">Dan Nay</Text>
    <Text id="items.FireAmmo" hash="wDrG7KNF7L2G0Gz7xTSbrfDTh+A=">Dan Lua</Text>
-   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Robot Chien Dau Dang Ban Sung</Text>
+   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Drone gan sung</Text>
    <Text id="equipment.layer.skin" hash=""></Text>
-   <Text id="equipment.layer.chestUnder" hash=""></Text>
-   <Text id="equipment.layer.waist" hash=""></Text>
-   <Text id="equipment.layer.chestOver" hash=""></Text>
-   <Text id="equipment.layer.accessory" hash=""></Text>
-   <Text id="equipment.layer.hands" hash=""></Text>
-   <Text id="equipment.layer.head" hash=""></Text>
-   <Text id="equipment.layer.legs" hash=""></Text>
-   <Text id="equipment.layer.feet" hash=""></Text>
+   <Text id="equipment.layer.chestUnder" hash="ZgIX7PasYRf+ZnQMmc3VM6OHKto=">Ao Trong</Text>
+   <Text id="equipment.layer.waist" hash="BbUW1vYaFyPy45wfNUegKqsR+jM=">That Lung</Text>
+   <Text id="equipment.layer.chestOver" hash="ppCW7GAQDcxmQuTsBN8r6uCxUVg=">Ao Ngoai</Text>
+   <Text id="equipment.layer.accessory" hash="liQD9troRte2mQTlrHdcF+Wki94=">Phu Kien</Text>
+   <Text id="equipment.layer.hands" hash="H448fNO443i7V0SZlV8MsMEP2SY=">Tay</Text>
+   <Text id="equipment.layer.head" hash="5f/RW+cGkxLj2d4hCJsVARiSd6Y=">Dau</Text>
+   <Text id="equipment.layer.legs" hash="KVGNBFLX5qgnGbiFX0TcfPNJS4g=">Chan</Text>
+   <Text id="equipment.layer.feet" hash="cDfITjGZ8u2B2wvd1FkJa2KAyQg=">Duoi chan</Text>
    <Text id="mapEditor" hash=""></Text>
    <Text id="mapEditor.scriptDialog" hash="xk2uAFOa0MKvY3H56qST3juulIg=">Trinh chinh sua script</Text>
    <Text id="mapEditor.scriptDialog.compileToolStripMenuItem" hash=""></Text>
@@ -1531,12 +1531,12 @@
    <Text id="mapEditor.openDialog.modifyDate" hash=""></Text>
    <Text id="mapEditor.openDialog.filename" hash=""></Text>
    <Text id="mapEditor.openDialog.shortcut" hash=""></Text>
-   <Text id="success" hash=""></Text>
-   <Text id="question" hash=""></Text>
-   <Text id="error" hash=""></Text>
-   <Text id="error.failure" hash=""></Text>
-   <Text id="error.loadprofilefile" hash=""></Text>
-   <Text id="error.createprofilefile" hash=""></Text>
+   <Text id="success" hash="Qqj2Udef0AXurAYS32RCuYOgEYQ=">Thanh Cong</Text>
+   <Text id="question" hash="AC/1mBFdhFlf/u5iGctcA9Oh1KY=">Cau Hoi</Text>
+   <Text id="error" hash="fy9qFc+NorJ+Wkr0e1jnrXHAs9k=">Loi</Text>
+   <Text id="error.failure" hash="WTb7PDcmDNTOdGgavo6iVgq6mxE=">Loi!</Text>
+   <Text id="error.loadprofilefile" hash="ieUjNbaTdTk3728zzzxrroTVftk=">Khong the tai ho so.</Text>
+   <Text id="error.createprofilefile" hash="yup78W43S3kyY3ZxNu/Q9FOTXks=">Khong the tao ho so.</Text>
    <Text id="error.invalidName" hash=""></Text>
    <Text id="error.invalidName.reserved" hash=""></Text>
    <Text id="error.connectionTimedOut" hash=""></Text>
