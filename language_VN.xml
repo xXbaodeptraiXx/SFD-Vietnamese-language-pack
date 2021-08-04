@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="12909d36-c459-4fd5-abc4-b49c6b5f738d" publishId="" oh="" description="">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="ca798710-3874-4405-a97f-475cd1a44dc7" publishId="" oh="" description="">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -57,7 +57,7 @@
    <Text id="menu.scoreboard.accountSecondPlayer" hash="DKpVXqfxPo/rPBLR6ZuGgRTOfiI=">Nguoi Choi Thu 2</Text>
    <Text id="menu.serverInfo" hash="YYu0uc80IwkOhbFN/qXSy8Q2pUc=">THONG TIN SERVER</Text>
    <Text id="menu.selectFighter" hash="wCdydSA8o1HhX1/QxLj5eSVAn5g=">CHON CHIEN BINH</Text>
-   <Text id="menu.profilePanel.confirmDelete" hash="TJLRU5+CgaQGpVcMJ2xBWldaQ7E=">Xoa{0}?</Text>
+   <Text id="menu.profilePanel.confirmDelete" hash="TJLRU5+CgaQGpVcMJ2xBWldaQ7E=">Xoa {0}?</Text>
    <Text id="menu.settings" hash="xLkkMnIGiK8+wUa0TMJyl5i95Ps=">CAI DAT</Text>
    <Text id="menu.settings.keyBindings" hash="/bEdVkf8Sh+9U5J7XB4rC7D8kpY=">DIEU KHIEN</Text>
    <Text id="menu.settings.keyBindings.tooltip" hash="u01YOopeJtthwtsEc3CPjvVAknc=">Tuy chinh dieu khien.</Text>
@@ -236,14 +236,14 @@
    <Text id="menu.lobby.slot.bot.normal" hash="FKHW5k2gyeDnm74fMgCkUN8uazU=">May (Trung Binh)</Text>
    <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">May (Kho)</Text>
    <Text id="menu.lobby.slot.bot.expert" hash="bF7iJVgCehgDQdNXyQ2sjrzPyqk=">May (Cuc Kho)</Text>
-   <Text id="menu.lobby.newPlayerJoined" hash="ynaBYw6d3uB2tLlugMIc1WnrsTQ=">&quot;{0}&quot; da tham gia Server</Text>
-   <Text id="menu.lobby.newPlayerJoined.toHost" hash="RQETpAV79K6H5KOvZup9XhE76Nw=">&quot;{0}&quot; da tham gia server (Tu dia chi {1})</Text>
+   <Text id="menu.lobby.newPlayerJoined" hash="ynaBYw6d3uB2tLlugMIc1WnrsTQ=">&quot;{0}&quot; da tham gia</Text>
+   <Text id="menu.lobby.newPlayerJoined.toHost" hash="RQETpAV79K6H5KOvZup9XhE76Nw=">&quot;{0}&quot; da tham gia (Tu {1})</Text>
    <Text id="menu.lobby.newPlayerJoinedTeam" hash="IHfhzy6F6CvOPBolJoKZ1onRNR4=">&quot;{0}&quot; da tham gia doi {1}</Text>
-   <Text id="menu.lobby.newPlayerJoinedTeam.toHost" hash=""></Text>
-   <Text id="menu.lobby.playerConnectionLost" hash=""></Text>
-   <Text id="menu.lobby.playerConnectionLost.toHost" hash=""></Text>
-   <Text id="menu.lobby.playerLeftGame" hash=""></Text>
-   <Text id="menu.lobby.playerLeftGame.toHost" hash=""></Text>
+   <Text id="menu.lobby.newPlayerJoinedTeam.toHost" hash="qzwS/LtpL1Fw5rLlu4NdgoVWfjM=">&quot;{0}&quot; da tham gia doi {1} tu doi {2}</Text>
+   <Text id="menu.lobby.playerConnectionLost" hash="T3ejSrdBeduwp/6Rty6khmExSUU=">&quot;{0}&quot; da mat ket noi</Text>
+   <Text id="menu.lobby.playerConnectionLost.toHost" hash="6MJmxlNZv8nhU4H0CTwUVpaQ4R8=">&quot;{0}&quot; da mat ket noi tu {1}</Text>
+   <Text id="menu.lobby.playerLeftGame" hash="uM5uYL9ubH8PX6WKx56QZi/XjuM=">&quot;{0}&quot; da roi server</Text>
+   <Text id="menu.lobby.playerLeftGame.toHost" hash="xrvMFHYBPJUieZY4VlGX3e4AvcM=">&quot;{0}&quot; da roi server tu {1}</Text>
    <Text id="menu.lobby.player.unknown" hash=""></Text>
    <Text id="menu.lobby.helpText" hash=""></Text>
    <Text id="menu.browseGames" hash=""></Text>
@@ -269,7 +269,7 @@
    <Text id="menu.browseGames.joinPanel.playersTooltip" hash=""></Text>
    <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash=""></Text>
    <Text id="menu.keybinding.noKey" hash=""></Text>
-   <Text id="menu.keybinding.pressKeyToBind" hash=""></Text>
+   <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhan nut -</Text>
    <Text id="menu.keybinding.pressEscToUnbind" hash=""></Text>
    <Text id="menu.mainMenu.loggedInAs" hash=""></Text>
    <Text id="menu.mainMenu.onlineAs" hash=""></Text>
@@ -322,7 +322,7 @@
    <Text id="dedicatedserver.menu.gameslot.open" hash=""></Text>
    <Text id="dedicatedserver.menu.gameslot.close" hash=""></Text>
    <Text id="dedicatedserver.menu.startServer.selectedMapIsMissing" hash="w72L/gskw3u2y2xrPOUKz6unauE=">Ban phai chon map truoc khi tao server.</Text>
-   <Text id="dedicatedserver.button.defaultPort" hash=""></Text>
+   <Text id="dedicatedserver.button.defaultPort" hash="gA+hP6G3SlFBZ7yjk8O0xDRcsiQ=">Cong mac dinh</Text>
    <Text id="dedicatedserver.button.applyChanges" hash=""></Text>
    <Text id="dedicatedserver.button.discardChanges" hash=""></Text>
    <Text id="dedicatedserver.button.startServer" hash=""></Text>
@@ -511,7 +511,7 @@
    <Text id="general.gender.female" hash=""></Text>
    <Text id="general.NA" hash=""></Text>
    <Text id="general.anonymous" hash=""></Text>
-   <Text id="general.unnamed" hash=""></Text>
+   <Text id="general.unnamed" hash="mxFcmbHa521O1mCRsd0o6TN975s=">Chua dat ten</Text>
    <Text id="connection.success.serverFound" hash=""></Text>
    <Text id="connection.failed.lost" hash=""></Text>
    <Text id="connection.failed.connectToServer" hash=""></Text>
@@ -724,7 +724,7 @@
    <Text id="properties.force" hash=""></Text>
    <Text id="properties.forcePerDistance" hash=""></Text>
    <Text id="properties.time" hash=""></Text>
-   <Text id="properties.delay" hash=""></Text>
+   <Text id="properties.delay" hash="P0vEB23n5dNCRxintJcQIyI2PvM=">Do tre (ms)</Text>
    <Text id="properties.elevator.accelerationDistance" hash=""></Text>
    <Text id="properties.elevator.accelerationDistance.description" hash=""></Text>
    <Text id="properties.spawnTarget" hash=""></Text>
@@ -1130,7 +1130,7 @@
    <Text id="properties.script.setFrameIndex.description" hash=""></Text>
    <Text id="properties.script.setFramePlayPause" hash=""></Text>
    <Text id="properties.script.setFramePlayPause.description" hash=""></Text>
-   <Text id="properties.script.setFramePlayPause.Unchanged" hash=""></Text>
+   <Text id="properties.script.setFramePlayPause.Unchanged" hash="Ue1lETIh8IdV/4B8Z+tVP6nNQGI=">Chua thay doi</Text>
    <Text id="properties.script.setFramePlayPause.Play" hash=""></Text>
    <Text id="properties.script.setFramePlayPause.Pause" hash=""></Text>
    <Text id="properties.script.setStickyFeetTargets" hash=""></Text>
@@ -1149,12 +1149,12 @@
    <Text id="properties.script.spawnFire.randomSpeed.description" hash=""></Text>
    <Text id="properties.script.spawnFire.type" hash=""></Text>
    <Text id="properties.script.spawnFire.type.description" hash=""></Text>
-   <Text id="properties.script.spawnFire.type.default" hash=""></Text>
+   <Text id="properties.script.spawnFire.type.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Mac dinh</Text>
    <Text id="properties.script.spawnFire.type.flamethrower" hash=""></Text>
    <Text id="properties.script.supplyCrate.dropItem" hash=""></Text>
    <Text id="properties.script.supplyCrate.dropItem.description" hash=""></Text>
    <Text id="properties.script.supplyCrate.category.none" hash=""></Text>
-   <Text id="properties.script.supplyCrate.category.default" hash=""></Text>
+   <Text id="properties.script.supplyCrate.category.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Mac dinh</Text>
    <Text id="properties.script.supplyCrate.category.any" hash=""></Text>
    <Text id="properties.script.supplyCrate.category.primary" hash=""></Text>
    <Text id="properties.script.supplyCrate.category.secondary" hash=""></Text>
@@ -1217,7 +1217,7 @@
    <Text id="properties.pathNodeConnection.costMultiplier.description" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.description" hash=""></Text>
-   <Text id="properties.pathNodeConnection.pathNodeConnectionType.default" hash=""></Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Mac dinh</Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.jump" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.dive" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.roll" hash=""></Text>
@@ -1243,7 +1243,7 @@
    <Text id="properties.pathNodeEnableTrigger.newState.toggle" hash=""></Text>
    <Text id="items.Ammo" hash="xJuTEilXnWqRDewP74EBS3/2oIs=">{0} Dan</Text>
    <Text id="items.Pistol" hash="GI6O5nPVOotKHH7SE1RcQGXCeHk=">Sung Luc</Text>
-   <Text id="items.Pistol45" hash="0pkrRh+qqG8OzvdVJ9YgR1c6ZAI=">.45 Sung Luc</Text>
+   <Text id="items.Pistol45" hash="0pkrRh+qqG8OzvdVJ9YgR1c6ZAI=">Sung Luc .45</Text>
    <Text id="items.StrengthBoost" hash="7Pu1xuLVOnqqx9S4nIjhGy5MaM4=">Ong Tiem Tang Suc Manh</Text>
    <Text id="items.SilencedPistol" hash="0DlrtYDyVv9wl2bmuFoxIRz/C4E=">Sung Luc Khong Tieng</Text>
    <Text id="items.Pump-action_Shotgun" hash="9da815qbcjJR25XUqqCdxLhLDFA=">Shot Gun</Text>
@@ -1339,7 +1339,7 @@
    <Text id="mapEditor.mapTestOptions.title" hash=""></Text>
    <Text id="mapEditor.mapTestOptions.players" hash=""></Text>
    <Text id="mapEditor.mapTestOptions.survivalStartWave" hash=""></Text>
-   <Text id="mapEditor.mapTestOptions.secondlocaltestuser" hash=""></Text>
+   <Text id="mapEditor.mapTestOptions.secondlocaltestuser" hash="MBxhJSLVr8DONdZ4OujhMs7pyOU=">(Nguoi choi noi bo thu 2)</Text>
    <Text id="mapEditor.mapTestOptions.remotetestuser" hash=""></Text>
    <Text id="mapEditor.mapTestOptions.remotetestmoderatoruser" hash=""></Text>
    <Text id="mapEditor.mapTestOptions.shiftFXtocontrol" hash=""></Text>
@@ -1399,7 +1399,7 @@
    <Text id="mapEditor.contextmenu.copy" hash=""></Text>
    <Text id="mapEditor.contextmenu.cut" hash=""></Text>
    <Text id="mapEditor.contextmenu.paste" hash=""></Text>
-   <Text id="mapEditor.contextmenu.delete" hash=""></Text>
+   <Text id="mapEditor.contextmenu.delete" hash="9v2+SNxU3Yb2MJegO9JAlN7dcTo=">Xoa</Text>
    <Text id="mapEditor.contextmenu.show" hash=""></Text>
    <Text id="mapEditor.contextmenu.shortcut.shift+v" hash=""></Text>
    <Text id="mapEditor.contextmenu.shortcut.shift+h" hash=""></Text>
