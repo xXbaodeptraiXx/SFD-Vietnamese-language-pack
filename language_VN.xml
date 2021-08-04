@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="ad4ded73-2a59-4d79-bbb5-7e1b2a794d2d" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="d98b6bf6-4d55-4d52-8fb6-2c0620ee1385" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -212,42 +212,42 @@
    <Text id="menu.hostGame.forceServerMovementMaxPingActive.tooltip" hash="7n/u3FFF7fC+Tod8xpN7zgTK16o=">Mọi chuyển động của những người chơi với ping quá cao phải được xử lý trên server. Điều này giúp giảm hiệu ứng giật lag, tốc biến.</Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingValue" hash="MEWjGzrm+ibKr0e05LOvLPjDFoY=">GIỚI HẠN PING XỬ LÝ CHUYỂN ĐỘNG</Text>
    <Text id="menu.hostGame.forceServerMovementMaxPingValue.tooltip" hash="G5b9Ewpisvqp2cndTN8+IjLvP1Y=">Ping thấp nhất để kích hoạt xử lý chuyển động trên server, tối thiểu 100 png.</Text>
-   <Text id="menu.hostGame.kickAFKWarning" hash=""></Text>
+   <Text id="menu.hostGame.kickAFKWarning" hash="QqLnsPWZYI/yXHmb6o/ZafhH5zc=">Bạn sẽ bị kick sau 10 giây nếu tiếp tục AFK.</Text>
    <Text id="menu.hostGame.suddenDeath" hash=""></Text>
    <Text id="menu.hostGame.suddenDeath.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.autoRestartTime" hash="CnUDVXFYLqZC0Z5wXVZBNObqUA0=">Thoi gian tu dong khoi dong lai</Text>
+   <Text id="menu.hostGame.autoRestartTime" hash="CnUDVXFYLqZC0Z5wXVZBNObqUA0=">Thời gian tự động khởi động lại</Text>
    <Text id="menu.hostGame.autoRestartTime.tooltip" hash=""></Text>
    <Text id="menu.hostGame.autoRestartMemory" hash=""></Text>
    <Text id="menu.hostGame.autoRestartMemory.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Dang cho nguoi choi tham gia</Text>
-   <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">SANH CHO</Text>
-   <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BAT DAU!</Text>
-   <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">QUAY LAI MENU</Text>
-   <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Dang thiet lap sanh cho...</Text>
-   <Text id="menu.lobby.connectingToLobby" hash="I/rxoF7Amn8z0iSGImViCMccl7A=">Dang ket noi sanh cho...</Text>
-   <Text id="menu.lobby.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Da ket noi</Text>
-   <Text id="menu.lobby.enteredOfflineLobby" hash="bfrabPXFtsmjehohcCyFPew3XUo=">Da vao sanh cho</Text>
-   <Text id="menu.lobby.player" hash="5TQHz+GlFWufDR7tO6te8651z9g=">Nguoi Choi</Text>
+   <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Đang chờ người chơi tham gia</Text>
+   <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">SẢNH CHỜ</Text>
+   <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BẮT ĐẦU</Text>
+   <Text id="menu.lobby.exit" hash="VZ6VHQJWpDjI73txokI7wiNAUrM=">QUAY LẠI MENU CHÍNH</Text>
+   <Text id="menu.lobby.settingUpLobby" hash="+/DjI5JRXY5ui6qCQoqDXtWoOFs=">Đang thiết lập sảnh chờ...</Text>
+   <Text id="menu.lobby.connectingToLobby" hash="I/rxoF7Amn8z0iSGImViCMccl7A=">Đang kết nối sảnh chờ...</Text>
+   <Text id="menu.lobby.connected" hash="wvm3tIl/A/lKv5IpTJykb+piNgs=">Đã kết nối</Text>
+   <Text id="menu.lobby.enteredOfflineLobby" hash="bfrabPXFtsmjehohcCyFPew3XUo=">Đã vào sảnh chờ</Text>
+   <Text id="menu.lobby.player" hash="5TQHz+GlFWufDR7tO6te8651z9g=">Người chơi</Text>
    <Text id="menu.lobby.cpu" hash=""></Text>
-   <Text id="menu.lobby.startHostOnly" hash="ddLyyMXzxdEySLWLrTEb09vPAtw=">Chi co Chu Server moi bat dau Tro Choi...</Text>
-   <Text id="menu.lobby.slot.closed" hash="iNhrdyHVh2ROnEzzOghCAss7D/A=">Dong</Text>
-   <Text id="menu.lobby.slot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Mo</Text>
-   <Text id="menu.lobby.slot.bot.easy" hash="8u7Yb3o6IsOZ/HDbDsYZy0+5wPM=">Bot (De)</Text>
-   <Text id="menu.lobby.slot.bot.normal" hash="FKHW5k2gyeDnm74fMgCkUN8uazU=">Bot (Trung Binh)</Text>
-   <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">Bot (Kho)</Text>
-   <Text id="menu.lobby.slot.bot.expert" hash="bF7iJVgCehgDQdNXyQ2sjrzPyqk=">Bot (Rat Kho)</Text>
-   <Text id="menu.lobby.newPlayerJoined" hash="ynaBYw6d3uB2tLlugMIc1WnrsTQ=">&quot;{0}&quot; da tham gia</Text>
-   <Text id="menu.lobby.newPlayerJoined.toHost" hash="RQETpAV79K6H5KOvZup9XhE76Nw=">&quot;{0}&quot; da tham gia (Tu {1})</Text>
-   <Text id="menu.lobby.newPlayerJoinedTeam" hash="IHfhzy6F6CvOPBolJoKZ1onRNR4=">&quot;{0}&quot; da tham gia doi {1}</Text>
-   <Text id="menu.lobby.newPlayerJoinedTeam.toHost" hash="qzwS/LtpL1Fw5rLlu4NdgoVWfjM=">&quot;{0}&quot; da tham gia doi {1} tu doi {2}</Text>
-   <Text id="menu.lobby.playerConnectionLost" hash="T3ejSrdBeduwp/6Rty6khmExSUU=">&quot;{0}&quot; da mat ket noi</Text>
-   <Text id="menu.lobby.playerConnectionLost.toHost" hash="6MJmxlNZv8nhU4H0CTwUVpaQ4R8=">&quot;{0}&quot; da mat ket noi tu {1}</Text>
-   <Text id="menu.lobby.playerLeftGame" hash="uM5uYL9ubH8PX6WKx56QZi/XjuM=">&quot;{0}&quot; da roi server</Text>
-   <Text id="menu.lobby.playerLeftGame.toHost" hash="xrvMFHYBPJUieZY4VlGX3e4AvcM=">&quot;{0}&quot; da roi server tu {1}</Text>
-   <Text id="menu.lobby.player.unknown" hash=""></Text>
-   <Text id="menu.lobby.helpText" hash="XKrK4SDtG7CgkpHA/h+2T9Hz1Hk=">Dung lenh &quot;/help&quot; de xem danh sach cac lenh.</Text>
-   <Text id="menu.browseGames" hash="8pnxBikWXEwxyVkr6/7FC7TbtbY=">DANH SACH SERVER</Text>
-   <Text id="menu.browseGames.filter" hash="197PGqIrAq6Kv5qWhJ7kI+7oOOQ=">Loc</Text>
+   <Text id="menu.lobby.startHostOnly" hash="ddLyyMXzxdEySLWLrTEb09vPAtw=">Chỉ có chủ server mới có thể bắt đầu trò chơi</Text>
+   <Text id="menu.lobby.slot.closed" hash="iNhrdyHVh2ROnEzzOghCAss7D/A=">Đóng</Text>
+   <Text id="menu.lobby.slot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Mở</Text>
+   <Text id="menu.lobby.slot.bot.easy" hash="8u7Yb3o6IsOZ/HDbDsYZy0+5wPM=">Bot Dễ)</Text>
+   <Text id="menu.lobby.slot.bot.normal" hash="FKHW5k2gyeDnm74fMgCkUN8uazU=">Bot (Trung Bình)</Text>
+   <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">Bot Khó)</Text>
+   <Text id="menu.lobby.slot.bot.expert" hash="bF7iJVgCehgDQdNXyQ2sjrzPyqk=">Bot Rất Khó)</Text>
+   <Text id="menu.lobby.newPlayerJoined" hash="ynaBYw6d3uB2tLlugMIc1WnrsTQ=">&quot;{0}&quot; đã tham gia</Text>
+   <Text id="menu.lobby.newPlayerJoined.toHost" hash="RQETpAV79K6H5KOvZup9XhE76Nw=">&quot;{0}&quot; đã tham gia (từ {1})</Text>
+   <Text id="menu.lobby.newPlayerJoinedTeam" hash="IHfhzy6F6CvOPBolJoKZ1onRNR4=">&quot;{0}&quot; đã tham gia đội {1}</Text>
+   <Text id="menu.lobby.newPlayerJoinedTeam.toHost" hash="qzwS/LtpL1Fw5rLlu4NdgoVWfjM=">&quot;{0}&quot; đã tham gia đội {1} từ đội {2}</Text>
+   <Text id="menu.lobby.playerConnectionLost" hash="T3ejSrdBeduwp/6Rty6khmExSUU=">&quot;{0}&quot; đã mất kết nối</Text>
+   <Text id="menu.lobby.playerConnectionLost.toHost" hash="6MJmxlNZv8nhU4H0CTwUVpaQ4R8=">&quot;{0}&quot; đã mất kết nối từ {1}</Text>
+   <Text id="menu.lobby.playerLeftGame" hash="uM5uYL9ubH8PX6WKx56QZi/XjuM=">&quot;{0}&quot; đã rời đi</Text>
+   <Text id="menu.lobby.playerLeftGame.toHost" hash="xrvMFHYBPJUieZY4VlGX3e4AvcM=">&quot;{0}&quot; đã rời đi từ {1}</Text>
+   <Text id="menu.lobby.player.unknown" hash="vHgZs0/4dXB0X75GHjahb4DlYs4=">Không rõ</Text>
+   <Text id="menu.lobby.helpText" hash="XKrK4SDtG7CgkpHA/h+2T9Hz1Hk=">Dùng lệnh &quot;/help&quot; để xem danh sách các lệnh.</Text>
+   <Text id="menu.browseGames" hash="8pnxBikWXEwxyVkr6/7FC7TbtbY=">THAM GIA SERVER</Text>
+   <Text id="menu.browseGames.filter" hash="197PGqIrAq6Kv5qWhJ7kI+7oOOQ=">Lọc</Text>
    <Text id="menu.browseGames.filter.ping" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.50" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.75" hash=""></Text>
@@ -255,8 +255,8 @@
    <Text id="menu.browseGames.filter.ping.150" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.200" hash=""></Text>
    <Text id="menu.browseGames.filter.ping.300" hash=""></Text>
-   <Text id="menu.browseGames.filter.ping.all" hash="anIIVlPkxb6MdkDIaO94fLzwY9E=">Tat Ca</Text>
-   <Text id="menu.browseGames.filter.hasPlayers" hash="VGoKnHSjWxDs6scOAJJquPsZsUk=">CO NGUOI CHOI</Text>
+   <Text id="menu.browseGames.filter.ping.all" hash="anIIVlPkxb6MdkDIaO94fLzwY9E=">Tất Cả</Text>
+   <Text id="menu.browseGames.filter.hasPlayers" hash="VGoKnHSjWxDs6scOAJJquPsZsUk=">CÓ NGƯỜI CHƠI</Text>
    <Text id="menu.browseGames.filter.notFull" hash="YZDe9fl+o6wYZvyF6l6p6Oqtcrc=">CHUA DAY</Text>
    <Text id="menu.browseGames.filter.noPassword" hash="6y07gCD3hWLdahYlyrzjzFVMs3I=">KHONG CO MAT KHAU</Text>
    <Text id="menu.browseGames.findResult" hash="IwJe3btFcXQN5DdDA4USKRosRRk=">Da tim thay {0} server</Text>
