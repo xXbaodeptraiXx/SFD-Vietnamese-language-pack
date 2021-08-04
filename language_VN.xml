@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="7eb073b2-8d60-40fe-9138-51b3ce6494d7" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="8ea9aa18-faf9-4775-822d-f8979e591c36" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -121,7 +121,7 @@
    <Text id="menu.hostGame.group.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="menu.hostGame.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">TEN</Text>
    <Text id="menu.hostGame.name.tooltip" hash="ZNfErc0coFi/3vuSkifUc6XB7yg=">Ten de hien thi trong danh sach server.</Text>
-   <Text id="menu.hostGame.gameMode" hash="7ClX4AB9eu7qtaHNFAAvpIrnxKM=">THE LOAI GAME</Text>
+   <Text id="menu.hostGame.gameMode" hash="7ClX4AB9eu7qtaHNFAAvpIrnxKM=">CHE DO SERVER</Text>
    <Text id="menu.hostGame.description" hash="DO7L6p03JQhg4bMIbGHzJ4fn6Dc=">MIEU TA</Text>
    <Text id="menu.hostGame.password" hash="ESu3kTBHkd3PaS4p/VzxSbNf6jc=">MAT KHAU</Text>
    <Text id="menu.hostGame.password.tooltip" hash="WjP/sysot+K56qelm0OlVXvbLFk=">Dat mat khau cho server</Text>
@@ -145,7 +145,7 @@
    <Text id="menu.hostGame.gamePublicity" hash="xZpRINgrCgYIC/ZCT5dOLFb+U8Y=">THE LOAI GAME</Text>
    <Text id="menu.hostGame.gamePublicity.public" hash="3F63BLvK4a/077ccVUYdR3Z9q+c=">Cong Khai</Text>
    <Text id="menu.hostGame.gamePublicity.private" hash="I336CiHI4Xpyds8WHu9+D7oGfEc=">Rieng Tu</Text>
-   <Text id="menu.hostGame.gamePublicity.offline" hash=""></Text>
+   <Text id="menu.hostGame.gamePublicity.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoai Tuyen</Text>
    <Text id="menu.hostGame.gamePublicity.public.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.private.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.offline.tooltip" hash=""></Text>
