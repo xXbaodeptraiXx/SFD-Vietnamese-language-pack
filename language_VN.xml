@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="VN" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="61dafe32-05a1-4ba9-8cdc-25ec402b2229" publishId="" oh="" description="">
+<Texts name="VN" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="e48395a5-3d8d-41b9-a034-4571910711eb" publishId="" oh="" description="">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -140,12 +140,12 @@
    <Text id="menu.hostGame.difficultyLevel.hard" hash="IKiZFfGMFegV5kIr8CymlE9t2Ng=">Kho</Text>
    <Text id="menu.hostGame.difficultyLevel.expert" hash="16UB+DJC/ZQLgZBSlDLgcD3XYG8=">Rat Kho</Text>
    <Text id="menu.hostGame.customMap" hash="lRtDoChBUrK0NBlGWeX6Rqat4ig=">Map Custom...</Text>
-   <Text id="menu.hostGame.publicGame" hash="9yonSiNOmsYqwdTWSzayNbHca64=">Map</Text>
+   <Text id="menu.hostGame.publicGame" hash="9yonSiNOmsYqwdTWSzayNbHca64=">Server </Text>
    <Text id="menu.hostGame.publicGame.tooltip" hash="0HNNIrL/6NlIv4uy7kct3SCfdr0=">Makes your game visible in the game browser. Otherwise, connect-to-IP must be used.</Text>
    <Text id="menu.hostGame.gamePublicity" hash="xZpRINgrCgYIC/ZCT5dOLFb+U8Y=">THE LOAI GAME</Text>
    <Text id="menu.hostGame.gamePublicity.public" hash=""></Text>
-   <Text id="menu.hostGame.gamePublicity.private" hash=""></Text>
-   <Text id="menu.hostGame.gamePublicity.offline" hash=""></Text>
+   <Text id="menu.hostGame.gamePublicity.private" hash="I336CiHI4Xpyds8WHu9+D7oGfEc=">Rieng Tu</Text>
+   <Text id="menu.hostGame.gamePublicity.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Offline</Text>
    <Text id="menu.hostGame.gamePublicity.public.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.private.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.offline.tooltip" hash=""></Text>
