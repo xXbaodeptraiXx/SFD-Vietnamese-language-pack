@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="4d5818c9-8b93-47cc-8080-80de1d14525d" publishId="" oh="" description="">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="12909d36-c459-4fd5-abc4-b49c6b5f738d" publishId="" oh="" description="">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -79,7 +79,7 @@
    <Text id="menu.settings.effectLevel.tooltip" hash=""></Text>
    <Text id="menu.settings.effectLevel.low" hash="oSSUfL0tHZK0fgJydMMmn/DHqEs=">Thap</Text>
    <Text id="menu.settings.effectLevel.normal" hash="ReEY0FY+qFgfgw9G6FtgrnFPquQ=">Trung Binh</Text>
-   <Text id="menu.settings.enableVSYNC" hash="n2kdumFe8F1Itz/4mFza2UZkCVU=">Cao</Text>
+   <Text id="menu.settings.enableVSYNC" hash=""></Text>
    <Text id="menu.settings.enableVSYNC.tooltip" hash=""></Text>
    <Text id="menu.settings.startcamera" hash="YTfMgTCSQROf9Tma5GtsLrSppQo=">CHE DO CAMERA DAU TRAN</Text>
    <Text id="menu.settings.startcamera.tooltip" hash="itYA8rI7gIXesvQqJHi+41KbDvI=">Che do camera mac dinh duoc dung o dau tran.</Text>
@@ -173,7 +173,7 @@
    <Text id="menu.hostGame.mapRotationActive" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.tooltip" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.none" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.vote" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationActive.vote" hash="ZPhykUGGfT8mNEJAZ9OBE6zHD4M=">Chon map</Text>
    <Text id="menu.hostGame.mapRotationActive.sequential" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.random" hash=""></Text>
    <Text id="menu.hostGame.mapRotationActive.none.tooltip" hash=""></Text>
@@ -185,9 +185,9 @@
    <Text id="menu.hostGame.mapRotationMapsCategory" hash=""></Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.tooltip" hash=""></Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.official.survival" hash="QqiIot5Y842kAFFcRzhaidlxLIY=">Sinh Ton (Chinh Thuc)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.official.versus" hash="zI+YzIdPFiVi19foU9oQsF4lONY=">Danh Nhau (Chinh Thuc)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.versus" hash="zI+YzIdPFiVi19foU9oQsF4lONY=">Chien Dau (Chinh Thuc)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.official.campaign" hash="OYtJkWMV8OGSasQwk/z8Ems8qW4=">Cot Truyen (Chinh Thuc)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.allversus" hash="PX1Z8q3JE94mGBhw9mb0GofFa2U=">Danh Nhau (Tat Ca)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allversus" hash="PX1Z8q3JE94mGBhw9mb0GofFa2U=">Chien Dau (Tat Ca)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.allsurvival" hash="rAKfaL9zHR+GjV+5KZC1sK6ZVg4=">Sinh Ton (Tat Ca)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.allcampaign" hash="nw4+6IGqGlV6ADHBavaTOESj5rM=">Cot Truyen (Tat Ca)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.allother" hash="bmpvIIa7X+Xb/RfY1fUC1IdZg0s=">Khac</Text>
@@ -292,7 +292,7 @@
    <Text id="menu.challengesPanel.progress" hash=""></Text>
    <Text id="dedicatedserver.tab.chat" hash=""></Text>
    <Text id="dedicatedserver.tab.hostOptions" hash=""></Text>
-   <Text id="dedicatedserver.tab.scripts" hash=""></Text>
+   <Text id="dedicatedserver.tab.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="dedicatedserver.tab.manageKickBans" hash=""></Text>
    <Text id="dedicatedserver.tab.serverStatus" hash=""></Text>
    <Text id="dedicatedserver.tab.gameSlots" hash=""></Text>
@@ -321,7 +321,7 @@
    <Text id="dedicatedserver.menu.ban.confirm.question" hash=""></Text>
    <Text id="dedicatedserver.menu.gameslot.open" hash=""></Text>
    <Text id="dedicatedserver.menu.gameslot.close" hash=""></Text>
-   <Text id="dedicatedserver.menu.startServer.selectedMapIsMissing" hash=""></Text>
+   <Text id="dedicatedserver.menu.startServer.selectedMapIsMissing" hash="w72L/gskw3u2y2xrPOUKz6unauE=">Ban phai chon map truoc khi tao server.</Text>
    <Text id="dedicatedserver.button.defaultPort" hash=""></Text>
    <Text id="dedicatedserver.button.applyChanges" hash=""></Text>
    <Text id="dedicatedserver.button.discardChanges" hash=""></Text>
@@ -398,7 +398,7 @@
    <Text id="menu.gameplayTip24" hash=""></Text>
    <Text id="menu.gameplayTip25" hash=""></Text>
    <Text id="menu.gameplayTip26" hash=""></Text>
-   <Text id="menu.gameplayTip27" hash=""></Text>
+   <Text id="menu.gameplayTip27" hash="UfVtt8xTSwkzTW87N4hJfgGUZUg=">Ban co the chuyen qua lai nhung meo bang cach nhan + va -.</Text>
    <Text id="menu.gameplayTip28" hash=""></Text>
    <Text id="menu.gameplayTip29" hash=""></Text>
    <Text id="menu.gameplayTip30" hash=""></Text>
@@ -412,16 +412,16 @@
    <Text id="statusText.getReady" hash=""></Text>
    <Text id="statusText.wave" hash=""></Text>
    <Text id="statusText.fight" hash=""></Text>
-   <Text id="statusText.victory" hash=""></Text>
+   <Text id="statusText.victory" hash="O2K05+8LmpFahaxxam8XlyZSxig=">CHIEN THANG!</Text>
    <Text id="statusText.defeat" hash=""></Text>
    <Text id="statusText.draw" hash=""></Text>
    <Text id="statusText.nobody" hash=""></Text>
-   <Text id="statusText.wins" hash=""></Text>
+   <Text id="statusText.wins" hash="s/K14DlT/T2cxZwIETzVb6D4Oxk=">THANG!</Text>
    <Text id="statusText.timesup" hash=""></Text>
    <Text id="statusText.mapVoteToContinue" hash=""></Text>
    <Text id="statusText.autoVoteTimer" hash=""></Text>
    <Text id="statusText.voteToContinue" hash=""></Text>
-   <Text id="statusText.youAreDead" hash=""></Text>
+   <Text id="statusText.youAreDead" hash="J5cUDFFvkcloFUsag1CupYHWk+M=">BAN DA CHET</Text>
    <Text id="statusText.spectating" hash=""></Text>
    <Text id="statusText.wavegameover" hash=""></Text>
    <Text id="statusText.survivalfinalscore" hash=""></Text>
@@ -434,7 +434,7 @@
    <Text id="game.survival.liferemains.one" hash=""></Text>
    <Text id="game.survival.liferemains.many" hash=""></Text>
    <Text id="game.survival.noplayingusers" hash=""></Text>
-   <Text id="game.warning.nobotpathgrid" hash=""></Text>
+   <Text id="game.warning.nobotpathgrid" hash="WMOXsx2BjYzc/6gyCZ4A9XQVb6A=">Canh Bao: Bot khong the di chuyen vi map nay thieu chi dan duong di cho bot.</Text>
    <Text id="team.independent" hash=""></Text>
    <Text id="team.1" hash=""></Text>
    <Text id="team.2" hash=""></Text>
@@ -443,7 +443,7 @@
    <Text id="team.1.color" hash=""></Text>
    <Text id="team.2.color" hash=""></Text>
    <Text id="team.3.color" hash=""></Text>
-   <Text id="team.4.color" hash=""></Text>
+   <Text id="team.4.color" hash="NSb2B7zU9RrQvAX4FFeaQsLAulc=">Vang</Text>
    <Text id="loading" hash=""></Text>
    <Text id="loading.content" hash=""></Text>
    <Text id="loading.mapeditor" hash=""></Text>
@@ -491,12 +491,12 @@
    <Text id="general.low" hash=""></Text>
    <Text id="general.high" hash=""></Text>
    <Text id="general.map" hash=""></Text>
-   <Text id="general.yes" hash=""></Text>
+   <Text id="general.yes" hash="U5fgWD8U9siN4Gse8o9GCh+1sK4=">Co</Text>
    <Text id="general.no" hash=""></Text>
    <Text id="general.ready" hash=""></Text>
    <Text id="general.empty" hash=""></Text>
    <Text id="general.spectator" hash=""></Text>
-   <Text id="general.user" hash=""></Text>
+   <Text id="general.user" hash="n4ojiaIMoHUqqelQk1FVF+kOGUw=">Nguoi Dung</Text>
    <Text id="general.bot" hash=""></Text>
    <Text id="general.enable" hash=""></Text>
    <Text id="general.disable" hash=""></Text>
@@ -515,17 +515,17 @@
    <Text id="connection.success.serverFound" hash=""></Text>
    <Text id="connection.failed.lost" hash=""></Text>
    <Text id="connection.failed.connectToServer" hash=""></Text>
-   <Text id="connection.failed.kicked" hash=""></Text>
-   <Text id="connection.failed.highping" hash=""></Text>
+   <Text id="connection.failed.kicked" hash="hh8BOoYAIO87Hia0xAUtpTcuTEA=">Ban da bi kick khoi server.</Text>
+   <Text id="connection.failed.highping" hash="gu89k75cWybbstGlRr02q2cbZJU=">Ping cua ban qua cao va ban da bi kick khoi server.</Text>
    <Text id="connection.failed.afktime" hash=""></Text>
    <Text id="connection.failed.slowLoading" hash=""></Text>
-   <Text id="connection.failed.banned" hash=""></Text>
+   <Text id="connection.failed.banned" hash="bvGBIz6kWj0tMWpFyJaO4EF/V9k=">Ban da bi BAN khoi server.</Text>
    <Text id="connection.failed.notnegotiated" hash=""></Text>
    <Text id="connection.failed.serverBusyLoading" hash=""></Text>
    <Text id="connection.failed.serverRefused" hash=""></Text>
    <Text id="connection.failed.serverRefusedInvalidPassword" hash=""></Text>
    <Text id="connection.failed.serverRefusedInvalidAccount" hash=""></Text>
-   <Text id="connection.failed.serverRefusedKickTimeout" hash=""></Text>
+   <Text id="connection.failed.serverRefusedKickTimeout" hash="VFeum7c+Ad78yuGlD2O3icskw7w=">Ban da bi kick khoi server nay gan day va hien tai khong the vao lai.</Text>
    <Text id="connection.failed.gameIsFull" hash=""></Text>
    <Text id="connection.failed.differentVersions" hash=""></Text>
    <Text id="keyinput" hash=""></Text>
@@ -566,21 +566,21 @@
    <Text id="key.K_DRAW_HANDGUN" hash=""></Text>
    <Text id="key.K_DRAW_RIFLE" hash=""></Text>
    <Text id="key.K_DRAW_GRENADE" hash=""></Text>
-   <Text id="key.K_DRAW_SPECIAL" hash=""></Text>
+   <Text id="key.K_DRAW_SPECIAL" hash="VBfrxWEWYU7mxgvE7mnMZwxsNzc=">DUNG TANG LUC</Text>
    <Text id="key.K_ACTIVATE" hash=""></Text>
    <Text id="key.K_RELOAD" hash=""></Text>
    <Text id="key.K_SHEATHE" hash=""></Text>
    <Text id="key.K_DROP" hash=""></Text>
    <Text id="key.K_SPRINT" hash=""></Text>
-   <Text id="key.K_WALK" hash=""></Text>
+   <Text id="key.K_WALK" hash="q+WeNk8ea6T7KPcXAOd4hGfRFe4=">DI BO</Text>
    <Text id="key.K_GRAB" hash=""></Text>
    <Text id="key.K_START" hash=""></Text>
    <Text id="key.K_AD_GRAB_ENABLED" hash=""></Text>
    <Text id="key.K_DOUBLE_TAP_SPRINT_ENABLED" hash=""></Text>
    <Text id="key.xbox.A" hash=""></Text>
    <Text id="key.xbox.B" hash=""></Text>
-   <Text id="key.xbox.X" hash=""></Text>
-   <Text id="key.xbox.Y" hash=""></Text>
+   <Text id="key.xbox.X" hash="wDKtwf9inJtm8idJrWZ+a+rfFEs=">X</Text>
+   <Text id="key.xbox.Y" hash="I+tNP0FVOVp06dU0+X/0wZCPWqw=">Y</Text>
    <Text id="key.xbox.Back" hash=""></Text>
    <Text id="key.xbox.Start" hash=""></Text>
    <Text id="key.xbox.LeftBumper" hash=""></Text>
@@ -601,11 +601,11 @@
    <Text id="key.xbox.DirectionalPad.Down" hash=""></Text>
    <Text id="key.xbox.DirectionalPad.Left" hash=""></Text>
    <Text id="key.xbox.DirectionalPad.Right" hash=""></Text>
-   <Text id="vote.nextmap" hash=""></Text>
+   <Text id="vote.nextmap" hash="sNJuQzgjvCy2ZWHNHfMr5RK1I1o=">Chon map tiep theo</Text>
    <Text id="vote.nextmap.alternative.official" hash=""></Text>
    <Text id="vote.nextmap.alternative.custom" hash=""></Text>
    <Text id="vote.timeremaining.seconds" hash=""></Text>
-   <Text id="mapType.versus" hash=""></Text>
+   <Text id="mapType.versus" hash="bCqa2dWvpZO+695E/aurx/91o04=">Chien Dau</Text>
    <Text id="mapType.custom" hash=""></Text>
    <Text id="mapType.campaign" hash=""></Text>
    <Text id="mapType.survival" hash=""></Text>
@@ -635,12 +635,12 @@
    <Text id="tutorial.prompt.aiming" hash=""></Text>
    <Text id="tutorial.prompt.throwables" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part1" hash=""></Text>
-   <Text id="tutorial.prompt.dialogue.inspirational.part2" hash=""></Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part2" hash="7wIQM1ikG0krWLz00h70CMtpB34=">SAI!!</Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part3" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part4" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part5" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.inspirational.part6" hash=""></Text>
-   <Text id="tutorial.prompt.dialogue.inspirational.part7" hash=""></Text>
+   <Text id="tutorial.prompt.dialogue.inspirational.part7" hash="keDLHhpV+0xRvg4OliS0j2FNjBk=">May sap bi an hanh do thang nhoc ec!</Text>
    <Text id="tutorial.prompt.dialogue.movealong" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.stayalert" hash=""></Text>
    <Text id="tutorial.prompt.dialogue.throwbegin" hash=""></Text>
@@ -654,7 +654,7 @@
    <Text id="properties.mapDescription.description" hash=""></Text>
    <Text id="properties.mapType" hash=""></Text>
    <Text id="properties.mapType.description" hash=""></Text>
-   <Text id="properties.scriptType" hash=""></Text>
+   <Text id="properties.scriptType" hash="v6a34Tq6qhysImEnw+SUd2vi4EE=">Loai script</Text>
    <Text id="properties.scriptType.description" hash=""></Text>
    <Text id="properties.mapTotalPlayers" hash=""></Text>
    <Text id="properties.mapTotalPlayers.description" hash=""></Text>
@@ -671,12 +671,12 @@
    <Text id="properties.mapTags" hash=""></Text>
    <Text id="properties.mapTags.description" hash=""></Text>
    <Text id="properties.group.mapInformation" hash=""></Text>
-   <Text id="properties.group.worldProperties" hash=""></Text>
+   <Text id="properties.group.worldProperties" hash="/GUUTIGjtH8j4ZQ9fOHdJXEHY2U=">Thuoc tinh the gioi</Text>
    <Text id="properties.mapobjectid" hash=""></Text>
    <Text id="properties.baseid" hash=""></Text>
    <Text id="properties.id" hash=""></Text>
    <Text id="properties.id.description" hash=""></Text>
-   <Text id="properties.weaponspawnchances" hash=""></Text>
+   <Text id="properties.weaponspawnchances" hash="lU6ZARyvsHRfLenPWSx3W1Jv3ws=">Ti le xuat hien vu khi</Text>
    <Text id="properties.weaponspawnchances.description" hash=""></Text>
    <Text id="properties.thumbnailimage" hash=""></Text>
    <Text id="properties.thumbnailimage.description" hash=""></Text>
@@ -687,7 +687,7 @@
    <Text id="properties.textAlign.Left" hash=""></Text>
    <Text id="properties.textAlign.Middle" hash=""></Text>
    <Text id="properties.textAlign.Right" hash=""></Text>
-   <Text id="properties.weather" hash=""></Text>
+   <Text id="properties.weather" hash="KErz6IgrvEV2BSG+LxAKLRBP9dg=">Thoi Tiet</Text>
    <Text id="properties.weather.description" hash=""></Text>
    <Text id="properties.grenade.dudChance" hash=""></Text>
    <Text id="properties.grenade.dudChance.description" hash=""></Text>
@@ -828,7 +828,7 @@
    <Text id="properties.spawnWeaponArea.frequencyModifier.description" hash=""></Text>
    <Text id="properties.soundArea.ambientSound" hash=""></Text>
    <Text id="properties.soundArea.ambientSound.description" hash=""></Text>
-   <Text id="properties.soundArea.intensity" hash=""></Text>
+   <Text id="properties.soundArea.intensity" hash="jo3FPmnndxIQkzaYrdL8L0ojHHU=">Am Luong ([0-100]%)</Text>
    <Text id="properties.soundArea.intensity.description" hash=""></Text>
    <Text id="properties.soundArea.fadeInDistance" hash=""></Text>
    <Text id="properties.soundArea.fadeInDistance.description" hash=""></Text>
@@ -850,7 +850,7 @@
    <Text id="properties.script.timerInterval.description" hash=""></Text>
    <Text id="properties.script.timerRepeatCount" hash=""></Text>
    <Text id="properties.script.timerRepeatCount.description" hash=""></Text>
-   <Text id="properties.script.scriptToRun" hash=""></Text>
+   <Text id="properties.script.scriptToRun" hash="vHHa5kKVQOT4V1whf5pCCT4S+QU=">Ham script</Text>
    <Text id="properties.script.scriptToRun.description" hash=""></Text>
    <Text id="properties.script.activateTrigger.highlightObject" hash=""></Text>
    <Text id="properties.script.activateTrigger.highlightObject.description" hash=""></Text>
@@ -872,7 +872,7 @@
    <Text id="properties.script.gameOverTrigger.challengeCompleted.description" hash=""></Text>
    <Text id="properties.script.playSoundTrigger.soundID" hash=""></Text>
    <Text id="properties.script.playSoundTrigger.soundID.description" hash=""></Text>
-   <Text id="properties.script.playSoundTrigger.volume" hash=""></Text>
+   <Text id="properties.script.playSoundTrigger.volume" hash="Oxjo4zJQDz3+2yGwrtaGz6mDLP4=">Am Luong</Text>
    <Text id="properties.script.playSoundTrigger.volume.description" hash=""></Text>
    <Text id="properties.script.cameraAreaTrigger.primaryTarget" hash=""></Text>
    <Text id="properties.script.cameraAreaTrigger.primaryTarget.description" hash=""></Text>
@@ -1020,7 +1020,7 @@
    <Text id="properties.script.playerCommand.action.None" hash=""></Text>
    <Text id="properties.script.playerCommand.action.StartMoveToPosition" hash=""></Text>
    <Text id="properties.script.playerCommand.action.WaitDestinationReached" hash=""></Text>
-   <Text id="properties.script.playerCommand.action.Walk" hash=""></Text>
+   <Text id="properties.script.playerCommand.action.Walk" hash="4McF0Y4/rkUG1yc72mQ1aQzb3gg=">Di Bo</Text>
    <Text id="properties.script.playerCommand.action.Run" hash=""></Text>
    <Text id="properties.script.playerCommand.action.Sprint" hash=""></Text>
    <Text id="properties.script.playerCommand.action.Jump" hash=""></Text>
@@ -1173,7 +1173,7 @@
    <Text id="properties.script.streetsweeper.movement.description" hash=""></Text>
    <Text id="properties.script.streetsweeper.movement.stationary" hash=""></Text>
    <Text id="properties.script.streetsweeper.movement.moving" hash=""></Text>
-   <Text id="properties.script.streetsweeper.weapon" hash=""></Text>
+   <Text id="properties.script.streetsweeper.weapon" hash="6tUzaF4mLqsJtckBO+5dTBIPzSY=">Vu Khi</Text>
    <Text id="properties.script.streetsweeper.weapon.description" hash=""></Text>
    <Text id="properties.script.streetsweeper.weapon.machinegun" hash=""></Text>
    <Text id="properties.script.streetsweeper.weapon.flamethrower" hash=""></Text>
@@ -1260,7 +1260,7 @@
    <Text id="items.Machete" hash="Nj4MbWkAvtSi/JU0iuv3X5fUtIs=">Dao</Text>
    <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Gay Bong Chay</Text>
    <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Dui Cui</Text>
-   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Sawed-off shotgun</Text>
+   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Shotgun Cua Nong</Text>
    <Text id="items.Magnum" hash="wVZrJiUPdLGNQGEtXnnqy+bwARk=">Magnum</Text>
    <Text id="items.Revolver" hash="mUKlKMUGCqmqrmaC1FtRsafLTQI=">Revolver</Text>
    <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Sung Luc Lua</Text>
@@ -1317,7 +1317,7 @@
    <Text id="equipment.layer.legs" hash=""></Text>
    <Text id="equipment.layer.feet" hash=""></Text>
    <Text id="mapEditor" hash=""></Text>
-   <Text id="mapEditor.scriptDialog" hash=""></Text>
+   <Text id="mapEditor.scriptDialog" hash="xk2uAFOa0MKvY3H56qST3juulIg=">Trinh chinh sua script</Text>
    <Text id="mapEditor.scriptDialog.compileToolStripMenuItem" hash=""></Text>
    <Text id="mapEditor.scriptDialog.scriptAPIToolStripMenuItem" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorList" hash=""></Text>
@@ -1326,11 +1326,11 @@
    <Text id="mapEditor.scriptDialog.errorSource" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorType" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorType.error" hash=""></Text>
-   <Text id="mapEditor.scriptDialog.errorType.warning" hash=""></Text>
+   <Text id="mapEditor.scriptDialog.errorType.warning" hash="6cRVYzWOgT8Ve6gbMxQ1QhZbqE4=">Canh Bao</Text>
    <Text id="mapEditor.scriptDialog.errorRow" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorColumn" hash=""></Text>
-   <Text id="mapEditor.scriptDialog.compileResult.errors" hash=""></Text>
-   <Text id="mapEditor.scriptDialog.compileResult.OK" hash=""></Text>
+   <Text id="mapEditor.scriptDialog.compileResult.errors" hash="y/S3Ir8QEJvyNFWcBX/jgDP5LAQ=">Script co loi. Vui long sua lai loi va thu dich lai script.</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.OK" hash="1KruPmjdC/1uWkNjB/l/l+nTU/g=">Da dich script thanh cong.</Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.title" hash=""></Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.resetToDefault" hash=""></Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.spawnChance" hash=""></Text>
@@ -1348,11 +1348,11 @@
    <Text id="mapEditor.mapThumbnailDialog.image.tooltip" hash=""></Text>
    <Text id="mapEditor.mapThumbnailDialog.imagesize.title" hash=""></Text>
    <Text id="mapEditor.mapThumbnailDialog.imagesize.message" hash=""></Text>
-   <Text id="mapEditor.searchDialog" hash=""></Text>
+   <Text id="mapEditor.searchDialog" hash="SvwpxG/BgXZD2vLc1RpicTlfB2k=">Ket Qua Tim Kiem</Text>
    <Text id="mapEditor.searchDialog.infoLabel.plural" hash=""></Text>
    <Text id="mapEditor.searchDialog.infoLabel.singular" hash=""></Text>
    <Text id="mapEditor.searchDialog.infoLabel.none" hash=""></Text>
-   <Text id="mapEditor.steamUpload.title" hash=""></Text>
+   <Text id="mapEditor.steamUpload.title" hash="ZDEG/xwdqXuIYpEJTdHqabJBcsQ=">Dang len Steam Workshop</Text>
    <Text id="mapEditor.steamUpload.groupFileUpload" hash=""></Text>
    <Text id="mapEditor.steamUpload.itemType" hash=""></Text>
    <Text id="mapEditor.steamUpload.itemType.map" hash=""></Text>
@@ -1365,7 +1365,7 @@
    <Text id="mapEditor.steamUpload.description" hash=""></Text>
    <Text id="mapEditor.steamUpload.changeNote" hash=""></Text>
    <Text id="mapEditor.steamUpload.termsOfService" hash=""></Text>
-   <Text id="mapEditor.steamUpload.status.uploading" hash=""></Text>
+   <Text id="mapEditor.steamUpload.status.uploading" hash="Bw4yjsiqlt366J0uS6QW4YffsqQ=">Dang dang tai</Text>
    <Text id="mapEditor.steamUpload.validation.descriptionTooShort" hash=""></Text>
    <Text id="mapEditor.steamUpload.warn.noPreviewImage" hash=""></Text>
    <Text id="mapEditor.steamUpload.error.mapIsOpen" hash=""></Text>
@@ -1374,7 +1374,7 @@
    <Text id="mapEditor.steamUpload.error.mapOwnerMissmatch" hash=""></Text>
    <Text id="mapEditor.steamUpload.error.cantUploadMap" hash=""></Text>
    <Text id="mapEditor.steamUpload.error.invalidLanguageXML" hash=""></Text>
-   <Text id="mapEditor.steamUpload.success.mapUploaded" hash=""></Text>
+   <Text id="mapEditor.steamUpload.success.mapUploaded" hash="B6YZc4QK2ns7WYgtp3n4jw31LeY=">Da tai len thanh cong!</Text>
    <Text id="mapEditor.contextmenu.group" hash=""></Text>
    <Text id="mapEditor.contextmenu.ungroup" hash=""></Text>
    <Text id="mapEditor.contextmenu.entergroupedit" hash=""></Text>
@@ -1435,7 +1435,7 @@
    <Text id="mapEditor.mapPart.delete.confirm.title" hash=""></Text>
    <Text id="mapEditor.mapType.changeFromCampaign.mapPartsExist.text" hash=""></Text>
    <Text id="mapEditor.mapType.changeFromCampaign.mapPartsExist.title" hash=""></Text>
-   <Text id="mapEditor.zoom" hash=""></Text>
+   <Text id="mapEditor.zoom" hash="mzy+1cSQwHRzVGqIdouim3h+nlI=">Thu Phong</Text>
    <Text id="mapEditor.grid" hash=""></Text>
    <Text id="mapEditor.layer" hash=""></Text>
    <Text id="mapEditor.tabCommon" hash=""></Text>
@@ -1446,7 +1446,7 @@
    <Text id="mapEditor.moveLayerUp" hash=""></Text>
    <Text id="mapEditor.moveLayerDown" hash=""></Text>
    <Text id="mapEditor.screenPosition" hash=""></Text>
-   <Text id="mapEditor.worldPosition" hash=""></Text>
+   <Text id="mapEditor.worldPosition" hash="cMB+wY74nFMJu7CTfzpjQkEeH90=">The gioi</Text>
    <Text id="mapEditor.selectTarget" hash=""></Text>
    <Text id="mapEditor.selectTargets" hash=""></Text>
    <Text id="mapEditor.saveMap" hash=""></Text>
@@ -1499,7 +1499,7 @@
    <Text id="mapEditor.messages.nothingSelected" hash=""></Text>
    <Text id="mapEditor.messages.selectedTilesNotColorable" hash=""></Text>
    <Text id="mapEditor.messages.mapislocked" hash=""></Text>
-   <Text id="mapEditor.messages.editnotallowedwhilelocked" hash=""></Text>
+   <Text id="mapEditor.messages.editnotallowedwhilelocked" hash="ULGN+2RXom8Eqldn37j8cr9U/A0=">Khong the chinh sua nhung map da bi khoa.</Text>
    <Text id="mapEditor.messages.onlyscriptcanbeeditedforextensionscripts" hash=""></Text>
    <Text id="mapEditor.tileInformation.tile" hash=""></Text>
    <Text id="mapEditor.tileInformation.tiles" hash=""></Text>
@@ -1508,7 +1508,7 @@
    <Text id="mapEditor.tileInformation.type" hash=""></Text>
    <Text id="mapEditor.tileInformation.freeRotationDisabled" hash=""></Text>
    <Text id="mapEditor.tileInformation.totalFrames" hash=""></Text>
-   <Text id="mapEditor.tileInformation.scriptingInterfaces" hash=""></Text>
+   <Text id="mapEditor.tileInformation.scriptingInterfaces" hash="dSK+y+gU2LjLw3j4kwyMpouyuLU=">Script</Text>
    <Text id="mapEditor.tileInformation.helpEntry" hash=""></Text>
    <Text id="mapEditor.tileInformation.isLadder" hash=""></Text>
    <Text id="mapEditor.tileInformation.sizeable" hash=""></Text>
@@ -1546,8 +1546,8 @@
    <Text id="error.mapIsEditLocked" hash=""></Text>
    <Text id="error.lostServerConnection" hash=""></Text>
    <Text id="error.onlineService.callFailed" hash=""></Text>
-   <Text id="error.onlineService.accountOffline" hash=""></Text>
-   <Text id="error.chatMessageRejectedAsSpam" hash=""></Text>
+   <Text id="error.onlineService.accountOffline" hash="yBW9KOX2UneJBzBjd2SF/YZn6iY=">Ban can phai choi o che do online de truy cap tinh nang nay.</Text>
+   <Text id="error.chatMessageRejectedAsSpam" hash="+T31DD7CvfMyfZVPNu9xNwMp3uA=">Ban da gui qua nhieu tin nhan.</Text>
    <Text id="error.chatMessageDisabled" hash=""></Text>
    <Text id="error.modPassDenied" hash=""></Text>
    <Text id="error.IO.Delete.SecurityException" hash=""></Text>
@@ -1558,7 +1558,7 @@
    <Text id="error.IO.Create.Exception" hash=""></Text>
    <Text id="error.server.portinuse" hash=""></Text>
    <Text id="error.mapEditor.IOTestFailed" hash=""></Text>
-   <Text id="error.mapScript.scriptError" hash=""></Text>
+   <Text id="error.mapScript.scriptError" hash="OprVM6gLJPsn7wPP7ciUV4aDWa0=">Script co loi. Script nay se bi tat.</Text>
    <Text id="error.mapScript.createTempFileError.detailed" hash=""></Text>
    <Text id="error.mapScript.createTempFileError" hash=""></Text>
    <Text id="error.mapScript.propertyGameNotice" hash=""></Text>
