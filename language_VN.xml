@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="4e26b404-9f03-4522-a349-945fd2ca0393" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="f7b28a2f-bfa0-42d7-9ae7-6aa25394abe7" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -366,11 +366,11 @@
    <Text id="dedicatedserver.column.memoryUsage" hash=""></Text>
    <Text id="dedicatedserver.column.password" hash="i+PJQ7Fgn/+/xRqtZm0KBK34PJ0=">Mat Khau</Text>
    <Text id="dedicatedserver.info.running" hash=""></Text>
-   <Text id="dedicatedserver.info.offline" hash=""></Text>
+   <Text id="dedicatedserver.info.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoai tuyen</Text>
    <Text id="dedicatedserver.tray.menu.show" hash=""></Text>
    <Text id="dedicatedserver.tray.message.activeInBackground" hash=""></Text>
    <Text id="menu.escMenu.exitToMenu" hash="l2ys31gcnrFLRKtPJponrXzWlgE=">Quay lai menu chinh</Text>
-   <Text id="menu.escMenu.exitToMenu.confirm" hash=""></Text>
+   <Text id="menu.escMenu.exitToMenu.confirm" hash="+t6fx4X1nRjFi7Ny2oG2TSGZMdE=">Ban co chac muon thoat ra menu chính?</Text>
    <Text id="menu.gameplayTipHeading" hash="NMApRQcoB9bfZEmEZ6Ygb3aoTSk=">MEO</Text>
    <Text id="menu.gameplayTip1" hash=""></Text>
    <Text id="menu.gameplayTip2" hash=""></Text>
@@ -510,7 +510,7 @@
    <Text id="general.gender.male" hash="PzpInHLeqADqe2M4yJk4dm1BpuU=">Nam</Text>
    <Text id="general.gender.female" hash="t8F+l9PWJWlLg22FrObtwYu+8OY=">Nu</Text>
    <Text id="general.NA" hash=""></Text>
-   <Text id="general.anonymous" hash="m+1RBABMX+Tj5GZz2hdEcr/xNgo=">An Danh</Text>
+   <Text id="general.anonymous" hash="m+1RBABMX+Tj5GZz2hdEcr/xNgo=">Vo danh</Text>
    <Text id="general.unnamed" hash="mxFcmbHa521O1mCRsd0o6TN975s=">Chua dat ten</Text>
    <Text id="connection.success.serverFound" hash=""></Text>
    <Text id="connection.failed.lost" hash="Ylg3aYfhmHYJOTwUIOjYAwLBSb0=">Da mat ket noi</Text>
