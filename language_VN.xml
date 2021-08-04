@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="3eac56a7-9154-4e9f-b477-638f4c20c235" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="ad4ded73-2a59-4d79-bbb5-7e1b2a794d2d" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -10,7 +10,7 @@
    <Text id="button.ok" hash="nOO9QiTIwXgNtWtBJezz8kv3SLc=">OK</Text>
    <Text id="button.done" hash="6bRQ0UvCNj0pLITxfPrVz71YpFg=">Xong</Text>
    <Text id="button.delete" hash="9v2+SNxU3Yb2MJegO9JAlN7dcTo=">Xóa</Text>
-   <Text id="button.edit" hash="UwFkjc9rU878ntUpmaqpLUYDyuA=">Chỉnh sửa</Text>
+   <Text id="button.edit" hash="UwFkjc9rU878ntUpmaqpLUYDyuA=">Chỉnh Sửa</Text>
    <Text id="button.create" hash="bhV8XaRBC36d6F9ckwJrkXbmkGQ=">Tạo</Text>
    <Text id="button.cancel" hash="d9/SE19NtybEcpm7Vb4m9/RSWkY=">Hủy</Text>
    <Text id="button.upload" hash="i98Ff5HnauMosqIdNfaC2qCKDsA=">Đăng Tải</Text>
@@ -42,8 +42,8 @@
    <Text id="menu.scoreboard.officialMap" hash="N2NWTUHEF1zjJPt1E7EVPbyXBiE=">Map chính chủ</Text>
    <Text id="menu.scoreboard.mapRotation.nextRound" hash="viRchGeKPR3cEPt2WT/RspEYf/M=">Sẽ đổi map sau trận tiếp theo</Text>
    <Text id="menu.scoreboard.mapRotation.inXRounds" hash="PciA04kUBNDmKvpHVcYNpzamGjU=">Sẽ đổi map sau {0} trận nữa</Text>
-   <Text id="menu.scoreboard.mapRotation.singular" hash="9/HVm97bnv8yEPZgQdJ+xKdXa+M=">Doi Map: {0}, {1} Vong.</Text>
-   <Text id="menu.scoreboard.mapRotation.plural" hash="ngmV+gl9iWO01N9L/rcamFcKcew=">Doi Map: {0}, {1} Vong Nua.</Text>
+   <Text id="menu.scoreboard.mapRotation.singular" hash="9/HVm97bnv8yEPZgQdJ+xKdXa+M=">Đổi map: {0}, {1} trận.</Text>
+   <Text id="menu.scoreboard.mapRotation.plural" hash="ngmV+gl9iWO01N9L/rcamFcKcew=">Đổi map: {0}, {1} trận.</Text>
    <Text id="menu.scoreboard.header.status" hash="uufVvnCCDtVkZ72aY3ROI7R71xE=">Trạng thái</Text>
    <Text id="menu.scoreboard.header.team" hash="IYiHJprVlG2dxTI4ZRyQRyiE+w8=">Đội</Text>
    <Text id="menu.scoreboard.header.ping" hash=""></Text>
@@ -71,16 +71,16 @@
    <Text id="menu.settings.enableWeather" hash="5l7I8a07bD00xROZOydYBx8jyaA=">HIỆU ỨNG THỜI TIẾT</Text>
    <Text id="menu.settings.enableFarBG" hash="gGuBMrvXkDOrqW3JLOnbYF8BbMw=">NỀN XA</Text>
    <Text id="menu.settings.teamDisplayMode" hash="1fsL/krsJ8H40UuCXvyz66rh/uE=">CHẾ ĐỘ HIỂN THỊ ĐỘI</Text>
-   <Text id="menu.settings.teamDisplayMode.teamColors" hash="niokS/gCV49edHXXD1flawAy0kE=">Mau doi (xanh duong, do, xanh, vang, trang)</Text>
-   <Text id="menu.settings.teamDisplayMode.greenRed" hash="uhIPzAIXZCXNsDZjIYrwV4Uyvzs=">Dong doi mau xanh, ke dich mau do</Text>
-   <Text id="menu.settings.teamDisplayMode.blueRed" hash="f3oOEiiS+lxRRoUE2etw1N8E930=">Dong doi mau xanh duong, ke dich mau do</Text>
-   <Text id="menu.settings.teamDisplayMode.tooltip" hash="cJi+RTNq++RZEcl7xIK10YmIrdw=">Thay doi mau ten nhan vat de phan biet dong doi va ke dich.</Text>
+   <Text id="menu.settings.teamDisplayMode.teamColors" hash="niokS/gCV49edHXXD1flawAy0kE=">Màu đội (xanh dương, đỏ, xanh, vàng, trắng)</Text>
+   <Text id="menu.settings.teamDisplayMode.greenRed" hash="uhIPzAIXZCXNsDZjIYrwV4Uyvzs=">Đồng đội màu xanh, kẻ địch màu đỏ</Text>
+   <Text id="menu.settings.teamDisplayMode.blueRed" hash="f3oOEiiS+lxRRoUE2etw1N8E930=">Đồng đội màu xanh dương, kẻ địch màu đỏ</Text>
+   <Text id="menu.settings.teamDisplayMode.tooltip" hash="cJi+RTNq++RZEcl7xIK10YmIrdw=">Thay đổi màu tên nhân vật để phân biệt giữa đồng đội và kẻ địch.</Text>
    <Text id="menu.settings.effectLevel" hash="d5lr+JcPQ0XCTMEi/1W5Z04RDNU=">CẤP ĐỘ HIỆU ỨNG</Text>
-   <Text id="menu.settings.effectLevel.tooltip" hash=""></Text>
+   <Text id="menu.settings.effectLevel.tooltip" hash="rWstscr/jgOB1/ac2EJrZ2aJHqQ=">Điều chỉnh độ chi tiết của những hiệu ứng như lửa và khói</Text>
    <Text id="menu.settings.effectLevel.low" hash="oSSUfL0tHZK0fgJydMMmn/DHqEs=">Thấp</Text>
    <Text id="menu.settings.effectLevel.normal" hash="ReEY0FY+qFgfgw9G6FtgrnFPquQ=">Trung Bình</Text>
    <Text id="menu.settings.enableVSYNC" hash=""></Text>
-   <Text id="menu.settings.enableVSYNC.tooltip" hash=""></Text>
+   <Text id="menu.settings.enableVSYNC.tooltip" hash="l5+beUqxshyc+w4Mtzde5LvijPU=">Đồng bộ hóa khung hình với tần số quét của màn hình để giảm hiệu ứng sọc ngang.</Text>
    <Text id="menu.settings.startcamera" hash="YTfMgTCSQROf9Tma5GtsLrSppQo=">CHẾ ĐỘ CAMERA ĐẦU TRẬN</Text>
    <Text id="menu.settings.startcamera.tooltip" hash="itYA8rI7gIXesvQqJHi+41KbDvI=">Chế độ camera mặc định được dùng ở đầu trận.</Text>
    <Text id="menu.settings.startcamera.dynamic" hash="zrc536qIORai89tqqhIrznAAa1M=">Linh Hoạt</Text>
@@ -89,12 +89,12 @@
    <Text id="menu.settings.automaticPortForwarding.automatic" hash="FjvX2DewzaPBozp8txz65gssSBc=">Tự Động (UPnP)</Text>
    <Text id="menu.settings.automaticPortForwarding.manual" hash="ToNv3CVyqyPV3Iw2vWE6xrD4LWM=">Thủ Công</Text>
    <Text id="menu.settings.automaticPortForwarding.tooltip" hash=""></Text>
-   <Text id="menu.settings.soundVolume" hash="wASFNdJOTbxwBKhmI0k54qLSYqc=">AM LUONG AM THANH</Text>
-   <Text id="menu.settings.musicVolume" hash="sEpfyemObZs6PFO6CLOy0myAiP8=">AM LUONG NHAC</Text>
-   <Text id="menu.settings.ambientVolume" hash="3HgOnf7aVu7bstcobprW1HwqEnk=">AM LUONG NEN</Text>
-   <Text id="menu.settings.selectedlanguage" hash="5wVbXry9hjtv0z10wJhPF/A7Ypc=">NGON NGU</Text>
-   <Text id="menu.settings.selectedlanguage.tooltip" hash=""></Text>
-   <Text id="menu.settings.restartrequiredmessage" hash=""></Text>
+   <Text id="menu.settings.soundVolume" hash="wASFNdJOTbxwBKhmI0k54qLSYqc=">ÂM LƯỢNG ÂM THANH</Text>
+   <Text id="menu.settings.musicVolume" hash="sEpfyemObZs6PFO6CLOy0myAiP8=">ÂM LƯỢNG NHẠC</Text>
+   <Text id="menu.settings.ambientVolume" hash="3HgOnf7aVu7bstcobprW1HwqEnk=">ÂM LƯỢNG NỀN</Text>
+   <Text id="menu.settings.selectedlanguage" hash="5wVbXry9hjtv0z10wJhPF/A7Ypc=">NGÔN NGỮ</Text>
+   <Text id="menu.settings.selectedlanguage.tooltip" hash="vVB0AFKG8RB30ImlaiU0UUpTRrw=">Ngôn ngữ hiển thị được sử dụng trong game, cần có tệp ngôn ngữ ngoài.</Text>
+   <Text id="menu.settings.restartrequiredmessage" hash="3lR87AkOAhChKKUTjFiOwrpJaB4=">Một số thay đổi sẽ có hiệu lực sau khi khởi động lại game.</Text>
    <Text id="menu.settings.group.graphics" hash="qyVcJ67I37fL40e6viXWjOwc56Y=">Đồ Họa</Text>
    <Text id="menu.settings.group.sound" hash="tOPv66EOhPcUjan37+heBwV9fHo=">Âm Thanh</Text>
    <Text id="menu.settings.group.network" hash="U+vFcrSkSAK6EUcp8Hvar1QJqdc=">Mạng</Text>
@@ -111,10 +111,10 @@
    <Text id="menu.connecting.portForwarding.settingUp" hash="6IIRcIxdmAA3nmH7wXKBXeicK0M=">Đang mở cổng mạng</Text>
    <Text id="menu.connecting.portForwarding.OK" hash="QmZ4vtBkIFmKilRM2iQ+itA38jU=">Cổng mạng OK</Text>
    <Text id="menu.connecting.portForwarding.failed" hash=""></Text>
-   <Text id="menu.connecting.portForwarding.failed.clientconnecting" hash="cg/oHJiTNckPvi03VrbAr7AaRxE=">Khong the mo cong mang</Text>
+   <Text id="menu.connecting.portForwarding.failed.clientconnecting" hash="cg/oHJiTNckPvi03VrbAr7AaRxE=">Không thể mở cổng mạng</Text>
    <Text id="menu.connecting.progress" hash="3Kn29/hZLwKikMP0DB1yipdYZGo=">Đang kết nối ({0})</Text>
-   <Text id="menu.connecting.contactingserverinfo" hash="R+CPtBFdfKX98bCTrx6ClpazJ70=">Co the mat den 10 giay.</Text>
-   <Text id="menu.hostGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TAO SERVER</Text>
+   <Text id="menu.connecting.contactingserverinfo" hash="R+CPtBFdfKX98bCTrx6ClpazJ70=">Có thể mất đến 10 giây.</Text>
+   <Text id="menu.hostGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TẠO SERVER</Text>
    <Text id="menu.hostGame.group.game" hash=""></Text>
    <Text id="menu.hostGame.group.serverStatus" hash="uDAYl1ksITZZZAgyJmW5s4nfUmA=">Trạng thái server</Text>
    <Text id="menu.hostGame.group.cleanup" hash=""></Text>
@@ -126,8 +126,8 @@
    <Text id="menu.hostGame.password" hash="ESu3kTBHkd3PaS4p/VzxSbNf6jc=">MẬT KHẨU</Text>
    <Text id="menu.hostGame.password.tooltip" hash="WjP/sysot+K56qelm0OlVXvbLFk=">Đặt mật khẩu cho server.</Text>
    <Text id="menu.hostGame.moderatorPassword" hash="qXUWM3UWBgzIRyWFNAuqcm91am4=">MẬT KHẨU CỦA QUẢN TRỊ VIÊN</Text>
-   <Text id="menu.hostGame.moderatorPassword.tooltip" hash="Mumd9A/BbhVUZxvAdgI6f7UtUlg=">Neu ban la mot quan tri vien cua server nay, hay nhap mat khau quan tri vien cua ban vao day de mo khoa quyen cua quan tri vien.</Text>
-   <Text id="menu.hostGame.moderatorPassed" hash="JnpN1Vg71VlVCTY/9nQEhE5OA+4=">Da giao quyen quan tri vien!</Text>
+   <Text id="menu.hostGame.moderatorPassword.tooltip" hash="Mumd9A/BbhVUZxvAdgI6f7UtUlg=">Nếu bạn là một quản trị viên của server này, Nhập mật khẩu quản trị viên ở đây để mở khóa quyền quản trị.</Text>
+   <Text id="menu.hostGame.moderatorPassed" hash="JnpN1Vg71VlVCTY/9nQEhE5OA+4=">Đã cấp quyền quản trị viên!</Text>
    <Text id="menu.joinGame.serverPassword" hash="qJfsxmdsiETscRePTmWfMhpZ6Jw=">MẬT KHẨU SERVER</Text>
    <Text id="menu.hostGame.map" hash=""></Text>
    <Text id="menu.hostGame.map.tooltip" hash="eyP/2xnqCnPt1ppPji3LMfYqzqQ=">Map để chơi.</Text>
@@ -158,60 +158,60 @@
    <Text id="menu.hostGame.dropInOrder.tooltip" hash=""></Text>
    <Text id="menu.hostGame.accountValidation" hash=""></Text>
    <Text id="menu.hostGame.accountValidation.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.accountValidation.disabled" hash="9PRHPfjLWfCjaa6+49FQmtwBUcY=">Tat</Text>
+   <Text id="menu.hostGame.accountValidation.disabled" hash="9PRHPfjLWfCjaa6+49FQmtwBUcY=">Tắt</Text>
    <Text id="menu.hostGame.accountValidation.showifavailable" hash=""></Text>
-   <Text id="menu.hostGame.accountValidation.requireaccount" hash=""></Text>
+   <Text id="menu.hostGame.accountValidation.requireaccount" hash="qA17duzkvaN/gccHOsEkeD3aPa0=">Yêu cầu đăng nhập</Text>
    <Text id="menu.hostGame.allowDropIn" hash=""></Text>
    <Text id="menu.hostGame.allowDropIn.tooltip" hash=""></Text>
    <Text id="menu.hostGame.evenTeams" hash=""></Text>
    <Text id="menu.hostGame.evenTeams.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.createGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TAO SERVER</Text>
-   <Text id="menu.hostGame.showAdvancedSettings" hash="nEv4IO0nwZbKfOxvhGWPBPnNm/o=">HIEN THI TUY CHON NANG CAO</Text>
-   <Text id="menu.hostGame.hideAdvancedSettings" hash="0yIP36I3UpAlZKlK8ktN1EUh5LQ=">AN TUY CHON NANG CAO</Text>
-   <Text id="menu.hostGame.updateGame" hash="6/ZhuG2rAH+tNn6NcB/bbp/hV2Y=">CAP NHAT CAI DAT SERVER</Text>
+   <Text id="menu.hostGame.createGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TẠO SERVER</Text>
+   <Text id="menu.hostGame.showAdvancedSettings" hash="nEv4IO0nwZbKfOxvhGWPBPnNm/o=">HIỂN THỊ TÙY CHỌN NÂNG CAO</Text>
+   <Text id="menu.hostGame.hideAdvancedSettings" hash="0yIP36I3UpAlZKlK8ktN1EUh5LQ=">ẨN TÙY CHỌN NÂNG CAO</Text>
+   <Text id="menu.hostGame.updateGame" hash="6/ZhuG2rAH+tNn6NcB/bbp/hV2Y=">LƯU CÀI ĐẶT SERVER</Text>
    <Text id="menu.hostGame.localMultiplayerPermissions.3plusOfflineRequired" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationActive" hash="BiNxAmrERYA00+L66egG07a1fyk=">ĐỔI MAP</Text>
    <Text id="menu.hostGame.mapRotationActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Khong</Text>
-   <Text id="menu.hostGame.mapRotationActive.vote" hash="ZPhykUGGfT8mNEJAZ9OBE6zHD4M=">Chon map</Text>
-   <Text id="menu.hostGame.mapRotationActive.sequential" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.random" hash="WNiIwIqlYfNw44zul2EhUyqIPXE=">Ngau Nhien</Text>
-   <Text id="menu.hostGame.mapRotationActive.none.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.vote.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.sequential.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationActive.random.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationActive.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Không</Text>
+   <Text id="menu.hostGame.mapRotationActive.vote" hash="ZPhykUGGfT8mNEJAZ9OBE6zHD4M=">Chọn Map</Text>
+   <Text id="menu.hostGame.mapRotationActive.sequential" hash="WpuTkssxQlibeYF27XgU9Ov8eBA=">Từng Map Một</Text>
+   <Text id="menu.hostGame.mapRotationActive.random" hash="WNiIwIqlYfNw44zul2EhUyqIPXE=">Ngẫu Nhiên</Text>
+   <Text id="menu.hostGame.mapRotationActive.none.tooltip" hash="xTBg8TnafclzEQXRc7P5zncim88=">Không đổi map. Map chỉ có thể được thay đổi bởi chủ server, quản trị viên hoặc script.</Text>
+   <Text id="menu.hostGame.mapRotationActive.vote.tooltip" hash="I5iFzbt6uGerqsQZxl87ccB51No=">Người chơi sẽ chọn map tiếp theo.</Text>
+   <Text id="menu.hostGame.mapRotationActive.sequential.tooltip" hash="neypoUnrc4YqzFVRTlQGNI0JirY=">Map tiếp theo sẽ được chọn ngẫu nhiên, mọi map sẽ được chơi qua trước khi vòng lập lập lại.</Text>
+   <Text id="menu.hostGame.mapRotationActive.random.tooltip" hash="iasALHtvAkHa0fcHNHBhwNBVWBg=">Map tiếp theo sẽ được chọn ngẫu nhiên.</Text>
    <Text id="menu.hostGame.mapRotationInterval" hash=""></Text>
    <Text id="menu.hostGame.mapRotationInterval.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory" hash="bC+XV6j7nvGJi4y8FcwJVOxQHc4=">DANH MỤC MAP</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.official.survival" hash="QqiIot5Y842kAFFcRzhaidlxLIY=">Sinh Ton (Chinh Thuc)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.official.versus" hash="zI+YzIdPFiVi19foU9oQsF4lONY=">Chien Dau (Chinh Thuc)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.official.campaign" hash="OYtJkWMV8OGSasQwk/z8Ems8qW4=">Cot Truyen (Chinh Thuc)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.allversus" hash="PX1Z8q3JE94mGBhw9mb0GofFa2U=">Chien Dau (Tat Ca)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.allsurvival" hash="rAKfaL9zHR+GjV+5KZC1sK6ZVg4=">Sinh Ton (Tat Ca)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.allcampaign" hash="nw4+6IGqGlV6ADHBavaTOESj5rM=">Cot Truyen (Tat Ca)</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.allother" hash="bmpvIIa7X+Xb/RfY1fUC1IdZg0s=">Khac</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">Tat Ca Map</Text>
-   <Text id="menu.hostGame.shuffleTeamsActive" hash=""></Text>
-   <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.survival" hash="QqiIot5Y842kAFFcRzhaidlxLIY=">Sinh Tồn (Chính Chủ)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.versus" hash="zI+YzIdPFiVi19foU9oQsF4lONY=">Chiến Đấu (Chính Chủ)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.official.campaign" hash="OYtJkWMV8OGSasQwk/z8Ems8qW4=">Cốt Truyện (Chính Chủ)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allversus" hash="PX1Z8q3JE94mGBhw9mb0GofFa2U=">Chiến Đấu (Tất Cả)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allsurvival" hash="rAKfaL9zHR+GjV+5KZC1sK6ZVg4=">Sinh Tồn (Tất Cả)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allcampaign" hash="nw4+6IGqGlV6ADHBavaTOESj5rM=">Cốt Truyện (Tất Cả)</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.allother" hash="bmpvIIa7X+Xb/RfY1fUC1IdZg0s=">Khác</Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">Tất Cả Map</Text>
+   <Text id="menu.hostGame.shuffleTeamsActive" hash="qzvzU0XA/dxcAv2/Kr6lN8u8WaQ=">XÁO ĐỘI</Text>
+   <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash="yhWkrq5E/2lSbx8dJA2mVIXJxKg=">Tự động xáo trộn đội sao vài trận đấu</Text>
    <Text id="menu.hostGame.shuffleTeamsInterval" hash=""></Text>
    <Text id="menu.hostGame.shuffleTeamsInterval.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.timeLimitActive" hash=""></Text>
+   <Text id="menu.hostGame.timeLimitActive" hash="JZboL3LQwaVDy8whnEmuTc9dd+Y=">GIỚI HẠN THỜI GIAN</Text>
    <Text id="menu.hostGame.timeLimitActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.timeLimit" hash="NmXKxGFfilNlLbKDua9Uk4B0syU=">GIOI HAN THOI GIAN</Text>
+   <Text id="menu.hostGame.timeLimit" hash="NmXKxGFfilNlLbKDua9Uk4B0syU=">THỜI GIAN TỐI ĐA</Text>
    <Text id="menu.hostGame.timeLimit.tooltip" hash="UnOcrm4HiLbiy6QKoNXTKbDVGB8=">Gioi han thoi gian cho moi tran dau.</Text>
    <Text id="menu.hostGame.kickAFKActive" hash="HmfkCpn8oACtWqCIhi+ILrBw2eo=">KICK AFK</Text>
    <Text id="menu.hostGame.kickAFKActive.tooltip" hash="FwSGhHG1SV1Q7Sx4Qmf6TYsR9F4=">Kick nhung nguoi choi afk qua lau.</Text>
-   <Text id="menu.hostGame.kickAFKTime" hash="f+rr4YoLVZHs2cxT0lumk/O+TjA=">THOI GIAN AFK TOI DA</Text>
-   <Text id="menu.hostGame.kickAFKTime.tooltip" hash="J5ruiXv0YrniuLgzZESSApo1Cac=">Thoi gian afk toi da.</Text>
-   <Text id="menu.hostGame.maxPingActive" hash="1PTUug9B5EZdruX29PMJB8jnDBw=">GIOI HAN PING</Text>
-   <Text id="menu.hostGame.maxPingActive.tooltip" hash="VtmOglR7fNlqaAp6LoqQ85tlEz8=">Kick nguoi choi co ping cao hon so ping da chon.</Text>
-   <Text id="menu.hostGame.maxPingValue" hash="tR6u+j+8cf8tmYMcBXM157i0Dk4=">GIOI HAN PING</Text>
-   <Text id="menu.hostGame.maxPingValue.tooltip" hash="wdYmhU3FWFmogKNC5y0uzgAPmT8=">So ping toi da nguoi choi co the dat.</Text>
-   <Text id="menu.hostGame.forceServerMovementMaxPingActive" hash=""></Text>
-   <Text id="menu.hostGame.forceServerMovementMaxPingActive.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.forceServerMovementMaxPingValue" hash=""></Text>
-   <Text id="menu.hostGame.forceServerMovementMaxPingValue.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.kickAFKTime" hash="f+rr4YoLVZHs2cxT0lumk/O+TjA=">THỜI GIAN AFK TỐI ĐA</Text>
+   <Text id="menu.hostGame.kickAFKTime.tooltip" hash="J5ruiXv0YrniuLgzZESSApo1Cac=">Giới hạn thời gian một người chơi có thể đừng yên 1 chỗ.</Text>
+   <Text id="menu.hostGame.maxPingActive" hash="1PTUug9B5EZdruX29PMJB8jnDBw=">GIỚI HẠN PING</Text>
+   <Text id="menu.hostGame.maxPingActive.tooltip" hash="VtmOglR7fNlqaAp6LoqQ85tlEz8=">Kick người chơi có ping cao hơn số ping đã chọn</Text>
+   <Text id="menu.hostGame.maxPingValue" hash="tR6u+j+8cf8tmYMcBXM157i0Dk4=">PING TỐI ĐA</Text>
+   <Text id="menu.hostGame.maxPingValue.tooltip" hash="wdYmhU3FWFmogKNC5y0uzgAPmT8=">Số ping tối đa người chơi có thể đạt.</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingActive" hash="zzQSrG35TPIRabesSYKV91RjcIw=">XỬ LÝ CHUYỂN ĐỘNG TRÊN SERVER</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingActive.tooltip" hash="7n/u3FFF7fC+Tod8xpN7zgTK16o=">Mọi chuyển động của những người chơi với ping quá cao phải được xử lý trên server. Điều này giúp giảm hiệu ứng giật lag, tốc biến.</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingValue" hash="MEWjGzrm+ibKr0e05LOvLPjDFoY=">GIỚI HẠN PING XỬ LÝ CHUYỂN ĐỘNG</Text>
+   <Text id="menu.hostGame.forceServerMovementMaxPingValue.tooltip" hash="G5b9Ewpisvqp2cndTN8+IjLvP1Y=">Ping thấp nhất để kích hoạt xử lý chuyển động trên server, tối thiểu 100 png.</Text>
    <Text id="menu.hostGame.kickAFKWarning" hash=""></Text>
    <Text id="menu.hostGame.suddenDeath" hash=""></Text>
    <Text id="menu.hostGame.suddenDeath.tooltip" hash=""></Text>
@@ -1243,61 +1243,61 @@
    <Text id="properties.pathNodeEnableTrigger.newState.enable" hash=""></Text>
    <Text id="properties.pathNodeEnableTrigger.newState.disable" hash=""></Text>
    <Text id="properties.pathNodeEnableTrigger.newState.toggle" hash=""></Text>
-   <Text id="items.Ammo" hash="xJuTEilXnWqRDewP74EBS3/2oIs=">Đạn {0}</Text>
-   <Text id="items.Pistol" hash="GI6O5nPVOotKHH7SE1RcQGXCeHk=">Súng lục</Text>
-   <Text id="items.Pistol45" hash="0pkrRh+qqG8OzvdVJ9YgR1c6ZAI=">Súng lục .45</Text>
-   <Text id="items.StrengthBoost" hash="7Pu1xuLVOnqqx9S4nIjhGy5MaM4=">Thuốc tăng sức mạnh</Text>
-   <Text id="items.SilencedPistol" hash="0DlrtYDyVv9wl2bmuFoxIRz/C4E=">Súng lục giảm thanh</Text>
-   <Text id="items.Pump-action_Shotgun" hash="">Súng săn</Text>
-   <Text id="items.Laser_Sight" hash="Gn9ji2MHNn5AybOrynsE99nk1NI=">Ống ngắm laser</Text>
-   <Text id="items.Grenades" hash="MxuVbqYBkVJBphFYjrC5O+rei88=">Lựu đạn</Text>
-   <Text id="items.Molotovs" hash="VDEzLGBXtwrWdxB4Aqia58VUaPk=">Bom xăng</Text>
-   <Text id="items.Flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Súng phun lửa</Text>
-   <Text id="items.5_Sec_Slomo" hash="c2iBOnB5TxqJe58WRkqce/gQUrc=">Làm chậm 5s</Text>
-   <Text id="items.10_Sec_Slomo" hash="dsnSFti9OCQQ2TFSvxeJ6qMaM2w=">Làm chậm 10s</Text>
-   <Text id="items.+50" hash="">Hồi 50 máu</Text>
-   <Text id="items.+25" hash="">Hồi 25 máu</Text>
-   <Text id="items.Uzi" hash="lwnIouPnQLQ6mN15j3i3iRj5Gu0=">Súng uzi</Text>
-   <Text id="items.SilencedUzi" hash="jkDPYHkkCRIl/5GjxaB8ZoJDvEA=">Uzi giảm thanh</Text>
-   <Text id="items.Machete" hash="Nj4MbWkAvtSi/JU0iuv3X5fUtIs=">Mã tấuText>
-   <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Gậy bóng chày</Text>
-   <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Dùi cui</Text>
-   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Súng hoa cải</Text>
-   <Text id="items.Magnum" hash="">Súng lục ổ xoay</Text>
-   <Text id="items.Revolver" hash="">Revolver</Text>
-   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Súng pháo sáng</Text>
-   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Mỏ lết</Text>
-   <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Búa</Text>
-   <Text id="items.Bazooka" hash="">Đại bác</Text>
-   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Súng máy hạng nặng</Text>
-   <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Rìu cứu hỏa</Text>
-   <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Kiếm Katana</Text>
-   <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Súng bắn tỉa</Text>
-   <Text id="items.Assault_Rifle" hash="p8L3JAYhqf5bAbKsoklB/6TULJM=">Súng trường</Text>
-   <Text id="items.Carbine" hash="">M1A1 Carbine</Text>
-   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Súng phóng lựu</Text>
-   <Text id="items.SMG" hash="plLiiwBKFVSHF1Nyh/0Y9N66t9o=">Súng tiểu liên</Text>
-   <Text id="items.Tommygun" hash="">M1A1 Thompson</Text>
-   <Text id="items.Mines" hash="PoJddSyOj+Tq65smnsRN7V7ca6I=">Mìn</Text>
+   <Text id="items.Ammo" hash="xJuTEilXnWqRDewP74EBS3/2oIs=">Dan {0}</Text>
+   <Text id="items.Pistol" hash="GI6O5nPVOotKHH7SE1RcQGXCeHk=">Sung Luc</Text>
+   <Text id="items.Pistol45" hash="0pkrRh+qqG8OzvdVJ9YgR1c6ZAI=">Sung Luc .45</Text>
+   <Text id="items.StrengthBoost" hash="7Pu1xuLVOnqqx9S4nIjhGy5MaM4=">Thuoc tang suc manh</Text>
+   <Text id="items.SilencedPistol" hash="0DlrtYDyVv9wl2bmuFoxIRz/C4E=">Sung luc giam thanh</Text>
+   <Text id="items.Pump-action_Shotgun" hash=""></Text>
+   <Text id="items.Laser_Sight" hash="Gn9ji2MHNn5AybOrynsE99nk1NI=">Ong ngam laze</Text>
+   <Text id="items.Grenades" hash="MxuVbqYBkVJBphFYjrC5O+rei88=">Luu dan</Text>
+   <Text id="items.Molotovs" hash="VDEzLGBXtwrWdxB4Aqia58VUaPk=">Bom xang</Text>
+   <Text id="items.Flamethrower" hash="EBTvrpg5EEZyjIz+PaybhxYxcXc=">Sung phun lua</Text>
+   <Text id="items.5_Sec_Slomo" hash="c2iBOnB5TxqJe58WRkqce/gQUrc=">Lam cham 5s</Text>
+   <Text id="items.10_Sec_Slomo" hash="dsnSFti9OCQQ2TFSvxeJ6qMaM2w=">Lam cham 10s</Text>
+   <Text id="items.+50" hash=""></Text>
+   <Text id="items.+25" hash=""></Text>
+   <Text id="items.Uzi" hash="lwnIouPnQLQ6mN15j3i3iRj5Gu0="></Text>
+   <Text id="items.SilencedUzi" hash="jkDPYHkkCRIl/5GjxaB8ZoJDvEA=">Uzi giam thanh</Text>
+   <Text id="items.Machete" hash="Nj4MbWkAvtSi/JU0iuv3X5fUtIs=">Ma tau</Text>
+   <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Gay bong chay</Text>
+   <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Dui cui</Text>
+   <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Sung san cua nong</Text>
+   <Text id="items.Magnum" hash=""></Text>
+   <Text id="items.Revolver" hash=""></Text>
+   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Sung ban phao</Text>
+   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Co le</Text>
+   <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Bua</Text>
+   <Text id="items.Bazooka" hash=""></Text>
+   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Sung may M60</Text>
+   <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Riu</Text>
+   <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Kiem Katana</Text>
+   <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Sung ban tia</Text>
+   <Text id="items.Assault_Rifle" hash="p8L3JAYhqf5bAbKsoklB/6TULJM=">Sung truong</Text>
+   <Text id="items.Carbine" hash=""></Text>
+   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Sung phong luu</Text>
+   <Text id="items.SMG" hash="plLiiwBKFVSHF1Nyh/0Y9N66t9o=">Submachine gun</Text>
+   <Text id="items.Tommygun" hash=""></Text>
+   <Text id="items.Mines" hash="PoJddSyOj+Tq65smnsRN7V7ca6I=">Min</Text>
    <Text id="items.Knife" hash="esdg0QFJ9B44jnQK7M9j6P8eC0c=">Dao</Text>
-   <Text id="items.Pillow" hash="JK9Oz/wWTG1BsMQi8O18Vh7t00g=">Gối ôm</Text>
-   <Text id="items.Flagpole" hash="kdG598xZnUqTjWy/MEyY646ah44=">Cột cờ</Text>
-   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Dây xích</Text>
-   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Ấm trà</Text>
-   <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nắp thùng rác</Text>
-   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Bọc rác</Text>
-   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">C4</Text>
-   <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk="> Điều khiển bom C4</Text>
-   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ống nước</Text>
-   <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dùi cui điện</Text>
-   <Text id="items.MP50" hash="">MP 50</Text>
-   <Text id="items.Dark_Shotgun" hash="">Riot Shotgun</Text>
-   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Súng lục liên thanh</Text>
-   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Chai nước</Text>
-   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Chai vỡ</Text>
-   <Text id="items.Chair" hash="n+tTdsXdmufGOIkcjCWX5je2cJ0=">Ghế</Text>
-   <Text id="items.Chair_Leg" hash="P/F1hUn/29uUefHKqZ+jP7gXk4E=">Chân ghế</Text>
-   <Text id="items.CueStick" hash="TV2BeZesmhzaG/4U1vdhjKA7uq4=">Gậy bóng bàn</Text>
+   <Text id="items.Pillow" hash="JK9Oz/wWTG1BsMQi8O18Vh7t00g=">Goi</Text>
+   <Text id="items.Flagpole" hash="kdG598xZnUqTjWy/MEyY646ah44=">Co</Text>
+   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Day xich</Text>
+   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Am tra</Text>
+   <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nap thung rac</Text>
+   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Tui rac</Text>
+   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">Bom C4</Text>
+   <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">Dieu khien bom C4</Text>
+   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ong nuoc</Text>
+   <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dui cui dien</Text>
+   <Text id="items.MP50" hash=""></Text>
+   <Text id="items.Dark_Shotgun" hash=""></Text>
+   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Sung luc may</Text>
+   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Chai</Text>
+   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Chai vo</Text>
+   <Text id="items.Chair" hash="n+tTdsXdmufGOIkcjCWX5je2cJ0=">Ghe</Text>
+   <Text id="items.Chair_Leg" hash="P/F1hUn/29uUefHKqZ+jP7gXk4E=">Chan Ghe</Text>
+   <Text id="items.CueStick" hash="TV2BeZesmhzaG/4U1vdhjKA7uq4=">Gay bong ban</Text>
    <Text id="items.BrokenCueStick" hash="50EGSVXLmJ9EdiaQ9D/M2SrSzrs=">Gay bong ban gay</Text>
    <Text id="items.Suitcase" hash="zaPYIIVgG6yCblj1hrfN1AzlIrY=">Vali</Text>
    <Text id="items.Baseball" hash="7C13RMYDuvUH5mv4KDXftiBGVqg=">Bong chay</Text>
