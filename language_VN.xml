@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="f6ffe52e-99f9-4846-a898-d8aee3da76e4" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="7eb073b2-8d60-40fe-9138-51b3ce6494d7" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tao Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Ket Noi IP</Text>
@@ -1266,10 +1266,10 @@
    <Text id="items.Magnum" hash="wVZrJiUPdLGNQGEtXnnqy+bwARk=">Magnum</Text>
    <Text id="items.Revolver" hash="mUKlKMUGCqmqrmaC1FtRsafLTQI=">Revolver</Text>
    <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Sung Luc Lua</Text>
-   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Pipe wrench</Text>
+   <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Cle Ong</Text>
    <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Bua</Text>
    <Text id="items.Bazooka" hash="GmcVsXcRJNTdFp6Fa5aQb7cPH5A=">Dai Bac Lien Thanh</Text>
-   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Kitchen Gun</Text>
+   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">M60</Text>
    <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Riu Cuu Hoa</Text>
    <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Kiem Katana</Text>
    <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Sung Sniper</Text>
@@ -1282,33 +1282,33 @@
    <Text id="items.Knife" hash="esdg0QFJ9B44jnQK7M9j6P8eC0c=">Dao gam</Text>
    <Text id="items.Pillow" hash="JK9Oz/wWTG1BsMQi8O18Vh7t00g=">Goi</Text>
    <Text id="items.Flagpole" hash="kdG598xZnUqTjWy/MEyY646ah44=">Co Mi</Text>
-   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Xich Cho</Text>
-   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Ly Tra</Text>
+   <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Day Xich</Text>
+   <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Am Tra</Text>
    <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nap Thung Rac</Text>
-   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Free Fire</Text>
+   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Tui Rac</Text>
    <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">C4</Text>
    <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">C4 detonator</Text>
-   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Lead pipe</Text>
+   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ong Nuoc</Text>
    <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dui Cui Tich Dien</Text>
    <Text id="items.MP50" hash="bvuOTKg3E225S94Q60TjNeAu4Ew=">MP 50</Text>
    <Text id="items.Dark_Shotgun" hash="+H/J4SpD2jfFEow2A1DYnUqfjL4=">Riot Shotgun</Text>
    <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Machine pistol</Text>
-   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Chai</Text>
-   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Chai bi vo</Text>
+   <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Vodka</Text>
+   <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Manh Chai Vodka</Text>
    <Text id="items.Chair" hash="n+tTdsXdmufGOIkcjCWX5je2cJ0=">Ghe</Text>
    <Text id="items.Chair_Leg" hash="P/F1hUn/29uUefHKqZ+jP7gXk4E=">Chan Ghe</Text>
    <Text id="items.CueStick" hash="TV2BeZesmhzaG/4U1vdhjKA7uq4=">Gay Choi Bida</Text>
    <Text id="items.BrokenCueStick" hash="50EGSVXLmJ9EdiaQ9D/M2SrSzrs=">Gay bong ban gay</Text>
    <Text id="items.Suitcase" hash="zaPYIIVgG6yCblj1hrfN1AzlIrY=">Vali</Text>
-   <Text id="items.Baseball" hash="7C13RMYDuvUH5mv4KDXftiBGVqg=">Bong Chay</Text>
-   <Text id="items.Chainsaw" hash="u/4B1YmWmCyKMuwjT+8AtA+fjWc=">Cua May</Text>
+   <Text id="items.Baseball" hash="7C13RMYDuvUH5mv4KDXftiBGVqg=">Gay Bong Chay</Text>
+   <Text id="items.Chainsaw" hash="u/4B1YmWmCyKMuwjT+8AtA+fjWc=">May Cua</Text>
    <Text id="items.SpeedBoost" hash="sZ61KE2LMAQfUNLlQcPXZzUTALQ=">Ong Tiem Chay Nhanh</Text>
    <Text id="items.Bow" hash="oXlCIyEBKKWrSTSaHKXGf10xwvo=">Cung Ten</Text>
-   <Text id="items.Shuriken" hash="7tGqbd2FpzarkPwVumSSy3wrm6M=">Shuriken</Text>
+   <Text id="items.Shuriken" hash="7tGqbd2FpzarkPwVumSSy3wrm6M=">Phi Tieu</Text>
    <Text id="items.Whip" hash="2o7oVVTLXFmZ5g+halcv7AwDSwU=">Roi</Text>
    <Text id="items.BouncingAmmo" hash="78Mzg4ltk97ULFquc77MhgP4jcw=">Dan Nay</Text>
    <Text id="items.FireAmmo" hash="wDrG7KNF7L2G0Gz7xTSbrfDTh+A=">Dan Lua</Text>
-   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Robot Giao Hang</Text>
+   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Robot Chien Dau Dang Ban Sung</Text>
    <Text id="equipment.layer.skin" hash=""></Text>
    <Text id="equipment.layer.chestUnder" hash=""></Text>
    <Text id="equipment.layer.waist" hash=""></Text>
