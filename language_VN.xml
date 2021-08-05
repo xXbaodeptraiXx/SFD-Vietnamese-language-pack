@@ -193,7 +193,7 @@
    <Text id="menu.hostGame.mapRotationMapsCategory.allother" hash="bmpvIIa7X+Xb/RfY1fUC1IdZg0s=">Khác</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">Tất Cả Map</Text>
    <Text id="menu.hostGame.shuffleTeamsActive" hash="qzvzU0XA/dxcAv2/Kr6lN8u8WaQ=">XÁO ĐỘI</Text>
-   <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash="yhWkrq5E/2lSbx8dJA2mVIXJxKg=">Tự động xáo trộn đội sao vài trận đấu</Text>
+   <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash="yhWkrq5E/2lSbx8dJA2mVIXJxKg=">Tự động xáo trộn đội sau vài trận đấu</Text>
    <Text id="menu.hostGame.shuffleTeamsInterval" hash=""></Text>
    <Text id="menu.hostGame.shuffleTeamsInterval.tooltip" hash=""></Text>
    <Text id="menu.hostGame.timeLimitActive" hash="JZboL3LQwaVDy8whnEmuTc9dd+Y=">GIỚI HẠN THỜI GIAN</Text>
@@ -271,7 +271,7 @@
    <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Chua Duoc Gan</Text>
    <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhan Nut -</Text>
    <Text id="menu.keybinding.pressEscToUnbind" hash="y2QaAbkWeCcwZ/IwPYKNkk5tDaM=">Nhấn nút: Nhấn ESC để hủy. Giữ ESC để gỡ phím</Text>
-   <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Da dang nhap duoi ten</Text>
+   <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Đã đăng nhập dưới tên</Text>
    <Text id="menu.mainMenu.onlineAs" hash="Vqpl0M/rOnGD+CCkDak1xlIgAkM=">Truc tuyen duoi ten</Text>
    <Text id="menu.mainMenu.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoai tuyen</Text>
    <Text id="menu.mainMenu.tutorialPrompt" hash="1/jgbIVBhWFuWtYeVrm3df9O2T0=">Moi choi lan dau? Vao day!</Text>
@@ -678,7 +678,7 @@
    <Text id="properties.baseid" hash=""></Text>
    <Text id="properties.id" hash=""></Text>
    <Text id="properties.id.description" hash=""></Text>
-   <Text id="properties.weaponspawnchances" hash="lU6ZARyvsHRfLenPWSx3W1Jv3ws=">Ti le xuat hien vu khi</Text>
+   <Text id="properties.weaponspawnchances" hash="lU6ZARyvsHRfLenPWSx3W1Jv3ws=">Tỉlệ xuất hiện vũ khí</Text>
    <Text id="properties.weaponspawnchances.description" hash=""></Text>
    <Text id="properties.thumbnailimage" hash=""></Text>
    <Text id="properties.thumbnailimage.description" hash=""></Text>
@@ -1269,15 +1269,15 @@
    <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Cờ lê</Text>
    <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Búa</Text>
    <Text id="items.Bazooka" hash=""></Text>
-   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Súng máy M60</Text>
+   <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Súng máy hạng nặng</Text>
    <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Rìu</Text>
    <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Kiếm Katana</Text>
    <Text id="items.Sniper_Rifle" hash="AyVfdEf143N3Xzy5t0xziHaiV/M=">Súng bắn tỉa</Text>
    <Text id="items.Assault_Rifle" hash="p8L3JAYhqf5bAbKsoklB/6TULJM=">Súng trường</Text>
-   <Text id="items.Carbine" hash=""></Text>
-   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Ssung phóng lựu</Text>
+   <Text id="items.Carbine" hash="">M1A1 Carbine</Text>
+   <Text id="items.Grenade_Launcher" hash="vf934PF4obBSzkMyrrmR3Ja3QfE=">Súng phóng lựu</Text>
    <Text id="items.SMG" hash=""></Text>
-   <Text id="items.Tommygun" hash=""></Text>
+   <Text id="items.Tommygun" hash="">M1A1 Thompson</Text>
    <Text id="items.Mines" hash="PoJddSyOj+Tq65smnsRN7V7ca6I=">Mìn</Text>
    <Text id="items.Knife" hash="esdg0QFJ9B44jnQK7M9j6P8eC0c=">Dao</Text>
    <Text id="items.Pillow" hash="JK9Oz/wWTG1BsMQi8O18Vh7t00g=">Gối</Text>
@@ -1285,14 +1285,14 @@
    <Text id="items.Chain" hash="2B82ktfNI0qbke1PRYLxXdgpDYk=">Dây xích</Text>
    <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Ấm trà</Text>
    <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nắp thùng rác</Text>
-   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Túi rác</Text>
-   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">Bom C4</Text>
+   <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Bọc rác</Text>
+   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">C4</Text>
    <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">Điều khiển bom C4</Text>
-   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ôsng nước</Text>
+   <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ống nước</Text>
    <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dùi cui điện</Text>
    <Text id="items.MP50" hash=""></Text>
    <Text id="items.Dark_Shotgun" hash=""></Text>
-   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Súng lục máy</Text>
+   <Text id="items.Machine_Pistol" hash="TwBoUP7nfskkc9gTlXe8LsDTCPI=">Súng lục liên thanh</Text>
    <Text id="items.Bottle" hash="O4rGx1qSdL1sexK+E5W1wis6Br4=">Chai</Text>
    <Text id="items.Broken_Bottle" hash="5Rl9ApZGdxAK/T45I4nQYZ++u90=">Chai vỡ</Text>
    <Text id="items.Chair" hash="n+tTdsXdmufGOIkcjCWX5je2cJ0=">Ghế</Text>
@@ -1305,10 +1305,10 @@
    <Text id="items.SpeedBoost" hash="sZ61KE2LMAQfUNLlQcPXZzUTALQ=">Thuốc tăng tốc độ</Text>
    <Text id="items.Bow" hash="oXlCIyEBKKWrSTSaHKXGf10xwvo=">Cung tên</Text>
    <Text id="items.Shuriken" hash="7tGqbd2FpzarkPwVumSSy3wrm6M=">Phi tiêu</Text>
-   <Text id="items.Whip" hash="2o7oVVTLXFmZ5g+halcv7AwDSwU=">Roi gai</Text>
+   <Text id="items.Whip" hash="2o7oVVTLXFmZ5g+halcv7AwDSwU=">Roi da</Text>
    <Text id="items.BouncingAmmo" hash="78Mzg4ltk97ULFquc77MhgP4jcw=">Đạn nảy</Text>
    <Text id="items.FireAmmo" hash="wDrG7KNF7L2G0Gz7xTSbrfDTh+A=">Đạn lửa</Text>
-   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Drone gắn súng</Text>
+   <Text id="items.Streetsweeper" hash="UR3hCKAvIBcFiPVAslNPBlHPGzg=">Máy bay ko người lái</Text>
    <Text id="equipment.layer.skin" hash=""></Text>
    <Text id="equipment.layer.chestUnder" hash="ZgIX7PasYRf+ZnQMmc3VM6OHKto=">Áo Trong</Text>
    <Text id="equipment.layer.waist" hash="BbUW1vYaFyPy45wfNUegKqsR+jM=">Thắt Lưng</Text>
@@ -1331,8 +1331,8 @@
    <Text id="mapEditor.scriptDialog.errorType.warning" hash="6cRVYzWOgT8Ve6gbMxQ1QhZbqE4=">Canh Bao</Text>
    <Text id="mapEditor.scriptDialog.errorRow" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorColumn" hash=""></Text>
-   <Text id="mapEditor.scriptDialog.compileResult.errors" hash="y/S3Ir8QEJvyNFWcBX/jgDP5LAQ=">Script co loi. Vui long sua lai loi va thu dich lai script.</Text>
-   <Text id="mapEditor.scriptDialog.compileResult.OK" hash="1KruPmjdC/1uWkNjB/l/l+nTU/g=">Da dich script thanh cong.</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.errors" hash="y/S3Ir8QEJvyNFWcBX/jgDP5LAQ=">Script có lỗi. Vui lòng xem lại.</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.OK" hash="1KruPmjdC/1uWkNjB/l/l+nTU/g=">Đã tải script thành công.</Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.title" hash=""></Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.resetToDefault" hash=""></Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.spawnChance" hash=""></Text>
