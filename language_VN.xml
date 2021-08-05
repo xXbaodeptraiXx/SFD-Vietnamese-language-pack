@@ -1219,7 +1219,7 @@
    <Text id="properties.pathNodeConnection.costMultiplier.description" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.description" hash=""></Text>
-   <Text id="properties.pathNodeConnection.pathNodeConnectionType.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Mac dinh</Text>
+   <Text id="properties.pathNodeConnection.pathNodeConnectionType.default" hash="gI19yop02Eryei1mAsPXht5F/h4=">Mặc định</Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.jump" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.dive" hash=""></Text>
    <Text id="properties.pathNodeConnection.pathNodeConnectionType.roll" hash=""></Text>
@@ -1265,7 +1265,7 @@
    <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Súng săn cưa nòng</Text>
    <Text id="items.Magnum" hash=""></Text>
    <Text id="items.Revolver" hash=""></Text>
-   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Súng bắn pháo</Text>
+   <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Súng pháo sáng</Text>
    <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Cờ lê</Text>
    <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Búa</Text>
    <Text id="items.Bazooka" hash=""></Text>
