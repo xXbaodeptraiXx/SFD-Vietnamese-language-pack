@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="0a90302f-0c36-4d0c-a1d2-69d240b802c4" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="b711ab22-ca62-40e1-a92d-6ab67bf4b3ff" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -37,7 +37,7 @@
    <Text id="menu.scoreboard.heading.mode" hash="3sUiJ5OXLNlhrYUxT+TjuO0lmhw=">THỂ LOẠI GAME:{0}</Text>
    <Text id="menu.scoreboard.heading.mode.survival.wave" hash="8ACupiIadkwbjY0KeBIENpwi9hI=">Chặng đường: {0}</Text>
    <Text id="menu.scoreboard.heading.mode.survival.totalScore" hash="O1nHllkfH+blE+61GSPqe4/13oE=">Tổng điểm: {0}</Text>
-   <Text id="menu.scoreboard.heading.nowPlaying" hash="xB6Lqy2M1UmNzEavUnuUwfpLPyw=">MAP: {0} ({1})</Text>
+   <Text id="menu.scoreboard.heading.nowPlaying" hash=""></Text>
    <Text id="menu.scoreboard.customMap" hash="L9W/VunakSYqeHKxgSk72KyNMoU=">Map custom</Text>
    <Text id="menu.scoreboard.officialMap" hash="N2NWTUHEF1zjJPt1E7EVPbyXBiE=">Map chính chủ</Text>
    <Text id="menu.scoreboard.mapRotation.nextRound" hash="viRchGeKPR3cEPt2WT/RspEYf/M=">Sẽ đổi map sau trận tiếp theo</Text>
@@ -46,7 +46,7 @@
    <Text id="menu.scoreboard.mapRotation.plural" hash="ngmV+gl9iWO01N9L/rcamFcKcew=">Đổi map: {0}, {1} trận.</Text>
    <Text id="menu.scoreboard.header.status" hash="uufVvnCCDtVkZ72aY3ROI7R71xE=">Trạng thái</Text>
    <Text id="menu.scoreboard.header.team" hash="IYiHJprVlG2dxTI4ZRyQRyiE+w8=">Đội</Text>
-   <Text id="menu.scoreboard.header.ping" hash=""></Text>
+   <Text id="menu.scoreboard.header.ping" hash="a2jpeXOZQRbYN9TedPKdd/iVwJc=">Độ Trễ</Text>
    <Text id="menu.scoreboard.header.wins" hash="tsAV0S4bWb14+yRpheN3MOOFIfg=">Thắng</Text>
    <Text id="menu.scoreboard.header.losses" hash="D5pITxOIheZUs6qu3Tkh5cjd4vo=">Thua</Text>
    <Text id="menu.scoreboard.totalgames" hash="iOQX9f/T2+EqdnBAEWdCKuS22lI=">Số trận</Text>
@@ -88,7 +88,7 @@
    <Text id="menu.settings.automaticPortForwarding" hash="NT207Z5HfNwyf7Wf6vUWnuzrvJ4=">MỞ CỔNG MẠNG</Text>
    <Text id="menu.settings.automaticPortForwarding.automatic" hash="FjvX2DewzaPBozp8txz65gssSBc=">Tự Động (UPnP)</Text>
    <Text id="menu.settings.automaticPortForwarding.manual" hash="ToNv3CVyqyPV3Iw2vWE6xrD4LWM=">Thủ Công</Text>
-   <Text id="menu.settings.automaticPortForwarding.tooltip" hash=""></Text>
+   <Text id="menu.settings.automaticPortForwarding.tooltip" hash="mNxEpC+kRGyPCD9BOkUQqKJIh1k=">Tự Động (UPnP) sẽ tự động mở cổng mạng khi tạo hoặc tham gia server nếu bộ định tuyến hỗ trợ NAT và UPnP. Tính năng này đòi hỏi UPnP phải được bật trên bộ định tuyến NAT và cổng được chọn chưa được sử dụng hoặc mở thủ công. Nếu UPnP không được bật thì tính năng này sẽ không hoạt động và bạn phải mở cổng mạng thủ công.</Text>
    <Text id="menu.settings.soundVolume" hash="wASFNdJOTbxwBKhmI0k54qLSYqc=">ÂM LƯỢNG ÂM THANH</Text>
    <Text id="menu.settings.musicVolume" hash="sEpfyemObZs6PFO6CLOy0myAiP8=">ÂM LƯỢNG NHẠC</Text>
    <Text id="menu.settings.ambientVolume" hash="3HgOnf7aVu7bstcobprW1HwqEnk=">ÂM LƯỢNG NỀN</Text>
@@ -110,14 +110,14 @@
    <Text id="menu.connecting.preparing" hash="lqm3zb5ADItEdW520Vi4XrM3CZU=">Đang chuẩn bị</Text>
    <Text id="menu.connecting.portForwarding.settingUp" hash="6IIRcIxdmAA3nmH7wXKBXeicK0M=">Đang mở cổng mạng</Text>
    <Text id="menu.connecting.portForwarding.OK" hash="QmZ4vtBkIFmKilRM2iQ+itA38jU=">Cổng mạng OK</Text>
-   <Text id="menu.connecting.portForwarding.failed" hash=""></Text>
+   <Text id="menu.connecting.portForwarding.failed" hash="jccEPrw18uE0S3QUJNuCMnpMoRY=">Không thể mở cổng mạng. Vấn đề có thể do UPnP đã bị tắt trên bộ định tuyến, cổng đã được sử dụng. Trong đa số trường hợp thì cổng mạng cần được thiết lập thủ công.</Text>
    <Text id="menu.connecting.portForwarding.failed.clientconnecting" hash="cg/oHJiTNckPvi03VrbAr7AaRxE=">Không thể mở cổng mạng</Text>
    <Text id="menu.connecting.progress" hash="3Kn29/hZLwKikMP0DB1yipdYZGo=">Đang kết nối ({0})</Text>
    <Text id="menu.connecting.contactingserverinfo" hash="R+CPtBFdfKX98bCTrx6ClpazJ70=">Có thể mất đến 10 giây.</Text>
    <Text id="menu.hostGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TẠO SERVER</Text>
-   <Text id="menu.hostGame.group.game" hash=""></Text>
+   <Text id="menu.hostGame.group.game" hash="4+goRsMlZ4EWFTePMCQBhYceCOU=">Server</Text>
    <Text id="menu.hostGame.group.serverStatus" hash="uDAYl1ksITZZZAgyJmW5s4nfUmA=">Trạng thái server</Text>
-   <Text id="menu.hostGame.group.cleanup" hash=""></Text>
+   <Text id="menu.hostGame.group.cleanup" hash="kDqrsiNMjmqmMemfmd0c6dmTcvo=">Quản lý người chơi</Text>
    <Text id="menu.hostGame.group.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="menu.hostGame.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">TÊN</Text>
    <Text id="menu.hostGame.name.tooltip" hash="ZNfErc0coFi/3vuSkifUc6XB7yg=">Tên để hiển thị trong danh sách server.</Text>
@@ -148,21 +148,21 @@
    <Text id="menu.hostGame.gamePublicity.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoại Tuyến</Text>
    <Text id="menu.hostGame.gamePublicity.public.tooltip" hash=""></Text>
    <Text id="menu.hostGame.gamePublicity.private.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.gamePublicity.offline.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.gamePublicity.offline.tooltip" hash="f5L6jOQxzvC62F8Y5WrW4wBQXOU=">Chơi không cần mạng, chỉ người chơi nội bộ mới có thể tham gia.</Text>
    <Text id="menu.hostGame.gamePublicity.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.gamePublicity.tooltipWhenOffline" hash=""></Text>
-   <Text id="menu.hostGame.dropInOrder" hash=""></Text>
-   <Text id="menu.hostGame.dropInOrder.openSlotsOnly" hash=""></Text>
-   <Text id="menu.hostGame.dropInOrder.openSlotsThenReplaceBots" hash=""></Text>
-   <Text id="menu.hostGame.dropInOrder.replaceBotsThenOpenSlots" hash=""></Text>
-   <Text id="menu.hostGame.dropInOrder.tooltip" hash=""></Text>
-   <Text id="menu.hostGame.accountValidation" hash=""></Text>
+   <Text id="menu.hostGame.gamePublicity.tooltipWhenOffline" hash="PWN0HKo2FbRW/luPFi89v8Kxcng=">Bạn phải ở chế độ trực tuyển để tạo server công khai.</Text>
+   <Text id="menu.hostGame.dropInOrder" hash="79QCl6Q9wFbBaMQ+0yM/hj1AhQc=">THỨ TỰ DROP-IN</Text>
+   <Text id="menu.hostGame.dropInOrder.openSlotsOnly" hash="Y00ZkbLNulvbyash2oE3tsg49WY=">Chỉ được vào slot trống</Text>
+   <Text id="menu.hostGame.dropInOrder.openSlotsThenReplaceBots" hash="wtHaA9gFQLvd9bVJQ4cEsv9DsiE=">Vào slot trống, thay thế bot</Text>
+   <Text id="menu.hostGame.dropInOrder.replaceBotsThenOpenSlots" hash="KmWmE0Wzip7rLrPHw7MSqGluYqE=">Thay thế bot, vào slot trống</Text>
+   <Text id="menu.hostGame.dropInOrder.tooltip" hash="k2ww+UaCDG0K2xqRlfdZNabWOSU=">Thứ tự tham gia drop-in của những người chơi tham gia server.</Text>
+   <Text id="menu.hostGame.accountValidation" hash="ea8LRvswpjEx96BEDaxzcK0OOOc=">XÁC MINH TÀI KHOẢN</Text>
    <Text id="menu.hostGame.accountValidation.tooltip" hash=""></Text>
    <Text id="menu.hostGame.accountValidation.disabled" hash="9PRHPfjLWfCjaa6+49FQmtwBUcY=">Tắt</Text>
    <Text id="menu.hostGame.accountValidation.showifavailable" hash=""></Text>
    <Text id="menu.hostGame.accountValidation.requireaccount" hash="qA17duzkvaN/gccHOsEkeD3aPa0=">Yêu cầu đăng nhập</Text>
-   <Text id="menu.hostGame.allowDropIn" hash=""></Text>
-   <Text id="menu.hostGame.allowDropIn.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.allowDropIn" hash="zE7mPsDtHOvjJRxXUGm4sBecWa8=">CHO PHÉO DROP-IN</Text>
+   <Text id="menu.hostGame.allowDropIn.tooltip" hash="Dj55vdn52pu5zMXqwA+DS/s4xLQ=">Cho phéo người chơi khác tham gia server của bạn sau khi đã bắt đầu trận đấu. Ngược lại, chỉ có thể tham gia qua sảnh chờ.</Text>
    <Text id="menu.hostGame.evenTeams" hash="XykPCcBhO+ErgGIan7b49Ww36jk=">CHIA ĐỀU ĐỘI</Text>
    <Text id="menu.hostGame.evenTeams.tooltip" hash="yTyxND4pJHg0BTKDk94nofcmAO8=">Giữ số người chơi mỗi đội đều nhất có thể.</Text>
    <Text id="menu.hostGame.createGame" hash="d7y7ETycYV1emeGgn3aVQBwvUVA=">TẠO SERVER</Text>
@@ -183,7 +183,7 @@
    <Text id="menu.hostGame.mapRotationInterval" hash=""></Text>
    <Text id="menu.hostGame.mapRotationInterval.tooltip" hash=""></Text>
    <Text id="menu.hostGame.mapRotationMapsCategory" hash="bC+XV6j7nvGJi4y8FcwJVOxQHc4=">DANH MỤC MAP</Text>
-   <Text id="menu.hostGame.mapRotationMapsCategory.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationMapsCategory.tooltip" hash="OgZjdn4tk5yi9yFOmq9UFA/2b0c=">Chọn thư mục/danh mục map bạn muốn chơi.</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.official.survival" hash="QqiIot5Y842kAFFcRzhaidlxLIY=">Sinh Tồn (Chính Chủ)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.official.versus" hash="zI+YzIdPFiVi19foU9oQsF4lONY=">Chiến Đấu (Chính Chủ)</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.official.campaign" hash="OYtJkWMV8OGSasQwk/z8Ems8qW4=">Cốt Truyện (Chính Chủ)</Text>
@@ -263,14 +263,14 @@
    <Text id="menu.browseGames.showAndFilterResult" hash=""></Text>
    <Text id="menu.browseGames.header.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Tên</Text>
    <Text id="menu.browseGames.header.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Người Chơi</Text>
-   <Text id="menu.browseGames.header.mode" hash=""></Text>
+   <Text id="menu.browseGames.header.mode" hash="p7k9ISjoIPhh/I38zZ9VIeia0h8=">Thể Loại</Text>
    <Text id="menu.browseGames.header.map" hash=""></Text>
    <Text id="menu.browseGames.header.ping" hash=""></Text>
    <Text id="menu.browseGames.joinPanel.playersTooltip" hash="InG/pZAulXg8G/e1P2cipha5IyI=">{0} người chơi, {1} bot</Text>
    <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash="4ZSo9/D1iqwnrm679WWTzHsP3pU=">Không thể tham gia server khác với 3 người chơi nội bộ trở lên.</Text>
-   <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Chưa gán</Text>
-   <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhấn nút -</Text>
-   <Text id="menu.keybinding.pressEscToUnbind" hash="y2QaAbkWeCcwZ/IwPYKNkk5tDaM=">Nhấn nút: Nhấn ESC để hủy. Giữ ESC để gỡ phím</Text>
+   <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Chưa Gán</Text>
+   <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhấn Nút -</Text>
+   <Text id="menu.keybinding.pressEscToUnbind" hash="y2QaAbkWeCcwZ/IwPYKNkk5tDaM=">Nhấn nút. Nhấn ESC để hủy. Giữ ESC để gỡ phím</Text>
    <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Đã đăng nhập dưới tên</Text>
    <Text id="menu.mainMenu.onlineAs" hash="Vqpl0M/rOnGD+CCkDak1xlIgAkM=">Trực tuyến dưới tên</Text>
    <Text id="menu.mainMenu.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoại tuyến</Text>
@@ -372,17 +372,17 @@
    <Text id="menu.escMenu.exitToMenu" hash="l2ys31gcnrFLRKtPJponrXzWlgE=">Quay lại menu chính</Text>
    <Text id="menu.escMenu.exitToMenu.confirm" hash="+t6fx4X1nRjFi7Ny2oG2TSGZMdE=">Thoát về menu chính?</Text>
    <Text id="menu.gameplayTipHeading" hash="NMApRQcoB9bfZEmEZ6Ygb3aoTSk=">MẸO</Text>
-   <Text id="menu.gameplayTip1" hash=""></Text>
-   <Text id="menu.gameplayTip2" hash=""></Text>
-   <Text id="menu.gameplayTip3" hash=""></Text>
-   <Text id="menu.gameplayTip4" hash=""></Text>
+   <Text id="menu.gameplayTip1" hash="WQaNtfm5792jaP5PFGr/8U2jJ3Q=">Một siêu chiến binh đã nói: &apos;Luôn luôn đẽ ý môi trường xung quanh.&apos;.</Text>
+   <Text id="menu.gameplayTip2" hash="aLbMurhKjxc7fUmoRymn2ZldW0w=">Khi đang bị cháy, lăn trên mặt đất để dập lửa. Bạn có thể phải cần làm như vậy nhiều lần.</Text>
+   <Text id="menu.gameplayTip3" hash="VrvOwMR2yKQKkj43m3ThGlqtlZE=">Luôn luôn để ý môi trường xung quanh. Có rất nhiều mối nguy hiểm trong mỗi map, hãy cố sử dụng chúng làm lợi thế của chính mình.</Text>
+   <Text id="menu.gameplayTip4" hash="fu+jBz8SsM2/G5bEsGSXLVehPNQ=">Bạn có thể bắn xuyên mảng mỏng, mái tôn và đa phần các vật thể nhỏ.</Text>
    <Text id="menu.gameplayTip5" hash=""></Text>
-   <Text id="menu.gameplayTip6" hash=""></Text>
-   <Text id="menu.gameplayTip7" hash=""></Text>
-   <Text id="menu.gameplayTip8" hash=""></Text>
+   <Text id="menu.gameplayTip6" hash="vyXddf+gnOQbA6wKuSrr90PY4Y4=">Những khẩu súng mạnh như Magnum và súng bắn tỉa có thể bắn nhiều vật thể yếu.</Text>
+   <Text id="menu.gameplayTip7" hash="5WvVoO2iJ32OW+6wA3O3tgU4Ppw=">Khi trượt xuống thang, bạn sẽ đẩy rơi những người đang leo thang bên dưới.</Text>
+   <Text id="menu.gameplayTip8" hash="PeApy+c61kjg6QayS5BDUFW6fv0=">Những đòn tấn công nhảy gây nhiêu sát thương hơn khi thực hiện trong lúc rơi xuống.</Text>
    <Text id="menu.gameplayTip9" hash=""></Text>
-   <Text id="menu.gameplayTip10" hash=""></Text>
-   <Text id="menu.gameplayTip11" hash=""></Text>
+   <Text id="menu.gameplayTip10" hash="uTf6Ls3vj9nq4/i532Ea3iDQ71E=">Đòn tấn công nhảy rất hữu dụng khi bạn muốn hất đối phương ra sau, nhưng bạn sẽ bị yếu thế trong giây lát sau khi đáp đất.</Text>
+   <Text id="menu.gameplayTip11" hash="zxlLxQXzsscGKLrxkc6X4J9I/s4=">Lăn hoặc phi để né đạn thỉnh thoảng sẽ có khả năng thất bại, nhưng bạn sẽ không né được một số loại đạn lớn như pháo sáng hay tên lửa.</Text>
    <Text id="menu.gameplayTip12" hash=""></Text>
    <Text id="menu.gameplayTip13" hash=""></Text>
    <Text id="menu.gameplayTip14" hash=""></Text>
@@ -398,17 +398,17 @@
    <Text id="menu.gameplayTip24" hash=""></Text>
    <Text id="menu.gameplayTip25" hash=""></Text>
    <Text id="menu.gameplayTip26" hash=""></Text>
-   <Text id="menu.gameplayTip27" hash="UfVtt8xTSwkzTW87N4hJfgGUZUg=">Ban co the chuyen qua lai nhung meo bang cach nhan + va -.</Text>
-   <Text id="menu.gameplayTip28" hash=""></Text>
-   <Text id="menu.gameplayTip29" hash=""></Text>
-   <Text id="menu.gameplayTip30" hash=""></Text>
-   <Text id="menu.gameplayTip31" hash=""></Text>
-   <Text id="menu.gameplayTip32" hash=""></Text>
-   <Text id="menu.gameplayTip33" hash=""></Text>
-   <Text id="menu.gameplayTip34" hash=""></Text>
-   <Text id="menu.gameplayTip35" hash=""></Text>
-   <Text id="menu.gameplayTip36" hash=""></Text>
-   <Text id="menu.gameplayTip37" hash=""></Text>
+   <Text id="menu.gameplayTip27" hash="UfVtt8xTSwkzTW87N4hJfgGUZUg=">Bạn có thể chuyển qua lại giữa những mẹo bằng cách nhấn + và -.</Text>
+   <Text id="menu.gameplayTip28" hash="Hdf9ia6HSZC9Zc+nB78w9kd8Of0=">Một quả lự đạn hoặc mìn sẽ có khả năng bị xì. Nhưng vẫn sẽ nổ nếu bị bắn.</Text>
+   <Text id="menu.gameplayTip29" hash="kAJ8pdylu2tAzst+o2W8aiUimDE=">Bạn có thể bỏ qua tin nhắn của người chơi khác bằng lệnh &apos;/ignore [tên người chơi]&apos;.</Text>
+   <Text id="menu.gameplayTip30" hash="jB15Rgs5518lomIYpkLjMQZcgwI=">Khi đang cầm một vật phẩm/vũ khí bất kỳ, nhấn [KEY=K_DROP] để kích hoạt chế độ ném. Bạn cũng có thể thả vũ khí xuống bằng cách giữ [KEY=K_DROP].</Text>
+   <Text id="menu.gameplayTip31" hash="ZmxzilECmdHkCrIQ+kIS610pFLs=">Khi bạn bắt lấy vũ khí được ném đi, bạn sẽ nắm được vũ khí đó nếu bạn có sẵn vũ khí chung loại.</Text>
+   <Text id="menu.gameplayTip32" hash="2OpjafWjpFA2dVpP9Mmo+O5TJgk=">Bạn có thể hủy ném vũ khí bằng cách nhấn nút cất vũ khí ([KEY=K_SHEATHE]). Tuy nhiên bạn không thể hủy ném những vũ khí phát nổ có chốt (lựu đạn, bom xăng hoặc mìn).</Text>
+   <Text id="menu.gameplayTip33" hash="qRv2QogFHesqjI/VEQR5meHV6qY=">Bạn có thể nắm xác chết bằng cách nhấn [KEY=K_GRAB] và giữ [KEY=K_AIM_CLIMB_DOWN]. .</Text>
+   <Text id="menu.gameplayTip34" hash="wBWEYhjDLuWj0ftsxqRaL8OsgNs=">Bị cháy thì không tệ lắm đâu, bạn sẽ chạy nhanh hơn.</Text>
+   <Text id="menu.gameplayTip35" hash="+Ru7CpNuA52zYyqbb/ZiCAD1jcs=">Kh đang cháy, trượt xuống thang sẽ giúp dập bắt lửa, nhưng bạn vẫn phải lăn để dập lửa hoàn toàn.</Text>
+   <Text id="menu.gameplayTip36" hash="GtBNiTow2AvxBNDXwAfmGBppcFo=">Khi bạn dùng thuốc tăng sức mạnh, bạn có thể sống sót sau khi đã hết máu, nhưng bạn sẽ chết khi thuốc hết tác dụng.</Text>
+   <Text id="menu.gameplayTip37" hash="BuT02rAV+TSvkGBwty5Z1CRDFBQ=">Nhấn giữ nút đi bộ ([KEY=K_WALK]) sẽ giúp bạn lăn và ngồi trên đỉnh của thang mà không trượt xuống.</Text>
    <Text id="statusText.getReady" hash="BoeWFumBb6F4Yw3bNzCYaXnybKo=">CHUẨN BỊ...</Text>
    <Text id="statusText.wave" hash=""></Text>
    <Text id="statusText.fight" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">CHIẾN ĐẤU!</Text>
@@ -474,16 +474,16 @@
    <Text id="loading.canceled" hash="LKNYNJxMv6rXInJKWGCzqRK5UPo=">Đã hủy tải</Text>
    <Text id="general.color" hash="HQyDBLrtz446eJgsLnwLBGIr8qA=">Màu</Text>
    <Text id="general.colors" hash="iNXkysEE/8PwLdVPLw8QdP0z/Zs=">Màu</Text>
-   <Text id="general.primary" hash="qaluwBlJTVuLBBwdJGgGGuZuNdU=">Chinh</Text>
-   <Text id="general.secondary" hash="Al3lmeoKYmLutOoHNBPic9Dqh1s=">Phu</Text>
-   <Text id="general.tertiary" hash="txCh+YIAsitTS/EmnF+iyE4bbYI=">Phu 2</Text>
-   <Text id="general.overwrite" hash=""></Text>
+   <Text id="general.primary" hash="qaluwBlJTVuLBBwdJGgGGuZuNdU=">Chính</Text>
+   <Text id="general.secondary" hash="Al3lmeoKYmLutOoHNBPic9Dqh1s=">Phụ</Text>
+   <Text id="general.tertiary" hash="txCh+YIAsitTS/EmnF+iyE4bbYI=">Phụ 2</Text>
+   <Text id="general.overwrite" hash="BiXFTgN+1GUesrWy4/PYed01Vs4=">Ghi đè</Text>
    <Text id="general.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Trợ giúp</Text>
-   <Text id="general.text" hash=""></Text>
-   <Text id="general.scale" hash=""></Text>
-   <Text id="general.left" hash="iuHDS9N/rUnMX44C2mSKeOicPtg=">Trai</Text>
-   <Text id="general.right" hash="lU2qiwAzXGbiYhBuAffcIrGaQ3I=">Phai</Text>
-   <Text id="general.playerX" hash="MVsfUs3/K9WXX5M/hmxmrAqE+Kw=">Nguoi Choi {0}</Text>
+   <Text id="general.text" hash="wzKMObDin3jp/0XbZ0JIsdJFiH0=">Chữ</Text>
+   <Text id="general.scale" hash="op8CVicuecqRocTmCPCaYmQ5fRI=">Kích Cỡ</Text>
+   <Text id="general.left" hash="iuHDS9N/rUnMX44C2mSKeOicPtg=">Trái</Text>
+   <Text id="general.right" hash="lU2qiwAzXGbiYhBuAffcIrGaQ3I=">Phải</Text>
+   <Text id="general.playerX" hash="MVsfUs3/K9WXX5M/hmxmrAqE+Kw=">Người chơi {0}</Text>
    <Text id="general.misc" hash="Xyy9EHA37SMkjlBYp6ZM1rrgVGg=">Hỗn Tạp</Text>
    <Text id="general.on" hash="4ASaZlGcrnEVmAC7d6NQB7wtdtM=">Bật</Text>
    <Text id="general.off" hash="495asMpMadvwDobSVYhD6NgGu0k=">Tắt</Text>
@@ -494,7 +494,7 @@
    <Text id="general.yes" hash="U5fgWD8U9siN4Gse8o9GCh+1sK4=">Có</Text>
    <Text id="general.no" hash="gWxS/SvdlKY80JRII6bAqpOEwQM=">Không</Text>
    <Text id="general.ready" hash="IMfFUi/CjFgXVQ3YK8MnLrapkcc=">Sẵn sàng</Text>
-   <Text id="general.empty" hash="MVn+QhsyITgbPHeNwcPCbkVAvjc=">Trong</Text>
+   <Text id="general.empty" hash="MVn+QhsyITgbPHeNwcPCbkVAvjc=">Trống</Text>
    <Text id="general.spectator" hash="TpIPqJcRcr3BySdEsTUs4YyA46A=">Người theo dõi trận đấu</Text>
    <Text id="general.user" hash="n4ojiaIMoHUqqelQk1FVF+kOGUw=">Người Dùng</Text>
    <Text id="general.bot" hash=""></Text>
@@ -503,8 +503,8 @@
    <Text id="general.appearance" hash="Qd73oP6+dB2ofFt5znjOJ7g/Ouc=">Ngoại Hình</Text>
    <Text id="general.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Xem Trước</Text>
    <Text id="general.information" hash="DrXtUG5JI8KNf0qKpp7+mbOtddE=">Thông Tin</Text>
-   <Text id="general.message" hash="aPQUX+593navzrkQFlkkrRTPDQA=">Tin Nhan</Text>
-   <Text id="general.time.minute" hash=""></Text>
+   <Text id="general.message" hash="aPQUX+593navzrkQFlkkrRTPDQA=">Tin Nhắn</Text>
+   <Text id="general.time.minute" hash="aw0xwNVjIjAk2kVpFYRkOseMlug=">ph</Text>
    <Text id="general.time.second" hash=""></Text>
    <Text id="general.gender" hash="inVMYcLO0MX/eaGCfgLJ1kPW2SY=">Giới Tính</Text>
    <Text id="general.gender.male" hash="PzpInHLeqADqe2M4yJk4dm1BpuU=">Nam</Text>
@@ -532,14 +532,14 @@
    <Text id="keyinput.keyboard" hash="ZmLEC6x4qP5eIyGbdwh/vnZHyxU=">Bàn Phím</Text>
    <Text id="keyinput.gamepad" hash="o2pf+m4Nz7ZPrBsrPW+xdt6Wid4=">Điều Khiển</Text>
    <Text id="keyinput.active" hash=""></Text>
-   <Text id="keyinput.bindingaction.invalidkey" hash=""></Text>
-   <Text id="keyinput.bindingaction.invalidcontroller" hash=""></Text>
+   <Text id="keyinput.bindingaction.invalidkey" hash="E3h7XE5vVQOI4vZ27lD8IcdbC/Y=">Hành động này không thể gán cho nút đã nhấn. Vui lòng dùng nút khác.</Text>
+   <Text id="keyinput.bindingaction.invalidcontroller" hash="ypsyKJgCxYElb2nkzRLSwzm/bq4=">Nút đã nhấn không phù hợp với loại đầu vào. Vui lòng chọn đúng loại đầu vào trước.</Text>
    <Text id="keyinput.reset" hash="ncQBIhm24ZB+6ZfShplWxNNaeNE=">ĐẶT LẠI ĐIỀU KHIỂN CỦA P{0}</Text>
    <Text id="keyinput.show" hash="hKhSdocsGNIH/jcbkRCxrYbTeCM=">HIỂN THỊ ĐIỀU KHIỂN CỦA P{0}</Text>
    <Text id="keyinput.reset.confirm" hash="sP56SwCGCWOJFsCJtMhsrjuu1r0=">Đặt lại điều khiển của người chơi thứ {0}?</Text>
    <Text id="key.UNBOUND" hash="6pS5lo5MFsPlw4PlWluBn7yggTw=">&lt;CHƯA GÁN&gt;</Text>
    <Text id="key.K_SHOW_CHAT" hash="Se0mkYzqft+Hei3bSbnZ2+ZJ9Yk=">HIỂN THỊ CHAT</Text>
-   <Text id="key.K_USE_CHAT" hash="JrxRuMJOlpCCJxt4L0Z/QJtwz7I=">CHAT</Text>
+   <Text id="key.K_USE_CHAT" hash=""></Text>
    <Text id="key.K_TOGGLE_CAMERA" hash="2XwP5AvePJT0YULW1RefY+mfIiU=">CHUYỂN ĐỔI CHẾ ĐỘ CAMERA</Text>
    <Text id="key.K_TOGGLE_GUI" hash="m03/MTExpINj93yO2DCZANQuLjE=">BẬT/TẮT GIAO DIỆN</Text>
    <Text id="key.K_TOGGLE_FULLSCREEN" hash="/RFitshLxojsNIYRzsX4XJajjV0=">BẬT/TẮT TOÀN MÀN HÌNH</Text>
@@ -1268,7 +1268,7 @@
    <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Súng pháo sáng</Text>
    <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Cờ lê</Text>
    <Text id="items.Hammer" hash="q3uOpH6t+TFGwBLnKl6mczIoU6o=">Búa</Text>
-   <Text id="items.Bazooka" hash=""></Text>
+   <Text id="items.Bazooka" hash="GmcVsXcRJNTdFp6Fa5aQb7cPH5A=">Súng phóng tên lửa</Text>
    <Text id="items.M60" hash="uXCHr7JkdEvZz9qA16nn3pi8ZWo=">Súng máy hạng nặng</Text>
    <Text id="items.Fire_Axe" hash="g5K0ojVUBQHrzy2lA1fgpyCiqWo=">Rìu</Text>
    <Text id="items.Katana" hash="kTMFsLDYWMyHoisWZC0qlpsM/4I=">Kiếm Katana</Text>
@@ -1286,7 +1286,7 @@
    <Text id="items.Teapot" hash="uh9Mu3wzSmXrolAJwMjF+qPBBk4=">Ấm trà</Text>
    <Text id="items.Trashcan_Lid" hash="VabZeElTjQPzvFbTAx3Pw+eYK/s=">Nắp thùng rác</Text>
    <Text id="items.Trash_Bag" hash="PO5yZPId8Ni4DEPxsqBB5YOR6nE=">Bọc rác</Text>
-   <Text id="items.C4" hash="qqAls4JlCYJ7dzp53eYSOLeEbAk=">C4</Text>
+   <Text id="items.C4" hash=""></Text>
    <Text id="items.C4Detonator" hash="8o/3qwKCYYJHT2hH+WiQXVIpwBk=">Điều khiển bom C4</Text>
    <Text id="items.Lead_Pipe" hash="yPJxkookWk555cW1+K+L79Gy0Yo=">Ống nước</Text>
    <Text id="items.Shock_Baton" hash="mfSVzmZ2KvkDtpGivlDz2kMaecg=">Dùi cui điện</Text>
@@ -1556,8 +1556,8 @@
    <Text id="error.IO.Create.SecurityException" hash=""></Text>
    <Text id="error.IO.Delete.UnauthorizedAccessException" hash=""></Text>
    <Text id="error.IO.Create.UnauthorizedAccessException" hash=""></Text>
-   <Text id="error.IO.Delete.Exception" hash=""></Text>
-   <Text id="error.IO.Create.Exception" hash=""></Text>
+   <Text id="error.IO.Delete.Exception" hash="9oYSwx7HW6CBA/KBW4u36Tr64Wo=">Không thể xóa tệp.</Text>
+   <Text id="error.IO.Create.Exception" hash="ZWn01S/UJl2C7/+Z7hNCV8fg4rU=">Không thể tạo tệp.</Text>
    <Text id="error.server.portinuse" hash="UhsRYl7upRicgdXTarBWRdqHkBY=">Cổng {0} đã được sử dụng.</Text>
    <Text id="error.mapEditor.IOTestFailed" hash=""></Text>
    <Text id="error.mapScript.scriptError" hash="OprVM6gLJPsn7wPP7ciUV4aDWa0=">Script có lỗi. Script này sẽ bị tắt.</Text>
