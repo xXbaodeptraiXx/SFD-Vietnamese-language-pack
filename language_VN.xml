@@ -1328,11 +1328,11 @@
    <Text id="mapEditor.scriptDialog.errorSource" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorType" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorType.error" hash=""></Text>
-   <Text id="mapEditor.scriptDialog.errorType.warning" hash="6cRVYzWOgT8Ve6gbMxQ1QhZbqE4=">Canh Bao</Text>
+   <Text id="mapEditor.scriptDialog.errorType.warning" hash="6cRVYzWOgT8Ve6gbMxQ1QhZbqE4=">Cảnh Báo</Text>
    <Text id="mapEditor.scriptDialog.errorRow" hash=""></Text>
    <Text id="mapEditor.scriptDialog.errorColumn" hash=""></Text>
-   <Text id="mapEditor.scriptDialog.compileResult.errors" hash="y/S3Ir8QEJvyNFWcBX/jgDP5LAQ=">Script có lỗi. Vui lòng xem lại.</Text>
-   <Text id="mapEditor.scriptDialog.compileResult.OK" hash="1KruPmjdC/1uWkNjB/l/l+nTU/g=">Đã tải script thành công.</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.errors" hash="y/S3Ir8QEJvyNFWcBX/jgDP5LAQ=">Script có lỗi. Script này sẽ bị tắt.</Text>
+   <Text id="mapEditor.scriptDialog.compileResult.OK" hash="1KruPmjdC/1uWkNjB/l/l+nTU/g=">Đã dịch script thành công.</Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.title" hash=""></Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.resetToDefault" hash=""></Text>
    <Text id="mapEditor.weaponSpawnChanceDialog.spawnChance" hash=""></Text>
