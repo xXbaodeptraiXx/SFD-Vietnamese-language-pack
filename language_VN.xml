@@ -311,7 +311,7 @@
    <Text id="dedicatedserver.menu.refresh" hash="VuO63E5sXMleDqWpqHi5vQnzGdQ=">Làm mới</Text>
    <Text id="dedicatedserver.menu.remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Loại bỏ</Text>
    <Text id="dedicatedserver.menu.changepassword" hash="SSidtD5mOj314scHFHIuzFSJVWU=">Đổi mật khẩu</Text>
-   <Text id="dedicatedserver.menu.changepassword.prompt" hash="qLEIkf41QekoFD9rSZSTLOgHcF0="Mật khẩu mới</Text>
+   <Text id="dedicatedserver.menu.changepassword.prompt" hash="qLEIkf41QekoFD9rSZSTLOgHcF0=">Mật khẩu mới</Text>
    <Text id="dedicatedserver.menu.kick" hash=""></Text>
    <Text id="dedicatedserver.menu.kick.confirm.title" hash="YpyaHOS3GvI1slI+yoN0GzRDXCI=">Xác nhận mời ra</Text>
    <Text id="dedicatedserver.menu.kick.confirm.question" hash="7C6GILm17U3BEfQXOQKZcjeqqlU=">Bạn có muốn kick những người chơi đã chọn?</Text>
