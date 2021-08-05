@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="0e93a562-492e-4d3f-aa6a-1de83454a8c4" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="36faf876-c736-4325-b207-a8a4c22682db" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -62,7 +62,7 @@
    <Text id="menu.settings.keyBindings" hash="/bEdVkf8Sh+9U5J7XB4rC7D8kpY=">ĐIỀU KHIỂN</Text>
    <Text id="menu.settings.keyBindings.tooltip" hash="u01YOopeJtthwtsEc3CPjvVAknc=">Tùy chỉnh điều khiển.</Text>
    <Text id="menu.settings.resolution" hash="Y34xM+quu9YACAngfRl/6+ySXEk=">ĐỘ PHÂN GIẢI</Text>
-   <Text id="menu.settings.hostPort" hash="EkplxLaSGOGcPDp5ZNl3Xcaxjj0=">CỔNG</Text>
+   <Text id="menu.settings.hostPort" hash="EkplxLaSGOGcPDp5ZNl3Xcaxjj0=">CỔNG MẠNG</Text>
    <Text id="menu.settings.hostPort.tooltip" hash="3FbkLCyOD3E2E7U6FQNTu21MQcg=">Cổng mạng được dùng khi tạo hoặc tham gia server. UDP và TCP phải được bật để mở cổng mạng. Nên dùng cổng mặc định (52233).</Text>
    <Text id="menu.settings.fullscreen" hash="PG6sPYC77N57INPHDu4ygTnMqEM=">CHẾ ĐỘ CỬA SỔ</Text>
    <Text id="menu.settings.fullscreen.exclusive" hash="uwjRCwCmEU9TrAO2Ys1cD6L63yw=">Toàn Màn Hình</Text>
@@ -264,8 +264,8 @@
    <Text id="menu.browseGames.header.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Tên</Text>
    <Text id="menu.browseGames.header.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Người Chơi</Text>
    <Text id="menu.browseGames.header.mode" hash="p7k9ISjoIPhh/I38zZ9VIeia0h8=">Thể Loại</Text>
-   <Text id="menu.browseGames.header.map" hash=""></Text>
-   <Text id="menu.browseGames.header.ping" hash=""></Text>
+   <Text id="menu.browseGames.header.map" hash="q0ePPvyEDuurkZ3/G5USKG9wwQw=">Map</Text>
+   <Text id="menu.browseGames.header.ping" hash="a2jpeXOZQRbYN9TedPKdd/iVwJc=">Ping</Text>
    <Text id="menu.browseGames.joinPanel.playersTooltip" hash="InG/pZAulXg8G/e1P2cipha5IyI=">{0} người chơi, {1} bot</Text>
    <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash="4ZSo9/D1iqwnrm679WWTzHsP3pU=">Không thể tham gia server khác với 3 người chơi nội bộ trở lên.</Text>
    <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Chưa Gán</Text>
