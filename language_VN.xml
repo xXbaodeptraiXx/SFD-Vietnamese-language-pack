@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="b711ab22-ca62-40e1-a92d-6ab67bf4b3ff" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="0e93a562-492e-4d3f-aa6a-1de83454a8c4" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -232,10 +232,10 @@
    <Text id="menu.lobby.startHostOnly" hash="ddLyyMXzxdEySLWLrTEb09vPAtw=">Chỉ có chủ server mới có thể bắt đầu trò chơi</Text>
    <Text id="menu.lobby.slot.closed" hash="iNhrdyHVh2ROnEzzOghCAss7D/A=">Đóng</Text>
    <Text id="menu.lobby.slot.open" hash="z5t3Bh97MSa0nVCm+mj3yowmt6M=">Mở</Text>
-   <Text id="menu.lobby.slot.bot.easy" hash="8u7Yb3o6IsOZ/HDbDsYZy0+5wPM=">Bot Dễ)</Text>
+   <Text id="menu.lobby.slot.bot.easy" hash="8u7Yb3o6IsOZ/HDbDsYZy0+5wPM=">Bot (Dễ)</Text>
    <Text id="menu.lobby.slot.bot.normal" hash="FKHW5k2gyeDnm74fMgCkUN8uazU=">Bot (Trung Bình)</Text>
-   <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">Bot Khó)</Text>
-   <Text id="menu.lobby.slot.bot.expert" hash="bF7iJVgCehgDQdNXyQ2sjrzPyqk=">Bot Rất Khó)</Text>
+   <Text id="menu.lobby.slot.bot.hard" hash="TzjuIgaaAs6aL2OlxV8/vIqt9nI=">Bot (Khó)</Text>
+   <Text id="menu.lobby.slot.bot.expert" hash="bF7iJVgCehgDQdNXyQ2sjrzPyqk=">Bot (Rất Khó)</Text>
    <Text id="menu.lobby.newPlayerJoined" hash="ynaBYw6d3uB2tLlugMIc1WnrsTQ=">&quot;{0}&quot; đã tham gia</Text>
    <Text id="menu.lobby.newPlayerJoined.toHost" hash="RQETpAV79K6H5KOvZup9XhE76Nw=">&quot;{0}&quot; đã tham gia (từ {1})</Text>
    <Text id="menu.lobby.newPlayerJoinedTeam" hash="IHfhzy6F6CvOPBolJoKZ1onRNR4=">&quot;{0}&quot; đã tham gia đội {1}</Text>
@@ -435,7 +435,7 @@
    <Text id="game.survival.liferemains.many" hash="UaoCCyl34s+yEt+BWifaITgKGwU=">Còn lại {0} lượt thử.</Text>
    <Text id="game.survival.noplayingusers" hash=""></Text>
    <Text id="game.warning.nobotpathgrid" hash="WMOXsx2BjYzc/6gyCZ4A9XQVb6A=">Canh Bao: Bot khong the di chuyen vi map nay thieu chi dan duong di cho bot.</Text>
-   <Text id="team.independent" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Riên Lẻ</Text>
+   <Text id="team.independent" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Riêng Lẻ</Text>
    <Text id="team.1" hash="WeBFib52t/XNjaoGDDtxYiOwJV0=">Đội 1</Text>
    <Text id="team.2" hash="YK/0A1vKB+RJNR6w8CFB/q353NU=">Đội 2</Text>
    <Text id="team.3" hash="pCFhQzti8NqmGjlUqz0nOSK/zns=">Đội 3</Text>
