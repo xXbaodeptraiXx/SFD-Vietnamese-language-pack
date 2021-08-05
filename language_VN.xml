@@ -52,7 +52,7 @@
    <Text id="menu.scoreboard.totalgames" hash="iOQX9f/T2+EqdnBAEWdCKuS22lI=">Số trận</Text>
    <Text id="menu.scoreboard.totalwins" hash="tsAV0S4bWb14+yRpheN3MOOFIfg=">Đã thắng</Text>
    <Text id="menu.scoreboard.totallosses" hash="D5pITxOIheZUs6qu3Tkh5cjd4vo=">Đã thua</Text>
-   <Text id="menu.scoreboard.winratio" hash="6V3Dpli9f+bSvMhkZr1x9gO4aOk=">Tỉ lệ thắng</Text>
+   <Text id="menu.scoreboard.winratio" hash="6V3Dpli9f+bSvMhkZr1x9gO4aOk=">lệ thắng</Text>
    <Text id="menu.scoreboard.accountName" hash="hd+jLJfYYY0b6gg2CeLIophFq+U=">Tài khoản</Text>
    <Text id="menu.scoreboard.accountSecondPlayer" hash="DKpVXqfxPo/rPBLR6ZuGgRTOfiI=">Người chơi thứ 2</Text>
    <Text id="menu.serverInfo" hash="YYu0uc80IwkOhbFN/qXSy8Q2pUc=">THÔNG TIN SERVER</Text>
