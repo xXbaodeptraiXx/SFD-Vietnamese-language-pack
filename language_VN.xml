@@ -291,33 +291,33 @@
    <Text id="menu.challengesPanel.tooltip.coopmedal" hash="OuEkJPyELNk6TjpXlGM1xo7RtlQ=">Đã nhận được huy chương bạc khi chơi ở chế độ phối hợp. Chơi đơn để nhận huy chương vàng!</Text>
    <Text id="menu.challengesPanel.progress" hash="laTTSyvUbdqvJzLlx29l4ot+QNE=">Đã hoàn thành {0}%</Text>
    <Text id="dedicatedserver.tab.chat" hash=""></Text>
-   <Text id="dedicatedserver.tab.hostOptions" hash="hpBoImB0sXGLeDsmXrE9Ycr84nE=">Tuy Chon Server</Text>
+   <Text id="dedicatedserver.tab.hostOptions" hash="hpBoImB0sXGLeDsmXrE9Ycr84nE=">Tùy chọn server</Text>
    <Text id="dedicatedserver.tab.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="dedicatedserver.tab.manageKickBans" hash=""></Text>
-   <Text id="dedicatedserver.tab.serverStatus" hash="/XCUIdImO1cOzGu1qKfNqwSKzNk=">Trang Thai Server</Text>
+   <Text id="dedicatedserver.tab.serverStatus" hash="/XCUIdImO1cOzGu1qKfNqwSKzNk=">Trạng thái Server</Text>
    <Text id="dedicatedserver.tab.gameSlots" hash=""></Text>
-   <Text id="dedicatedserver.tab.userStatus" hash="V/KxgdCl55oUfqHN9BRX9Y27s8k=">Nguoi Dung</Text>
+   <Text id="dedicatedserver.tab.userStatus" hash="V/KxgdCl55oUfqHN9BRX9Y27s8k=">Người dùng</Text>
    <Text id="dedicatedserver.tab.moderators" hash=""></Text>
    <Text id="dedicatedserver.tab.logs" hash=""></Text>
    <Text id="dedicatedserver.menu.server" hash=""></Text>
-   <Text id="dedicatedserver.menu.exit" hash="+Dtv466/E3ROhmAZVW2RKc16Vb4=">Thoat</Text>
+   <Text id="dedicatedserver.menu.exit" hash="+Dtv466/E3ROhmAZVW2RKc16Vb4=">Tắt Server</Text>
    <Text id="dedicatedserver.menu.stopServer.confirm.title" hash=""></Text>
    <Text id="dedicatedserver.menu.stopServer.confirm.question" hash=""></Text>
-   <Text id="dedicatedserver.menu.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Xem Truoc</Text>
-   <Text id="dedicatedserver.menu.preview.show" hash="2X0e4znk7quoyskdyjfItOyPVQE=">Hien Thi</Text>
-   <Text id="dedicatedserver.menu.preview.hide" hash="NNi2D+JTMve5hYXoLnU+r1AsPlA=">An</Text>
-   <Text id="dedicatedserver.menu.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Tro Giup</Text>
+   <Text id="dedicatedserver.menu.preview" hash="8fuytD3KKB0BOPT8ySVDrRQ+8LE=">Xem trước</Text>
+   <Text id="dedicatedserver.menu.preview.show" hash="2X0e4znk7quoyskdyjfItOyPVQE=">Hiển thị</Text>
+   <Text id="dedicatedserver.menu.preview.hide" hash="NNi2D+JTMve5hYXoLnU+r1AsPlA=">Ẩn</Text>
+   <Text id="dedicatedserver.menu.help" hash="xHrhU3DP4e0nge7cHcJUfRLZ6XI=">Trợ giúp</Text>
    <Text id="dedicatedserver.menu.toTray" hash=""></Text>
-   <Text id="dedicatedserver.menu.refresh" hash="VuO63E5sXMleDqWpqHi5vQnzGdQ=">Lam Moi</Text>
-   <Text id="dedicatedserver.menu.remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Loai Bo</Text>
-   <Text id="dedicatedserver.menu.changepassword" hash="SSidtD5mOj314scHFHIuzFSJVWU=">Doi Mat Khau</Text>
-   <Text id="dedicatedserver.menu.changepassword.prompt" hash="qLEIkf41QekoFD9rSZSTLOgHcF0=">Nhap mat khau moi</Text>
+   <Text id="dedicatedserver.menu.refresh" hash="VuO63E5sXMleDqWpqHi5vQnzGdQ=">Làm mới</Text>
+   <Text id="dedicatedserver.menu.remove" hash="6WOQfaxc1cAXhptMlsGAIcm9BYs=">Loại bỏ</Text>
+   <Text id="dedicatedserver.menu.changepassword" hash="SSidtD5mOj314scHFHIuzFSJVWU=">Đổi mật khẩu</Text>
+   <Text id="dedicatedserver.menu.changepassword.prompt" hash="qLEIkf41QekoFD9rSZSTLOgHcF0="Mật khẩu mới</Text>
    <Text id="dedicatedserver.menu.kick" hash=""></Text>
-   <Text id="dedicatedserver.menu.kick.confirm.title" hash="YpyaHOS3GvI1slI+yoN0GzRDXCI=">Xac nhan KICK</Text>
-   <Text id="dedicatedserver.menu.kick.confirm.question" hash="7C6GILm17U3BEfQXOQKZcjeqqlU=">Ban co chac muon kick nhung nguoi choi da chon?</Text>
-   <Text id="dedicatedserver.menu.ban" hash="v6G/v2wc2F89K09pao1XYf9ske4=">BAN</Text>
-   <Text id="dedicatedserver.menu.banByIP" hash="fDzRHPDPR5XHPSGNiQehJTU1h50=">Chi ban IP</Text>
-   <Text id="dedicatedserver.menu.ban.confirm.title" hash="TVgJ51CZXEqNVugGNU5Qa4fQ6xA=">Xac nhan BAN</Text>
+   <Text id="dedicatedserver.menu.kick.confirm.title" hash="YpyaHOS3GvI1slI+yoN0GzRDXCI=">Xác nhận mời ra</Text>
+   <Text id="dedicatedserver.menu.kick.confirm.question" hash="7C6GILm17U3BEfQXOQKZcjeqqlU=">Bạn có muốn kick những người chơi đã chọn?</Text>
+   <Text id="dedicatedserver.menu.ban" hash="v6G/v2wc2F89K09pao1XYf9ske4=">Cấm</Text>
+   <Text id="dedicatedserver.menu.banByIP" hash="fDzRHPDPR5XHPSGNiQehJTU1h50=">Chỉ cấm IP</Text>
+   <Text id="dedicatedserver.menu.ban.confirm.title" hash="TVgJ51CZXEqNVugGNU5Qa4fQ6xA=">Xác nhận Cấm</Text>
    <Text id="dedicatedserver.menu.ban.confirm.question" hash="fSpGop+MRivMm5GKXCbJ9yWnr00=">Ban co chac muon BANnhung nguoi choi da chon?</Text>
    <Text id="dedicatedserver.menu.gameslot.open" hash=""></Text>
    <Text id="dedicatedserver.menu.gameslot.close" hash=""></Text>
