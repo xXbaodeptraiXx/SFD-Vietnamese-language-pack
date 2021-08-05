@@ -121,7 +121,7 @@
    <Text id="menu.hostGame.group.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="menu.hostGame.name" hash="qdNxRRtpCayFEXEwuRU6lkmaNiw=">TÊN</Text>
    <Text id="menu.hostGame.name.tooltip" hash="ZNfErc0coFi/3vuSkifUc6XB7yg=">Tên để hiển thị trong danh sách server.</Text>
-   <Text id="menu.hostGame.gameMode" hash="7ClX4AB9eu7qtaHNFAAvpIrnxKM=">CHẾ ĐỘ SERVER</Text>
+   <Text id="menu.hostGame.gameMode" hash="7ClX4AB9eu7qtaHNFAAvpIrnxKM=">Chế độ chơi</Text>
    <Text id="menu.hostGame.description" hash="DO7L6p03JQhg4bMIbGHzJ4fn6Dc=">MIỂU TẢ</Text>
    <Text id="menu.hostGame.password" hash="ESu3kTBHkd3PaS4p/VzxSbNf6jc=">MẬT KHẨU</Text>
    <Text id="menu.hostGame.password.tooltip" hash="WjP/sysot+K56qelm0OlVXvbLFk=">Đặt mật khẩu cho server.</Text>
@@ -490,7 +490,7 @@
    <Text id="general.none" hash="bu9mSEBsMzpANc1eYNC/Ls8mBtc=">Không</Text>
    <Text id="general.low" hash="oSSUfL0tHZK0fgJydMMmn/DHqEs=">Thấp</Text>
    <Text id="general.high" hash="saWVSkg/j4sCBzhQlfdK60CbP4A=">Cao</Text>
-   <Text id="general.map" hash="q0ePPvyEDuurkZ3/G5USKG9wwQw="></Text>
+   <Text id="general.map" hash="q0ePPvyEDuurkZ3/G5USKG9wwQw=">Map</Text>
    <Text id="general.yes" hash="U5fgWD8U9siN4Gse8o9GCh+1sK4=">Có</Text>
    <Text id="general.no" hash="gWxS/SvdlKY80JRII6bAqpOEwQM=">Không</Text>
    <Text id="general.ready" hash="IMfFUi/CjFgXVQ3YK8MnLrapkcc=">Sẵn sàng</Text>
