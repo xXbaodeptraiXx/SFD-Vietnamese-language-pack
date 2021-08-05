@@ -282,7 +282,7 @@
    <Text id="menu.challengesPanel.tier" hash="W9ROvmPNO5RFynWflwUT14sophw=">Cấp Bậc</Text>
    <Text id="menu.challengesPanel.tier.value" hash="MNzYyrCw9ks6HdvUWEqz/bT2wx8=">Bậc {0}</Text>
    <Text id="menu.challengesPanel.tier.mixedauthors" hash="pUWZxg7y/ONx5S+3thUGrByX++o=">Khác {Nhiều tác giả}</Text>
-   <Text id="menu.challengesPanel.tier.byauthor" hash="HbUdt6BVO5LzAQ3CijCkc9lWYHE=">Bởi</Text>
+   <Text id="menu.challengesPanel.tier.byauthor" hash="HbUdt6BVO5LzAQ3CijCkc9lWYHE=">Bởi {0}</Text>
    <Text id="menu.challengesPanel.itemunlocked" hash="g+Rfwvwo/6magcN+iknoqlEE2nE=">Đã mở khóa vật phẩm mới: {0}</Text>
    <Text id="menu.challengesPanel.solochallengecompleted" hash="KpyIjbaNRHv9pvC16ewVmbohAMw=">Đã hoàn thành thử thách!</Text>
    <Text id="menu.challengesPanel.coopchallengecompleted" hash="ME9YKzEBjIRSqQazGTsbKABR2lk=">Đã hoàn thành thử thách! Chơi đơn để nhận huy chương vàng.</Text>
