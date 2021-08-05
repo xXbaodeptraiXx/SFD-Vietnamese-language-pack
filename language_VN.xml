@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="36faf876-c736-4325-b207-a8a4c22682db" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="85f17928-cd18-4452-bd2d-102605d2d54e" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -46,13 +46,13 @@
    <Text id="menu.scoreboard.mapRotation.plural" hash="ngmV+gl9iWO01N9L/rcamFcKcew=">Đổi map: {0}, {1} trận.</Text>
    <Text id="menu.scoreboard.header.status" hash="uufVvnCCDtVkZ72aY3ROI7R71xE=">Trạng thái</Text>
    <Text id="menu.scoreboard.header.team" hash="IYiHJprVlG2dxTI4ZRyQRyiE+w8=">Đội</Text>
-   <Text id="menu.scoreboard.header.ping" hash="a2jpeXOZQRbYN9TedPKdd/iVwJc=">Độ Trễ</Text>
+   <Text id="menu.scoreboard.header.ping" hash=""></Text>
    <Text id="menu.scoreboard.header.wins" hash="tsAV0S4bWb14+yRpheN3MOOFIfg=">Thắng</Text>
    <Text id="menu.scoreboard.header.losses" hash="D5pITxOIheZUs6qu3Tkh5cjd4vo=">Thua</Text>
    <Text id="menu.scoreboard.totalgames" hash="iOQX9f/T2+EqdnBAEWdCKuS22lI=">Số trận</Text>
    <Text id="menu.scoreboard.totalwins" hash="tsAV0S4bWb14+yRpheN3MOOFIfg=">Đã thắng</Text>
    <Text id="menu.scoreboard.totallosses" hash="D5pITxOIheZUs6qu3Tkh5cjd4vo=">Đã thua</Text>
-   <Text id="menu.scoreboard.winratio" hash="6V3Dpli9f+bSvMhkZr1x9gO4aOk=">lệ thắng</Text>
+   <Text id="menu.scoreboard.winratio" hash="6V3Dpli9f+bSvMhkZr1x9gO4aOk=">Tỉ lệ thắng</Text>
    <Text id="menu.scoreboard.accountName" hash="hd+jLJfYYY0b6gg2CeLIophFq+U=">Tài khoản</Text>
    <Text id="menu.scoreboard.accountSecondPlayer" hash="DKpVXqfxPo/rPBLR6ZuGgRTOfiI=">Người chơi thứ 2</Text>
    <Text id="menu.serverInfo" hash="YYu0uc80IwkOhbFN/qXSy8Q2pUc=">THÔNG TIN SERVER</Text>
