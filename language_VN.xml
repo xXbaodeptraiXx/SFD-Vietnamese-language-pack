@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="2b0e1edc-9614-4b01-a7ef-a460e9796b89" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="a6d4d3c3-0893-4c40-afc1-d8a3f5876015" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -286,12 +286,12 @@
    <Text id="menu.challengesPanel.itemunlocked" hash="g+Rfwvwo/6magcN+iknoqlEE2nE=">Đã mở khóa vật phẩm mới: {0}</Text>
    <Text id="menu.challengesPanel.solochallengecompleted" hash="KpyIjbaNRHv9pvC16ewVmbohAMw=">Đã hoàn thành thử thách!</Text>
    <Text id="menu.challengesPanel.coopchallengecompleted" hash="ME9YKzEBjIRSqQazGTsbKABR2lk=">Đã hoàn thành thử thách! Chơi đơn để nhận huy chương vàng.</Text>
-   <Text id="menu.challengesPanel.tooltip.tier" hash=""></Text>
+   <Text id="menu.challengesPanel.tooltip.tier" hash="WQH0IjCNshw/IIkDeCZBV9DN/30=">Chọn một thử thách để thách thức kỹ năng của bạn trong nhiều tình huống khác nhau.</Text>
    <Text id="menu.challengesPanel.tooltip.solomedal" hash="7OMIuyDe9XRy1+ADTwdXevIGZGo=">Đã nhận được huy chương vàng!!</Text>
    <Text id="menu.challengesPanel.tooltip.coopmedal" hash="OuEkJPyELNk6TjpXlGM1xo7RtlQ=">Đã nhận được huy chương bạc khi chơi ở chế độ phối hợp. Chơi đơn để nhận huy chương vàng!</Text>
    <Text id="menu.challengesPanel.progress" hash="laTTSyvUbdqvJzLlx29l4ot+QNE=">Đã hoàn thành {0}%</Text>
    <Text id="dedicatedserver.tab.chat" hash=""></Text>
-   <Text id="dedicatedserver.tab.hostOptions" hash="hpBoImB0sXGLeDsmXrE9Ycr84nE=">Tùy chọn server</Text>
+   <Text id="dedicatedserver.tab.hostOptions" hash="hpBoImB0sXGLeDsmXrE9Ycr84nE=">Tùy Chọn Server</Text>
    <Text id="dedicatedserver.tab.scripts" hash="OB4ymLK49srrIgi1fYBa2jhALws=">Script</Text>
    <Text id="dedicatedserver.tab.manageKickBans" hash=""></Text>
    <Text id="dedicatedserver.tab.serverStatus" hash="/XCUIdImO1cOzGu1qKfNqwSKzNk=">Trạng thái Server</Text>
@@ -372,31 +372,31 @@
    <Text id="menu.escMenu.exitToMenu" hash="l2ys31gcnrFLRKtPJponrXzWlgE=">Quay lại menu chính</Text>
    <Text id="menu.escMenu.exitToMenu.confirm" hash="+t6fx4X1nRjFi7Ny2oG2TSGZMdE=">Thoát về menu chính?</Text>
    <Text id="menu.gameplayTipHeading" hash="NMApRQcoB9bfZEmEZ6Ygb3aoTSk=">MẸO</Text>
-   <Text id="menu.gameplayTip1" hash="WQaNtfm5792jaP5PFGr/8U2jJ3Q=">&apos;Luôn luôn đẽ ý môi trường xung quanh.&apos;\n-Một siêu chiến binh đã nói.</Text>
+   <Text id="menu.gameplayTip1" hash="WQaNtfm5792jaP5PFGr/8U2jJ3Q=">&apos;Luôn luôn đẽ ý môi trường xung quanh.&apos;\n- Một siêu chiến binh đã nói.</Text>
    <Text id="menu.gameplayTip2" hash="aLbMurhKjxc7fUmoRymn2ZldW0w=">Khi đang bị cháy, lăn trên mặt đất để dập lửa. Bạn có thể phải cần làm như vậy nhiều lần.</Text>
    <Text id="menu.gameplayTip3" hash="VrvOwMR2yKQKkj43m3ThGlqtlZE=">Luôn luôn để ý môi trường xung quanh. Có rất nhiều mối nguy hiểm trong mỗi map, hãy cố sử dụng chúng làm lợi thế của chính mình.</Text>
    <Text id="menu.gameplayTip4" hash="fu+jBz8SsM2/G5bEsGSXLVehPNQ=">Bạn có thể bắn xuyên mảng mỏng, mái tôn và đa phần các vật thể nhỏ.</Text>
-   <Text id="menu.gameplayTip5" hash=""></Text>
+   <Text id="menu.gameplayTip5" hash="YXWxb4Xi24Fa1hSQTq9Tf4GLTck=">&apos;Một siêu chiến binh chẳng bao giờ phàn nàn, họ chiến đấu tốt hơn lần sau&apos;\n- Một siêu chiến binh đã nói.&apos;</Text>
    <Text id="menu.gameplayTip6" hash="vyXddf+gnOQbA6wKuSrr90PY4Y4=">Những khẩu súng mạnh như Magnum và súng bắn tỉa có thể bắn nhiều vật thể yếu.</Text>
    <Text id="menu.gameplayTip7" hash="5WvVoO2iJ32OW+6wA3O3tgU4Ppw=">Khi trượt xuống thang, bạn sẽ đẩy rơi những người đang leo thang bên dưới.</Text>
    <Text id="menu.gameplayTip8" hash="PeApy+c61kjg6QayS5BDUFW6fv0=">Những đòn tấn công nhảy gây nhiêu sát thương hơn khi thực hiện trong lúc rơi xuống.</Text>
-   <Text id="menu.gameplayTip9" hash=""></Text>
+   <Text id="menu.gameplayTip9" hash="Fd84OckKFz9aGnpal3drlqH9qNU=">&apos;Chẳng ai thương hại những kẻ tự thương hại cho mình.&apos;\n- Một siêu chiến binh đã nói.</Text>
    <Text id="menu.gameplayTip10" hash="uTf6Ls3vj9nq4/i532Ea3iDQ71E=">Đòn tấn công nhảy rất hữu dụng khi bạn muốn hất đối phương ra sau, nhưng bạn sẽ bị yếu thế trong giây lát sau khi đáp đất.</Text>
    <Text id="menu.gameplayTip11" hash="zxlLxQXzsscGKLrxkc6X4J9I/s4=">Lăn hoặc phi để né đạn thỉnh thoảng sẽ có khả năng thất bại, nhưng bạn sẽ không né được một số loại đạn lớn như pháo sáng hay tên lửa.</Text>
-   <Text id="menu.gameplayTip12" hash=""></Text>
-   <Text id="menu.gameplayTip13" hash=""></Text>
+   <Text id="menu.gameplayTip12" hash="gGA2i9yeE7IwetQrQLL1VYR8BBg=">Khi trực tiếp bị trúng bị tên lữa bazooka, dùng nút [KEY=K_AIM_RUN_LEFT] và [KEY=K_AIM_RUN_RIGHT] để điều khiển hướng bay.</Text>
+   <Text id="menu.gameplayTip13" hash="pYEiM99KwAfaZ+976mEwiD9HWV8=">&apos;Ngu thì chết.&apos;\n- Một siêu chiến binh đã nói.</Text>
    <Text id="menu.gameplayTip14" hash="nBYK3iCiOaXv61H8i2PcZZNDBBs=">Cho dù bạn rơi cao đến cỡ nào, bạn sẽ không nhận sát thương rơi khi phi.</Text>
-   <Text id="menu.gameplayTip15" hash=""></Text>
-   <Text id="menu.gameplayTip16" hash=""></Text>
-   <Text id="menu.gameplayTip17" hash=""></Text>
-   <Text id="menu.gameplayTip18" hash=""></Text>
-   <Text id="menu.gameplayTip19" hash=""></Text>
-   <Text id="menu.gameplayTip20" hash=""></Text>
-   <Text id="menu.gameplayTip21" hash=""></Text>
+   <Text id="menu.gameplayTip15" hash="p/1ZGjPycy56wjUY1YqkFuX2dao=">Những vật thể như ghế, chai và gậy bóng bàn có thể được sử dụng làm vũ khí tạm thời, bạn không thể cất những vú khí này và chúng sẽ bị gãy, hư sau vài lần đánh.</Text>
+   <Text id="menu.gameplayTip16" hash="APxXDreRGVc0q6VWShs85nYL+rI=">Khi bạn sử dụng thuốc làm chậm, bạn sẽ được di chuyển nhanh hơn những người khác.</Text>
+   <Text id="menu.gameplayTip17" hash="CULsgaZzdKkQn3ryLbGBmn4HL1A=">&apos;Không được cách này thì làm cách khác.&apos;\n- Một siêu chiến binh đã nói.</Text>
+   <Text id="menu.gameplayTip18" hash="jjO3xMPZiZbcouI45ru1dcr3wdc=">Dùng lửa và những vật phát nổ để khiến kẻ địch ra khỏi chỗ trốn.</Text>
+   <Text id="menu.gameplayTip19" hash="YY6gVqM5yHfW8byyqsTu6QwDA94=">Đôi khi rượt đuổi theo kẻ địch không phải là cách tốt nhất, phải biết khi nào nên tấn công và khi nào nên phòng thủ.</Text>
+   <Text id="menu.gameplayTip20" hash="wFvFYEzn+HRCAPixr+ntgKclQmQ=">Bạn có thể bắn xuyên đồng đội khi đang đứng sát họ.</Text>
+   <Text id="menu.gameplayTip21" hash="tLx4Z0AlSyh9nREbbaNjM9qP/cY=">&apos;Đừng nói nhiều khi đang chiến đấu.&apos;\n- Một siêu chiến binh đã nói.</Text>
    <Text id="menu.gameplayTip22" hash="yhiv3JccTiB03ExhhaMNKKz37P8=">Những đòn tấn công cận chiến có thể hất tung vũ khí của đối phương nếu họ đang rút vũ khí hoặc đang ngắm bắn.</Text>
-   <Text id="menu.gameplayTip23" hash=""></Text>
+   <Text id="menu.gameplayTip23" hash="PunZBFLC0Krzqe0TDHdIV8L0aHo=">Bạn có thể bắt lấy người khác bằng cách phi vào họ.</Text>
    <Text id="menu.gameplayTip24" hash="tQ/gzVj9DmUhRfELIswfIfJgG6I=">Vũ khí cận chiến giúp bạnh chặn đạn nếu canh đúng thời gian để đánh hoặc chặn. Vũ khí cận chiến bằng kim loại còn có thể phản lại viên đạn.</Text>
-   <Text id="menu.gameplayTip25" hash="h0t6bnRd5BH4ARfqsb3vClTgNaY=">&apos;Một trận chiến tốt là kết quả của chính nó&apos;\n-Một siêu chiến binh đã nói&apos;.</Text>
+   <Text id="menu.gameplayTip25" hash="h0t6bnRd5BH4ARfqsb3vClTgNaY=">&apos;Một trận chiến tốt là kết quả của chính nó&apos;\n- Một siêu chiến binh đã nói&apos;.</Text>
    <Text id="menu.gameplayTip26" hash="SDmkLlrkPuJ+t1Haxq14FXsAFfs=">Đừng làm hại đồng đội của bạn! Họ chỉ không bị ảnh hưởng bởi những đòn đánh cận chiến của bạn thôi!</Text>
    <Text id="menu.gameplayTip27" hash="UfVtt8xTSwkzTW87N4hJfgGUZUg=">Bạn có thể chuyển qua lại giữa những mẹo bằng cách nhấn + và -.</Text>
    <Text id="menu.gameplayTip28" hash="Hdf9ia6HSZC9Zc+nB78w9kd8Of0=">Một quả lự đạn hoặc mìn sẽ có khả năng bị xì. Nhưng vẫn sẽ nổ nếu bị bắn.</Text>
@@ -1302,7 +1302,7 @@ Thả [KEY=ATTACK] để ném</Text>
    <Text id="items.Baseball_Bat" hash="5nSjspLNowmI2gaYd6xo4gpyhLU=">Gậy bóng chày</Text>
    <Text id="items.Baton" hash="aBsOEiQL5w/2vGFZBFdV2LlcTHQ=">Dùi cui</Text>
    <Text id="items.Sawed-off_Shotgun" hash="7D+inWmpGeP0ZEfaNaGA48rDYmU=">Súng săn cưa nòng</Text>
-   <Text id="items.Magnum" hash=""></Text>
+   <Text id="items.Magnum" hash="wVZrJiUPdLGNQGEtXnnqy+bwARk=">Súng ngắn Magnum</Text>
    <Text id="items.Revolver" hash="mUKlKMUGCqmqrmaC1FtRsafLTQI=">Súng lục ổ xoay</Text>
    <Text id="items.Flare_Gun" hash="1i87ghbT7Pvh9Cvjlmpfbi/A1l4=">Súng pháo sáng</Text>
    <Text id="items.Pipe_Wrench" hash="+USh0S97ZkTdvCdqBLy8AJXsJm0=">Cờ lê</Text>
