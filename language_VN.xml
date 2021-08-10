@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="db9d2bbf-8844-42bc-af65-3fe7b8492159" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="99e5de82-7a71-43e8-8e30-7f25b33ea696" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -615,7 +615,10 @@ Bắc Carolina, Mỹ
 1976</Text>
    <Text id="tutorial.prompt.move" hash="FxgydllSTOhHk6zaomb/pEFosVU=">[KEY=AIM_RUN_LEFT] / [KEY=AIM_RUN_RIGHT] = Di chuyển</Text>
    <Text id="tutorial.prompt.jump" hash="FhkJ17jplyEx+b8mLNhIMpU3Spo=">[KEY=JUMP] = Nhảy</Text>
-   <Text id="tutorial.prompt.dropdown" hash="cJ8jRF1oN2qlYc8nQEuTO71jGlQ=">Giữ [KEY=CROUCH_ROLL_DIVE] để ngồi.</Text>
+   <Text id="tutorial.prompt.dropdown" hash="cJ8jRF1oN2qlYc8nQEuTO71jGlQ=">Giữ [KEY=CROUCH_ROLL_DIVE] để ngồi.
+Khi đang đứng yên:
+Nhấn nhanh 2 lần [KEY=CROUCH_ROLL_DIVE] =
+Nhảy xuống mảng mỏng.</Text>
    <Text id="tutorial.prompt.sprint" hash="CU6XBO7BJ15ZsENPMiGTMr5Bfas=">Giữ [KEY=SPRINT]
 hay nhấn 2 lần và giữ [KEY=AIM_RUN_LEFT] / [KEY=AIM_RUN_RIGHT]
 để chạy
