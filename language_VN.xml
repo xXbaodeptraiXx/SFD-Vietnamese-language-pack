@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="a6d4d3c3-0893-4c40-afc1-d8a3f5876015" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="31ee7cf8-f30e-4614-bd43-417a5c135698" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -180,8 +180,8 @@
    <Text id="menu.hostGame.mapRotationActive.vote.tooltip" hash="I5iFzbt6uGerqsQZxl87ccB51No=">Người chơi sẽ chọn map tiếp theo.</Text>
    <Text id="menu.hostGame.mapRotationActive.sequential.tooltip" hash="neypoUnrc4YqzFVRTlQGNI0JirY=">Map tiếp theo sẽ được chọn ngẫu nhiên, mọi map sẽ được chơi qua trước khi vòng lập lập lại.</Text>
    <Text id="menu.hostGame.mapRotationActive.random.tooltip" hash="iasALHtvAkHa0fcHNHBhwNBVWBg=">Map tiếp theo sẽ được chọn ngẫu nhiên.</Text>
-   <Text id="menu.hostGame.mapRotationInterval" hash=""></Text>
-   <Text id="menu.hostGame.mapRotationInterval.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.mapRotationInterval" hash="soA9k2fP1XjLEWrjqcNsv//+qWk=">THỜI GIAN CHUYỂN MAP</Text>
+   <Text id="menu.hostGame.mapRotationInterval.tooltip" hash="Wb6oLtZLGYKA+gkBqK3g7jXFCws=">Số trận giữa mỗi lần đổi map, chế độ sinh tồn và cốt truyện có thời gian chuyển map cố định là 1.</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory" hash="bC+XV6j7nvGJi4y8FcwJVOxQHc4=">DANH MỤC MAP</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.tooltip" hash="OgZjdn4tk5yi9yFOmq9UFA/2b0c=">Chọn thư mục/danh mục map bạn muốn chơi.</Text>
    <Text id="menu.hostGame.mapRotationMapsCategory.official.survival" hash="QqiIot5Y842kAFFcRzhaidlxLIY=">Sinh Tồn (Chính Chủ)</Text>
@@ -194,8 +194,8 @@
    <Text id="menu.hostGame.mapRotationMapsCategory.all" hash="YkTs8pOtvxweRARmwd2esNdIV7s=">Tất Cả Map</Text>
    <Text id="menu.hostGame.shuffleTeamsActive" hash="qzvzU0XA/dxcAv2/Kr6lN8u8WaQ=">XÁO ĐỘI</Text>
    <Text id="menu.hostGame.shuffleTeamsActive.tooltip" hash="yhWkrq5E/2lSbx8dJA2mVIXJxKg=">Tự động xáo trộn đội sau vài trận đấu</Text>
-   <Text id="menu.hostGame.shuffleTeamsInterval" hash=""></Text>
-   <Text id="menu.hostGame.shuffleTeamsInterval.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.shuffleTeamsInterval" hash="Jat9C9ORdipSsPbwupgePVCD/O8=">THỜI GIAN XÁO ĐỘI</Text>
+   <Text id="menu.hostGame.shuffleTeamsInterval.tooltip" hash="K5lEhd0sPQQyybkRqCzU9u1d9WM=">Số trận giữa mỗi lần xáo đội.</Text>
    <Text id="menu.hostGame.timeLimitActive" hash="JZboL3LQwaVDy8whnEmuTc9dd+Y=">GIỚI HẠN THỜI GIAN</Text>
    <Text id="menu.hostGame.timeLimitActive.tooltip" hash="n8pK/F/NpTcWaaP8n2hdi7NlL7c=">Cho phéo trận đấu kết thúc với kết quả hòa sau một khoảng thời gian nhất định.</Text>
    <Text id="menu.hostGame.timeLimit" hash="NmXKxGFfilNlLbKDua9Uk4B0syU=">THỜI GIAN TỐI ĐA</Text>
@@ -217,8 +217,8 @@
    <Text id="menu.hostGame.suddenDeath.tooltip" hash="VMiGBF+cM+IfpfiU8gqRBrTHLEU=">Đặt giới hạn thời gian thành {0} giây khi chỉ còn 2 người chơi còn sống và ngừng xuát hiện vũ khí.</Text>
    <Text id="menu.hostGame.autoRestartTime" hash="CnUDVXFYLqZC0Z5wXVZBNObqUA0=">Thời gian tự động khởi động lại</Text>
    <Text id="menu.hostGame.autoRestartTime.tooltip" hash="030P8d6BeDyYdMC2GwEedXFqxVs=">Khởi động lại server sau mỗi khoảng thời gian nhất định, khuyến khích nên khởi động lại server mỗi ngày.</Text>
-   <Text id="menu.hostGame.autoRestartMemory" hash=""></Text>
-   <Text id="menu.hostGame.autoRestartMemory.tooltip" hash=""></Text>
+   <Text id="menu.hostGame.autoRestartMemory" hash="JzBs2aFtsbukndB0mXHHbolHtnU=">Giới hạn sử dụng RAM (MB)</Text>
+   <Text id="menu.hostGame.autoRestartMemory.tooltip" hash="0Q3Ni997bemC08i63uRC+rGpRMw=">Khởi động lại server khi dung lượng RAM được sử dụng quá mức đã đặt (megabyte), giá trị tối thiểu là 300, mọi giá trị nhỏ hơn 300 sẽ bị bỏ qua.</Text>
    <Text id="menu.hostGame.waitingForPlayersToJoin" hash="3mKSSIQgCfNfUaHtAUnRpDChAo0=">Đang chờ người chơi tham gia</Text>
    <Text id="menu.lobby" hash="NxpRP8a4j6GR6Jmbw23yzTRSUeU=">SẢNH CHỜ</Text>
    <Text id="menu.lobby.start" hash="z7uHDcnxFEHAEyF61+qkReT3dZM=">BẮT ĐẦU</Text>
@@ -260,7 +260,7 @@
    <Text id="menu.browseGames.filter.notFull" hash="YZDe9fl+o6wYZvyF6l6p6Oqtcrc=">CHƯA ĐẦY</Text>
    <Text id="menu.browseGames.filter.noPassword" hash="6y07gCD3hWLdahYlyrzjzFVMs3I=">KHÔNG CÓ MẬT KHẨU</Text>
    <Text id="menu.browseGames.findResult" hash="IwJe3btFcXQN5DdDA4USKRosRRk=">Đã tìm thấy {0} server</Text>
-   <Text id="menu.browseGames.showAndFilterResult" hash=""></Text>
+   <Text id="menu.browseGames.showAndFilterResult" hash="2AssLTo79dbzha8wXK+cxOdepuE=">{0} được hiển thị, {1} được đã lọc</Text>
    <Text id="menu.browseGames.header.name" hash="cJojIg8sPWTR4dbRjE1SgPjYL8o=">Tên</Text>
    <Text id="menu.browseGames.header.players" hash="OS/u8HxTyaeydj0f0w+z8NaAmcw=">Người Chơi</Text>
    <Text id="menu.browseGames.header.mode" hash="p7k9ISjoIPhh/I38zZ9VIeia0h8=">Thể Loại</Text>
@@ -270,7 +270,7 @@
    <Text id="menu.browseGames.localMultiplayer.3plusCantJoin" hash="4ZSo9/D1iqwnrm679WWTzHsP3pU=">Không thể tham gia server khác với 3 người chơi nội bộ trở lên.</Text>
    <Text id="menu.keybinding.noKey" hash="RIGUg5KohGQAyVTnf1jXbNqnOWM=">Chưa Gán</Text>
    <Text id="menu.keybinding.pressKeyToBind" hash="k7mtzElTejMW41m359sKOV7C9B8=">- Nhấn Nút -</Text>
-   <Text id="menu.keybinding.pressEscToUnbind" hash="y2QaAbkWeCcwZ/IwPYKNkk5tDaM=">Nhấn nút. Nhấn ESC để hủy. Giữ ESC để gỡ phím</Text>
+   <Text id="menu.keybinding.pressEscToUnbind" hash="y2QaAbkWeCcwZ/IwPYKNkk5tDaM=">- Nhấn nút để gán -\nNhấn ESC để hủy\nGiữ ESC để gỡ phím</Text>
    <Text id="menu.mainMenu.loggedInAs" hash="s4e7a5V+XLou9qkEP/A5zYwS4+0=">Đã đăng nhập dưới tên</Text>
    <Text id="menu.mainMenu.onlineAs" hash="Vqpl0M/rOnGD+CCkDak1xlIgAkM=">Trực tuyến dưới tên</Text>
    <Text id="menu.mainMenu.offline" hash="4B+nF7rM+UVW824kIGgh9PniBH8=">Ngoại tuyến</Text>
@@ -520,7 +520,7 @@
    <Text id="connection.failed.afktime" hash="10SNJpg0EqKKU2JAqeoaEn0mr7U=">Bạn đã bị kick vì đứng yên một chỗ quá lâu.</Text>
    <Text id="connection.failed.slowLoading" hash="cdJgRyQEFkApdS9LEQnQ7OpcHuY=">Tải quá lâu hoặc đã thất bại</Text>
    <Text id="connection.failed.banned" hash="bvGBIz6kWj0tMWpFyJaO4EF/V9k=">Ban da bi BAN khoi server.</Text>
-   <Text id="connection.failed.notnegotiated" hash=""></Text>
+   <Text id="connection.failed.notnegotiated" hash="Oterc7bapFVyTojKtJ9PTyFDN9c=">Xác minh tài khoản đã thất bại, không thể kết nối.</Text>
    <Text id="connection.failed.serverBusyLoading" hash="nhvgxBh1QIsLv2vSEKXOULEw1sM=">Server hiện đang tải, vui lòng thử lại.</Text>
    <Text id="connection.failed.serverRefused" hash="+96lkRu3AroMbuG7pgZ0ExbmfWU=">Server đã từ chối kết nối.</Text>
    <Text id="connection.failed.serverRefusedInvalidPassword" hash="0vs4D/iB9AykRUuuETpGKrNRQiw=">Server đã từ chối kết nối, sai mật khẩu server.</Text>
@@ -574,7 +574,7 @@
    <Text id="key.K_SPRINT" hash="ho/1iEWtVWMdk3xrpjhYMt3TpR8=">CHẠY</Text>
    <Text id="key.K_WALK" hash="q+WeNk8ea6T7KPcXAOd4hGfRFe4=">ĐI BỘ</Text>
    <Text id="key.K_GRAB" hash="1Np97KRPcmwWY31a8EHQEQS3GAU=">NẮM CỔ</Text>
-   <Text id="key.K_START" hash=""></Text>
+   <Text id="key.K_START" hash="KtQyaz0b3gNg2jFB2xq0E1idZs0=">MENU/BẮT ĐẦU</Text>
    <Text id="key.K_AD_GRAB_ENABLED" hash="ZwLllZtonFhLqeGqj0N0fppbaZM=">ĐÁNH+CHẶN ĐỂ NẮM CỔ</Text>
    <Text id="key.K_DOUBLE_TAP_SPRINT_ENABLED" hash="UbEYdn3J45WmXiDXrwjVGxifkK8=">NHẮN TRÁI/PHẢI 2 LẦN ĐỂ CHẠY</Text>
    <Text id="key.xbox.A" hash=""></Text>
@@ -615,7 +615,7 @@ Bắc Carolina, Mỹ
 1976</Text>
    <Text id="tutorial.prompt.move" hash="FxgydllSTOhHk6zaomb/pEFosVU=">[KEY=AIM_RUN_LEFT] / [KEY=AIM_RUN_RIGHT] = Di chuyển</Text>
    <Text id="tutorial.prompt.jump" hash="FhkJ17jplyEx+b8mLNhIMpU3Spo=">[KEY=JUMP] = Nhảy</Text>
-   <Text id="tutorial.prompt.dropdown" hash=""></Text>
+   <Text id="tutorial.prompt.dropdown" hash="cJ8jRF1oN2qlYc8nQEuTO71jGlQ=">Giữ [KEY=CROUCH_ROLL_DIVE] để ngồi.</Text>
    <Text id="tutorial.prompt.sprint" hash="CU6XBO7BJ15ZsENPMiGTMr5Bfas=">Giữ [KEY=SPRINT]
 hay nhấn 2 lần và giữ [KEY=AIM_RUN_LEFT] / [KEY=AIM_RUN_RIGHT]
 để chạy
@@ -1582,19 +1582,19 @@ Thả [KEY=ATTACK] để ném</Text>
    <Text id="error.serverStartupTimeout" hash="mX/7UopimQx9SeTc5ztuE0A/CWo=">Server hết hạn.</Text>
    <Text id="error.failedToLoadMap" hash="fdCE2aPfXiDZng4mlvEwdjXgMAY=">Không thể tải map &apos;{0}&apos;.</Text>
    <Text id="error.failedToSaveMap" hash="xFtBsvnV1b3Ta9OxG9aq0hqx86U=">Không thể lưu map vào &apos;{0}&apos;.</Text>
-   <Text id="error.mapDoesntExist" hash=""></Text>
-   <Text id="error.mapIsNewer" hash=""></Text>
-   <Text id="error.mapIsEditLocked" hash=""></Text>
+   <Text id="error.mapDoesntExist" hash="GS54WRHhyW6DqOuzFDBJ46kNI9Y=">Không thể tìm thấy map &apos;{0}&apos;, có thể do map đã bị xóa hoặc dời đi.</Text>
+   <Text id="error.mapIsNewer" hash="wkDLvlxpX9cYKQL27WseqjTVeLA=">Map &apos;{0}&apos; đã được tạo từ một phiên bản mới hơn và không thể được mở trong phiên bản hiện tại.</Text>
+   <Text id="error.mapIsEditLocked" hash="MDrHz1/m2Og3nFLwqfW2TO95F6k=">Map &apos;{0}&apos; đã bị khóa bởi tác giả và không thể bị chỉnh sửa.</Text>
    <Text id="error.lostServerConnection" hash="TRhtBf6aNXsyeVy9PmlivET4fZk=">Đã mất kết nối đến server</Text>
    <Text id="error.onlineService.callFailed" hash="+Pjv455lmtJ3ewL64+nWikG/w9s=">Dịch vụ trực tuyến đã gặp vẫn đề, hãy đảm bảo game có thể kết nối đến {0}</Text>
    <Text id="error.onlineService.accountOffline" hash="yBW9KOX2UneJBzBjd2SF/YZn6iY=">Bạn cần ở chế độ trực tuyến để truy cập tính năng này.</Text>
    <Text id="error.chatMessageRejectedAsSpam" hash="+T31DD7CvfMyfZVPNu9xNwMp3uA=">Bạn đã gửi quá nhiều tin nhắn.</Text>
    <Text id="error.chatMessageDisabled" hash="Shz9ybdQzKazCNQsaFjCe5OBQd0=">Chat đã bị tắt.</Text>
    <Text id="error.modPassDenied" hash="I7IHCanZNQiZ8ZIMH64KH3dexdQ=">Mật khẩu quản trị viên không đúng hoặc bạn không phải là quản trị viên của server này.</Text>
-   <Text id="error.IO.Delete.SecurityException" hash=""></Text>
-   <Text id="error.IO.Create.SecurityException" hash=""></Text>
-   <Text id="error.IO.Delete.UnauthorizedAccessException" hash=""></Text>
-   <Text id="error.IO.Create.UnauthorizedAccessException" hash=""></Text>
+   <Text id="error.IO.Delete.SecurityException" hash="06ET4gdS/dok+wmfnpAV98yYywo=">Không thể xóa tệp, lỗi bảo mật.</Text>
+   <Text id="error.IO.Create.SecurityException" hash="u3813aja6lZINABvK7quHcr9uGk=">Không thể tạo tệp, lỗi bảo mật.</Text>
+   <Text id="error.IO.Delete.UnauthorizedAccessException" hash="vdfrXzt86CzCjW1Gyj9Af5Jxn5k=">Không thể xóa tệp, quyền truy cập chưa được cấp phép</Text>
+   <Text id="error.IO.Create.UnauthorizedAccessException" hash="3NPfPAVgx7mXJp7dZARsCn5ZnNg=">Không thể tạo tệp, quyền truy cập chưa được cấp phép</Text>
    <Text id="error.IO.Delete.Exception" hash="9oYSwx7HW6CBA/KBW4u36Tr64Wo=">Không thể xóa tệp.</Text>
    <Text id="error.IO.Create.Exception" hash="ZWn01S/UJl2C7/+Z7hNCV8fg4rU=">Không thể tạo tệp.</Text>
    <Text id="error.server.portinuse" hash="UhsRYl7upRicgdXTarBWRdqHkBY=">Cổng {0} đã được sử dụng.</Text>
@@ -1602,9 +1602,9 @@ Thả [KEY=ATTACK] để ném</Text>
    <Text id="error.mapScript.scriptError" hash="OprVM6gLJPsn7wPP7ciUV4aDWa0=">Script có lỗi. Script này sẽ bị tắt.</Text>
    <Text id="error.mapScript.createTempFileError.detailed" hash=""></Text>
    <Text id="error.mapScript.createTempFileError" hash=""></Text>
-   <Text id="error.mapScript.propertyGameNotice" hash=""></Text>
+   <Text id="error.mapScript.propertyGameNotice" hash="2FGb6/fSm2ctICH/DaYSd+tv3Jk=">Thuộc tính &apos;Game&apos; chỉ có thể được sử dụng trung hàm.</Text>
    <Text id="error.mapScript.scriptMethodNotFound" hash=""></Text>
    <Text id="error.mapScript.scriptMethodError" hash=""></Text>
-   <Text id="error.mapScript.scriptMethodSecurityError" hash=""></Text>
+   <Text id="error.mapScript.scriptMethodSecurityError" hash="oVw1JGR2te7P/k8aXPpTYJr+1O0=">Hàm &apos;{0}&apos; đã bị dừng do lỗi bảo mật ở script &apos;{1}&apos;</Text>
    <Text id="error.mapScript.mapScriptsDisabled" hash=""></Text>
 </Texts>
