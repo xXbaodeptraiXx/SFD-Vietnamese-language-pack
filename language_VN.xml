@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="31ee7cf8-f30e-4614-bd43-417a5c135698" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
+<Texts name="Tieng Viet" originalGuid="3d0f9399-746c-4b57-b23d-72e64cf71a13" lastSaveGuid="db9d2bbf-8844-42bc-af65-3fe7b8492159" publishId="" oh="" description="Goi ngon ngu Tieng Viet cho Superfighters Deluxe">
    <Text id="button.createGame" hash="IO8wH5v3BNilHgewWgKKfJy2hag=">Tạo Server</Text>
    <Text id="button.browseGames" hash="ENU9652zxFiEzYCUgLglZQvYP2g=">Tham Gia Server</Text>
    <Text id="button.connectToIP" hash="QveM88JTILMsJJaqhgj0UhFbh6o=">Kết nối IP</Text>
@@ -622,7 +622,7 @@ hay nhấn 2 lần và giữ [KEY=AIM_RUN_LEFT] / [KEY=AIM_RUN_RIGHT]
 [KEY=JUMP] = Nhảy</Text>
    <Text id="tutorial.prompt.ladder" hash="Ez80NhPSBUoab0c7ecejc1RX9Co=">[KEY=AIM_CLIMB_UP] = Leo lên
 [KEY=AIM_CLIMB_DOWN] = Trượt xuống
-[KEY=JUMP]  = Nhảy ra
+[KEY=KICK]  = Nhảy ra
 [KEY=ATTACK] = Nhảy ra
 [KEY=BLOCK]  = Buông tay</Text>
    <Text id="tutorial.prompt.use" hash="QfPEBmDt3brzFjUlzc4FZ/FUHe8=">[KEY=ACTIVATE] = Sử dụng</Text>
